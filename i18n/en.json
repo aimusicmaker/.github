@@ -99,5 +99,9 @@
     "Orange vinyl cover for the songwriting guide. Original editorial artwork with English lettering; not a product screenshot.",
     "Illustrated workflow: choose music → plan shots → generate → edit and export. English concept illustration, not a product screenshot or tested video result."
   ],
-  "image_zoom": "View full-size image ↗"
+  "image_zoom": "View full-size image ↗",
+  "view_switch": [
+    "Mobile version",
+    "Desktop version"
+  ]
 }

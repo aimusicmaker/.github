@@ -6,6 +6,8 @@
 
 <a href="https://musicmaker.im/id/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-0.svg" height="40" alt="Buat lagu"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-1.svg" height="40" alt="Jelajahi panduan"></a> <a href="https://musicmaker.im/id/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-2.svg" height="40" alt="Dengarkan musik"></a>
 
+<a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-mobile.svg" height="40" alt="Versi seluler"></a>
+
 [English](https://github.com/aimusicmaker/.github/blob/main/profile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/README_JA.md) · **Bahasa Indonesia** · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/README_KO.md) · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md) · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/README_AR.md)
 
 </div>
@@ -34,29 +36,10 @@ Lagu pop akustik yang hangat untuk perjalanan pulang dengan kereta yang tenang. 
 
 Lagu yang sudah jadi tidak memperlihatkan setiap keputusan di baliknya. Kami membagikan perintah, referensi sumber, dan latihan bertahap agar Anda dapat mempelajari pilihan tersebut, menerapkannya pada karya sendiri, serta membantu memperbaiki panduan. Repositori ini membagikan materi pembelajaran; layanan daring MusicMaker merupakan produk tersendiri.
 
-### ♫ Awesome Suno Creator Guide
-
-Untuk penulis lagu: jelajahi referensi resmi Suno, contoh untuk didengarkan, perintah, lirik orisinal, dan solusi praktis. Panduan ini disusun secara independen dan bukan dokumentasi resmi Suno.
-
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Sampul panduan penulisan lagu bergambar piringan hitam oranye. Ilustrasi editorial orisinal dengan teks bahasa Inggris, bukan tangkapan layar produk."></a>
-
-Sampul panduan penulisan lagu bergambar piringan hitam oranye. Ilustrasi editorial orisinal dengan teks bahasa Inggris, bukan tangkapan layar produk.
-
-[Lihat gambar ukuran penuh ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
-
-**[Buka panduan penulisan lagu →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md)**
-
-### ▶ Awesome Music Video Creator Guide
-
-Untuk kreator video: kembangkan lagu menjadi rencana pengambilan gambar dengan contoh bertautan sumber, perintah yang bisa disalin, dan latihan penyuntingan. Contoh karya kreator dan latihan yang baru ditulis diberi penanda terpisah.
-
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="Alur ilustratif: pilih musik → rencanakan adegan → buat visual → edit dan ekspor. Ilustrasi konsep berbahasa Inggris, bukan tangkapan layar produk atau hasil uji video."></a>
-
-Alur ilustratif: pilih musik → rencanakan adegan → buat visual → edit dan ekspor. Ilustrasi konsep berbahasa Inggris, bukan tangkapan layar produk atau hasil uji video.
-
-[Lihat gambar ukuran penuh ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
-
-**[Rencanakan video musik pertama Anda →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md)**
+<table><tr>
+<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>Untuk penulis lagu: jelajahi referensi resmi Suno, contoh untuk didengarkan, perintah, lirik orisinal, dan solusi praktis. Panduan ini disusun secara independen dan bukan dokumentasi resmi Suno.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="Sampul panduan penulisan lagu bergambar piringan hitam oranye. Ilustrasi editorial orisinal dengan teks bahasa Inggris, bukan tangkapan layar produk."></a><p>Sampul panduan penulisan lagu bergambar piringan hitam oranye. Ilustrasi editorial orisinal dengan teks bahasa Inggris, bukan tangkapan layar produk.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">Lihat gambar ukuran penuh ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md"><b>Buka panduan penulisan lagu →</b></a></td>
+<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>Untuk kreator video: kembangkan lagu menjadi rencana pengambilan gambar dengan contoh bertautan sumber, perintah yang bisa disalin, dan latihan penyuntingan. Contoh karya kreator dan latihan yang baru ditulis diberi penanda terpisah.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="Alur ilustratif: pilih musik → rencanakan adegan → buat visual → edit dan ekspor. Ilustrasi konsep berbahasa Inggris, bukan tangkapan layar produk atau hasil uji video."></a><p>Alur ilustratif: pilih musik → rencanakan adegan → buat visual → edit dan ekspor. Ilustrasi konsep berbahasa Inggris, bukan tangkapan layar produk atau hasil uji video.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">Lihat gambar ukuran penuh ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md"><b>Rencanakan video musik pertama Anda →</b></a></td>
+</tr></table>
 
 <a id="tools"></a>
 

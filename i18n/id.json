@@ -99,5 +99,9 @@
     "Sampul panduan penulisan lagu bergambar piringan hitam oranye. Ilustrasi editorial orisinal dengan teks bahasa Inggris, bukan tangkapan layar produk.",
     "Alur ilustratif: pilih musik → rencanakan adegan → buat visual → edit dan ekspor. Ilustrasi konsep berbahasa Inggris, bukan tangkapan layar produk atau hasil uji video."
   ],
-  "image_zoom": "Lihat gambar ukuran penuh ↗"
+  "image_zoom": "Lihat gambar ukuran penuh ↗",
+  "view_switch": [
+    "Versi seluler",
+    "Versi desktop"
+  ]
 }

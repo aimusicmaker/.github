@@ -8,6 +8,8 @@
 
 <a href="https://musicmaker.im/ar/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-0.svg" height="40" alt="أنشئ أغنية"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-1.svg" height="40" alt="استكشف الأدلة"></a> <a href="https://musicmaker.im/ar/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-2.svg" height="40" alt="استمع إلى الموسيقى"></a>
 
+<a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-mobile.svg" height="40" alt="نسخة الهاتف"></a>
+
 [English](https://github.com/aimusicmaker/.github/blob/main/profile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/README_JA.md) · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/README_KO.md) · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md) · **العربية**
 
 </div>
@@ -36,29 +38,10 @@
 
 لا تكشف الأغنية المكتملة كل القرارات التي أدت إليها. ننشر نصوص التوجيه والمراجع المصدرية وتمارين متدرجة لتدرس هذه الخيارات وتكيّفها مع أعمالك وتساعد في تحسين الأدلة. تشارك المستودعات مواد تعليمية؛ أما خدمة MusicMaker المتاحة عبر الإنترنت فهي منتج منفصل.
 
-### ♫ Awesome Suno Creator Guide
-
-لمؤلفي الأغاني: استكشف مراجع Suno الرسمية وأمثلة للاستماع ونصوص توجيه وكلمات أصلية وحلولًا عملية. هذا دليل أُعدّ بصورة مستقلة، وليس توثيقًا رسميًا من Suno.
-
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="غلاف دليل تأليف الأغاني بأسطوانة برتقالية. رسم تحريري أصلي بكتابة إنجليزية، وليس لقطة شاشة للمنتج."></a>
-
-غلاف دليل تأليف الأغاني بأسطوانة برتقالية. رسم تحريري أصلي بكتابة إنجليزية، وليس لقطة شاشة للمنتج.
-
-[عرض الصورة بالحجم الكامل ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
-
-**[افتح دليل تأليف الأغاني →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_AR.md)**
-
-### ▶ Awesome Music Video Creator Guide
-
-لصنّاع الفيديو: انتقل من الأغنية إلى خطة للقطات، مع أمثلة مرتبطة بمصادرها ونصوص توجيه قابلة للنسخ وتمارين للمونتاج. تُميَّز أمثلة المبدعين عن التمارين المكتوبة حديثًا.
-
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="رسم يوضح مراحل العمل: اختيار الموسيقى، ثم تخطيط اللقطات، ثم إنشاء المشاهد، ثم المونتاج والتصدير. رسم تصوّري بالإنجليزية، وليس لقطة شاشة للمنتج أو نتيجة اختبار فيديو."></a>
-
-رسم يوضح مراحل العمل: اختيار الموسيقى، ثم تخطيط اللقطات، ثم إنشاء المشاهد، ثم المونتاج والتصدير. رسم تصوّري بالإنجليزية، وليس لقطة شاشة للمنتج أو نتيجة اختبار فيديو.
-
-[عرض الصورة بالحجم الكامل ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
-
-**[خطّط لأول فيديو موسيقي لك →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_AR.md)**
+<table><tr>
+<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>لمؤلفي الأغاني: استكشف مراجع Suno الرسمية وأمثلة للاستماع ونصوص توجيه وكلمات أصلية وحلولًا عملية. هذا دليل أُعدّ بصورة مستقلة، وليس توثيقًا رسميًا من Suno.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="غلاف دليل تأليف الأغاني بأسطوانة برتقالية. رسم تحريري أصلي بكتابة إنجليزية، وليس لقطة شاشة للمنتج."></a><p>غلاف دليل تأليف الأغاني بأسطوانة برتقالية. رسم تحريري أصلي بكتابة إنجليزية، وليس لقطة شاشة للمنتج.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">عرض الصورة بالحجم الكامل ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_AR.md"><b>افتح دليل تأليف الأغاني →</b></a></td>
+<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>لصنّاع الفيديو: انتقل من الأغنية إلى خطة للقطات، مع أمثلة مرتبطة بمصادرها ونصوص توجيه قابلة للنسخ وتمارين للمونتاج. تُميَّز أمثلة المبدعين عن التمارين المكتوبة حديثًا.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="رسم يوضح مراحل العمل: اختيار الموسيقى، ثم تخطيط اللقطات، ثم إنشاء المشاهد، ثم المونتاج والتصدير. رسم تصوّري بالإنجليزية، وليس لقطة شاشة للمنتج أو نتيجة اختبار فيديو."></a><p>رسم يوضح مراحل العمل: اختيار الموسيقى، ثم تخطيط اللقطات، ثم إنشاء المشاهد، ثم المونتاج والتصدير. رسم تصوّري بالإنجليزية، وليس لقطة شاشة للمنتج أو نتيجة اختبار فيديو.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">عرض الصورة بالحجم الكامل ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_AR.md"><b>خطّط لأول فيديو موسيقي لك →</b></a></td>
+</tr></table>
 
 <a id="tools"></a>
 

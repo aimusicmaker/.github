@@ -6,6 +6,8 @@
 
 <a href="https://musicmaker.im/th/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-0.svg" height="40" alt="สร้างเพลง"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-1.svg" height="40" alt="ดูคู่มือ"></a> <a href="https://musicmaker.im/th/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-2.svg" height="40" alt="ฟังเพลง"></a>
 
+<a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-mobile.svg" height="40" alt="เวอร์ชันมือถือ"></a>
+
 [English](https://github.com/aimusicmaker/.github/blob/main/profile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/README_JA.md) · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/README_KO.md) · **ไทย** · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md) · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/README_AR.md)
 
 </div>
@@ -34,29 +36,10 @@ MusicMaker รวมการสร้างเพลง การเขีย�
 
 เพลงที่เสร็จแล้วไม่ได้แสดงทุกการตัดสินใจระหว่างการสร้าง เราจึงเผยแพร่คำสั่ง แหล่งอ้างอิง และแบบฝึกหัดทีละขั้น เพื่อให้คุณศึกษาทางเลือกเหล่านั้น นำไปปรับใช้กับผลงานของตนเอง และช่วยพัฒนาคู่มือ คลังโค้ดเหล่านี้ใช้แบ่งปันสื่อการเรียนรู้ ส่วนบริการ MusicMaker บนเว็บไซต์เป็นผลิตภัณฑ์อีกส่วนหนึ่ง
 
-### ♫ Awesome Suno Creator Guide
-
-สำหรับนักแต่งเพลง: สำรวจแหล่งอ้างอิงอย่างเป็นทางการของ Suno ตัวอย่างให้ฟัง คำสั่ง เนื้อเพลงที่แต่งขึ้นเอง และแนวทางแก้ปัญหาที่ใช้ได้จริง คู่มือนี้รวบรวมและเรียบเรียงอย่างอิสระ ไม่ใช่เอกสารอย่างเป็นทางการของ Suno
-
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="ภาพปกคู่มือแต่งเพลงเป็นแผ่นเสียงสีส้ม ภาพประกอบต้นฉบับสำหรับเนื้อหามีข้อความภาษาอังกฤษ ไม่ใช่ภาพหน้าจอผลิตภัณฑ์"></a>
-
-ภาพปกคู่มือแต่งเพลงเป็นแผ่นเสียงสีส้ม ภาพประกอบต้นฉบับสำหรับเนื้อหามีข้อความภาษาอังกฤษ ไม่ใช่ภาพหน้าจอผลิตภัณฑ์
-
-[ดูภาพขนาดเต็ม ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
-
-**[เปิดคู่มือแต่งเพลง →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TH.md)**
-
-### ▶ Awesome Music Video Creator Guide
-
-สำหรับผู้สร้างวิดีโอ: เปลี่ยนเพลงเป็นแผนช็อตด้วยตัวอย่างที่มีลิงก์แหล่งที่มา คำสั่งที่คัดลอกได้ และแบบฝึกตัดต่อ ตัวอย่างจากผู้สร้างและแบบฝึกหัดที่เขียนขึ้นใหม่มีการระบุแยกกัน
-
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="ภาพอธิบายขั้นตอน: เลือกเพลง → วางแผนช็อต → สร้างภาพ → ตัดต่อและส่งออก เป็นภาพแนวคิดพร้อมข้อความภาษาอังกฤษ ไม่ใช่ภาพหน้าจอผลิตภัณฑ์หรือผลการทดสอบสร้างวิดีโอ"></a>
-
-ภาพอธิบายขั้นตอน: เลือกเพลง → วางแผนช็อต → สร้างภาพ → ตัดต่อและส่งออก เป็นภาพแนวคิดพร้อมข้อความภาษาอังกฤษ ไม่ใช่ภาพหน้าจอผลิตภัณฑ์หรือผลการทดสอบสร้างวิดีโอ
-
-[ดูภาพขนาดเต็ม ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
-
-**[วางแผนมิวสิกวิดีโอแรกของคุณ →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TH.md)**
+<table><tr>
+<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>สำหรับนักแต่งเพลง: สำรวจแหล่งอ้างอิงอย่างเป็นทางการของ Suno ตัวอย่างให้ฟัง คำสั่ง เนื้อเพลงที่แต่งขึ้นเอง และแนวทางแก้ปัญหาที่ใช้ได้จริง คู่มือนี้รวบรวมและเรียบเรียงอย่างอิสระ ไม่ใช่เอกสารอย่างเป็นทางการของ Suno</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="ภาพปกคู่มือแต่งเพลงเป็นแผ่นเสียงสีส้ม ภาพประกอบต้นฉบับสำหรับเนื้อหามีข้อความภาษาอังกฤษ ไม่ใช่ภาพหน้าจอผลิตภัณฑ์"></a><p>ภาพปกคู่มือแต่งเพลงเป็นแผ่นเสียงสีส้ม ภาพประกอบต้นฉบับสำหรับเนื้อหามีข้อความภาษาอังกฤษ ไม่ใช่ภาพหน้าจอผลิตภัณฑ์</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">ดูภาพขนาดเต็ม ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TH.md"><b>เปิดคู่มือแต่งเพลง →</b></a></td>
+<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>สำหรับผู้สร้างวิดีโอ: เปลี่ยนเพลงเป็นแผนช็อตด้วยตัวอย่างที่มีลิงก์แหล่งที่มา คำสั่งที่คัดลอกได้ และแบบฝึกตัดต่อ ตัวอย่างจากผู้สร้างและแบบฝึกหัดที่เขียนขึ้นใหม่มีการระบุแยกกัน</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="ภาพอธิบายขั้นตอน: เลือกเพลง → วางแผนช็อต → สร้างภาพ → ตัดต่อและส่งออก เป็นภาพแนวคิดพร้อมข้อความภาษาอังกฤษ ไม่ใช่ภาพหน้าจอผลิตภัณฑ์หรือผลการทดสอบสร้างวิดีโอ"></a><p>ภาพอธิบายขั้นตอน: เลือกเพลง → วางแผนช็อต → สร้างภาพ → ตัดต่อและส่งออก เป็นภาพแนวคิดพร้อมข้อความภาษาอังกฤษ ไม่ใช่ภาพหน้าจอผลิตภัณฑ์หรือผลการทดสอบสร้างวิดีโอ</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">ดูภาพขนาดเต็ม ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TH.md"><b>วางแผนมิวสิกวิดีโอแรกของคุณ →</b></a></td>
+</tr></table>
 
 <a id="tools"></a>
 

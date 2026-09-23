@@ -99,5 +99,9 @@
     "Capa do guia de composição com um disco de vinil laranja. Ilustração editorial original com texto em inglês; não é uma captura de tela do produto.",
     "Fluxo ilustrado: escolha a música → planeje as cenas → gere as imagens → edite e exporte. Ilustração conceitual em inglês, não uma captura de tela do produto nem o resultado de um teste de vídeo."
   ],
-  "image_zoom": "Ver imagem em tamanho original ↗"
+  "image_zoom": "Ver imagem em tamanho original ↗",
+  "view_switch": [
+    "Versão para celular",
+    "Versão para computador"
+  ]
 }

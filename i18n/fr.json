@@ -99,5 +99,9 @@
     "Couverture du guide de composition avec un disque vinyle orange. Illustration éditoriale originale avec du texte en anglais, et non une capture d’écran du produit.",
     "Parcours illustré : choisir la musique → préparer les plans → générer les images → monter et exporter. Illustration conceptuelle en anglais, et non une capture du produit ou le résultat d’un test vidéo."
   ],
-  "image_zoom": "Voir l’image en taille réelle ↗"
+  "image_zoom": "Voir l’image en taille réelle ↗",
+  "view_switch": [
+    "Version mobile",
+    "Version ordinateur"
+  ]
 }

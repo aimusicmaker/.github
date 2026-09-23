@@ -99,5 +99,9 @@
     "Copertina della guida alla composizione con un disco arancione. Illustrazione editoriale originale con testo in inglese, non una schermata del prodotto.",
     "Flusso illustrato: scegli la musica → pianifica le inquadrature → genera le immagini → monta ed esporta. Illustrazione concettuale in inglese, non una schermata del prodotto né il risultato di un test video."
   ],
-  "image_zoom": "Visualizza immagine originale ↗"
+  "image_zoom": "Visualizza immagine originale ↗",
+  "view_switch": [
+    "Versione mobile",
+    "Versione desktop"
+  ]
 }

@@ -99,5 +99,9 @@
     "Portada de la guía de composición con un disco de vinilo naranja. Ilustración editorial original con texto en inglés; no es una captura de pantalla del producto.",
     "Proceso ilustrado: elegir música → planificar planos → generar imágenes → editar y exportar. Ilustración conceptual en inglés, no una captura del producto ni el resultado de una prueba de vídeo."
   ],
-  "image_zoom": "Ver imagen a tamaño completo ↗"
+  "image_zoom": "Ver imagen a tamaño completo ↗",
+  "view_switch": [
+    "Versión móvil",
+    "Versión de escritorio"
+  ]
 }

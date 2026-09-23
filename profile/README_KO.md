@@ -6,6 +6,8 @@
 
 <a href="https://musicmaker.im/ko/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-0.svg" height="40" alt="노래 만들기"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-1.svg" height="40" alt="가이드 둘러보기"></a> <a href="https://musicmaker.im/ko/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-2.svg" height="40" alt="음악 듣기"></a>
 
+<a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-mobile.svg" height="40" alt="모바일 버전"></a>
+
 [English](https://github.com/aimusicmaker/.github/blob/main/profile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/README_JA.md) · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_TW.md) · **한국어** · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md) · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/README_AR.md)
 
 </div>
@@ -34,29 +36,10 @@ MusicMaker는 노래 생성, 작사, 오디오 도구, 음악 영상 제작을 �
 
 완성된 곡만으로는 제작 과정의 모든 선택을 알 수 없습니다. 그래서 프롬프트, 참고 출처, 단계별 연습 과제를 공개합니다. 각 선택을 살펴보고 자신의 작업에 적용하며 가이드 개선에도 참여할 수 있습니다. 저장소는 학습 자료를 공유하는 곳이며, 온라인 MusicMaker 서비스는 별도의 제품입니다.
 
-### ♫ Awesome Suno Creator Guide
-
-작곡·작사를 하는 분께: Suno 공식 참고 자료, 감상 예시, 프롬프트, 직접 쓴 가사, 실용적인 문제 해결 방법을 살펴보세요. 독립적으로 편집한 가이드이며 Suno 공식 문서가 아닙니다.
-
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="주황색 레코드를 그린 작곡 가이드 표지입니다. 영어 문구가 들어간 독창적인 편집용 삽화이며 제품 화면 캡처가 아닙니다."></a>
-
-주황색 레코드를 그린 작곡 가이드 표지입니다. 영어 문구가 들어간 독창적인 편집용 삽화이며 제품 화면 캡처가 아닙니다.
-
-[원본 이미지 보기 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
-
-**[작곡·작사 가이드 열기 →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md)**
-
-### ▶ Awesome Music Video Creator Guide
-
-영상 제작자께: 출처가 연결된 예시, 복사 가능한 프롬프트, 편집 연습을 통해 곡을 장면 계획으로 발전시켜 보세요. 창작자의 예시와 새로 작성한 연습 과제는 구분해 표시합니다.
-
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="제작 흐름: 음악 선택 → 장면 계획 → 영상 생성 → 편집 및 내보내기. 영어로 된 개념 삽화이며 제품 화면 캡처나 실제 영상 생성 테스트 결과가 아닙니다."></a>
-
-제작 흐름: 음악 선택 → 장면 계획 → 영상 생성 → 편집 및 내보내기. 영어로 된 개념 삽화이며 제품 화면 캡처나 실제 영상 생성 테스트 결과가 아닙니다.
-
-[원본 이미지 보기 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
-
-**[첫 뮤직비디오 계획하기 →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md)**
+<table><tr>
+<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>작곡·작사를 하는 분께: Suno 공식 참고 자료, 감상 예시, 프롬프트, 직접 쓴 가사, 실용적인 문제 해결 방법을 살펴보세요. 독립적으로 편집한 가이드이며 Suno 공식 문서가 아닙니다.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="주황색 레코드를 그린 작곡 가이드 표지입니다. 영어 문구가 들어간 독창적인 편집용 삽화이며 제품 화면 캡처가 아닙니다."></a><p>주황색 레코드를 그린 작곡 가이드 표지입니다. 영어 문구가 들어간 독창적인 편집용 삽화이며 제품 화면 캡처가 아닙니다.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">원본 이미지 보기 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><b>작곡·작사 가이드 열기 →</b></a></td>
+<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>영상 제작자께: 출처가 연결된 예시, 복사 가능한 프롬프트, 편집 연습을 통해 곡을 장면 계획으로 발전시켜 보세요. 창작자의 예시와 새로 작성한 연습 과제는 구분해 표시합니다.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="제작 흐름: 음악 선택 → 장면 계획 → 영상 생성 → 편집 및 내보내기. 영어로 된 개념 삽화이며 제품 화면 캡처나 실제 영상 생성 테스트 결과가 아닙니다."></a><p>제작 흐름: 음악 선택 → 장면 계획 → 영상 생성 → 편집 및 내보내기. 영어로 된 개념 삽화이며 제품 화면 캡처나 실제 영상 생성 테스트 결과가 아닙니다.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">원본 이미지 보기 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><b>첫 뮤직비디오 계획하기 →</b></a></td>
+</tr></table>
 
 <a id="tools"></a>
 

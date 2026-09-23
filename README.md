@@ -6,6 +6,8 @@
 
 <a href="https://musicmaker.im/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-0.svg" height="40" alt="Create a song"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-1.svg" height="40" alt="Explore the guides"></a> <a href="https://musicmaker.im/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-2.svg" height="40" alt="Listen to music"></a>
 
+<a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-mobile.svg" height="40" alt="Mobile version"></a>
+
 **English** · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/README_JA.md) · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/README_KO.md) · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md) · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/README_AR.md)
 
 </div>
@@ -34,29 +36,10 @@ A warm acoustic pop song for a quiet train ride home. Gentle guitar and soft pia
 
 A finished track does not show every decision behind it. We publish prompts, source references and step-by-step exercises so you can study the choices, adapt them to your own work and help improve the guides. The repositories share learning materials; the hosted MusicMaker service is a separate product.
 
-### ♫ Awesome Suno Creator Guide
-
-For songwriters: explore official Suno references, listening examples, prompts, original lyrics and practical fixes. This independently curated guide is not official Suno documentation.
-
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Orange vinyl cover for the songwriting guide. Original editorial artwork with English lettering; not a product screenshot."></a>
-
-Orange vinyl cover for the songwriting guide. Original editorial artwork with English lettering; not a product screenshot.
-
-[View full-size image ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
-
-**[Open the songwriting guide →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README.md)**
-
-### ▶ Awesome Music Video Creator Guide
-
-For video creators: move from a song to a shot plan, with source-linked examples, copyable prompts and editing exercises. Creator examples and newly written exercises are identified separately.
-
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="Illustrated workflow: choose music → plan shots → generate → edit and export. English concept illustration, not a product screenshot or tested video result."></a>
-
-Illustrated workflow: choose music → plan shots → generate → edit and export. English concept illustration, not a product screenshot or tested video result.
-
-[View full-size image ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
-
-**[Plan your first music video →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README.md)**
+<table><tr>
+<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>For songwriters: explore official Suno references, listening examples, prompts, original lyrics and practical fixes. This independently curated guide is not official Suno documentation.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="Orange vinyl cover for the songwriting guide. Original editorial artwork with English lettering; not a product screenshot."></a><p>Orange vinyl cover for the songwriting guide. Original editorial artwork with English lettering; not a product screenshot.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">View full-size image ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README.md"><b>Open the songwriting guide →</b></a></td>
+<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>For video creators: move from a song to a shot plan, with source-linked examples, copyable prompts and editing exercises. Creator examples and newly written exercises are identified separately.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="Illustrated workflow: choose music → plan shots → generate → edit and export. English concept illustration, not a product screenshot or tested video result."></a><p>Illustrated workflow: choose music → plan shots → generate → edit and export. English concept illustration, not a product screenshot or tested video result.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">View full-size image ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README.md"><b>Plan your first music video →</b></a></td>
+</tr></table>
 
 <a id="tools"></a>
 

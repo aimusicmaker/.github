@@ -99,5 +99,9 @@
     "Bìa hướng dẫn sáng tác với đĩa than màu cam. Tranh minh họa biên tập nguyên gốc có chữ tiếng Anh, không phải ảnh chụp màn hình sản phẩm.",
     "Quy trình minh họa: chọn nhạc → lên kế hoạch cảnh quay → tạo hình ảnh → dựng và xuất video. Tranh ý tưởng bằng tiếng Anh, không phải ảnh chụp sản phẩm hay kết quả thử nghiệm video."
   ],
-  "image_zoom": "Xem ảnh kích thước đầy đủ ↗"
+  "image_zoom": "Xem ảnh kích thước đầy đủ ↗",
+  "view_switch": [
+    "Phiên bản di động",
+    "Phiên bản máy tính"
+  ]
 }
