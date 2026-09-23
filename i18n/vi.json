@@ -1,6 +1,6 @@
 {
   "tagline": "Từ ý tưởng bài hát đến tác phẩm đáng chia sẻ.",
-  "intro": "MusicMaker tập hợp công cụ tạo bài hát, viết lời, xử lý âm thanh và làm hình ảnh cho âm nhạc trong cùng một không gian sáng tạo. Đây là trang GitHub chính thức của chúng tôi dành cho các hướng dẫn công khai, nơi người mới viết nhạc, người làm video và giáo viên âm nhạc có thể học hỏi, vận dụng và đóng góp.",
+  "intro": "AI Music Maker tập hợp công cụ tạo bài hát, viết lời, xử lý âm thanh và làm hình ảnh cho âm nhạc trong cùng một không gian sáng tạo. Đây là trang GitHub chính thức của chúng tôi dành cho các hướng dẫn công khai, nơi người mới viết nhạc, người làm video và giáo viên âm nhạc có thể học hỏi, vận dụng và đóng góp.",
   "buttons": [
     "Tạo bài hát",
     "Khám phá hướng dẫn",
@@ -22,7 +22,7 @@
   "prompt": "Một bài pop acoustic ấm áp cho chuyến tàu về nhà yên tĩnh. Guitar nhẹ nhàng và piano êm dịu, giọng hát gần gũi, phiên khúc tiết chế và điệp khúc tươi sáng hơn. Kết thúc nhẹ nhàng.",
   "prompt_note": "Đây là mẫu chỉ dẫn khởi đầu được viết cho trang này, chưa phải công thức tạo nhạc đã được kiểm thử. Kết quả thay đổi theo công cụ, mô hình và thiết lập đã chọn.",
   "projects_title": "Học hỏi, sáng tạo, chia sẻ",
-  "why": "Một bản nhạc hoàn chỉnh không cho thấy mọi quyết định trong quá trình làm ra nó. Chúng tôi công bố câu lệnh, nguồn tham khảo và bài tập từng bước để bạn tìm hiểu các lựa chọn, áp dụng vào tác phẩm của mình và góp phần cải thiện hướng dẫn. Các kho lưu trữ chia sẻ tài liệu học tập; dịch vụ MusicMaker trực tuyến là một sản phẩm riêng.",
+  "why": "Một bản nhạc hoàn chỉnh không cho thấy mọi quyết định trong quá trình làm ra nó. Chúng tôi công bố câu lệnh, nguồn tham khảo và bài tập từng bước để bạn tìm hiểu các lựa chọn, áp dụng vào tác phẩm của mình và góp phần cải thiện hướng dẫn. Các kho lưu trữ chia sẻ tài liệu học tập; dịch vụ AI Music Maker trực tuyến là một sản phẩm riêng.",
   "projects": [
     "Dành cho người viết nhạc: tìm hiểu tài liệu chính thức của Suno, ví dụ để nghe, câu lệnh, lời bài hát tự sáng tác và cách khắc phục vấn đề thực tế. Hướng dẫn này được biên soạn độc lập, không phải tài liệu chính thức của Suno.",
     "Dành cho người làm video: phát triển bài hát thành kế hoạch cảnh quay với ví dụ có liên kết nguồn, câu lệnh có thể sao chép và bài tập dựng phim. Ví dụ của người sáng tạo và bài tập mới biên soạn được ghi rõ, tách biệt nhau."
@@ -76,7 +76,7 @@
     "Điều khoản dịch vụ"
   ],
   "trust_title": "Ai duy trì trang này?",
-  "trust": "Trang do nhóm MusicMaker duy trì. Website thương hiệu ghi đơn vị vận hành là FLAQ TECH PTE. LTD. Các liên kết sản phẩm ở đây dẫn đến dịch vụ của chúng tôi; chúng không phải đánh giá độc lập hay sự chứng thực của nhà cung cấp mô hình. Các ví dụ công khai trong hướng dẫn giữ nguyên liên kết nguồn và không chứng minh rằng chúng tôi đã tái tạo được kết quả đó.",
+  "trust": "Trang do nhóm AI Music Maker duy trì. Website thương hiệu ghi đơn vị vận hành là FLAQ TECH PTE. LTD. Các liên kết sản phẩm ở đây dẫn đến dịch vụ của chúng tôi; chúng không phải đánh giá độc lập hay sự chứng thực của nhà cung cấp mô hình. Các ví dụ công khai trong hướng dẫn giữ nguyên liên kết nguồn và không chứng minh rằng chúng tôi đã tái tạo được kết quả đó.",
   "reviewed": "Đã kiểm tra liên kết sản phẩm, ngôn ngữ website và điều khoản tiếp thị liên kết vào 2026-09-23. Xem ghi chú về nguồn và việc duy trì nội dung.",
   "source_link": "Nguồn và việc duy trì nội dung",
   "contribute_title": "Cùng cải thiện hướng dẫn tiếp theo",
@@ -84,12 +84,12 @@
   "contribute_links": [
     "Báo lỗi trang hồ sơ",
     "Xem tất cả kho lưu trữ",
-    "Cộng đồng MusicMaker"
+    "Cộng đồng AI Music Maker"
   ],
   "affiliate_title": "Chúng tôi hoan nghênh hợp tác tiếp thị liên kết",
-  "affiliate": "Bạn làm hướng dẫn, dạy sáng tạo âm nhạc hoặc điều hành cộng đồng sáng tạo? Bạn có thể giới thiệu MusicMaker qua chương trình tiếp thị liên kết của chúng tôi. Hãy bắt đầu bằng lời giải thích hữu ích về cách công cụ đáp ứng nhu cầu của người xem.",
+  "affiliate": "Bạn làm hướng dẫn, dạy sáng tạo âm nhạc hoặc điều hành cộng đồng sáng tạo? Bạn có thể giới thiệu AI Music Maker qua chương trình tiếp thị liên kết của chúng tôi. Hãy bắt đầu bằng lời giải thích hữu ích về cách công cụ đáp ứng nhu cầu của người xem.",
   "affiliate_rules": "Chương trình hiện tại nêu mức hoa hồng 20% cho đơn hàng trả phí hợp lệ đầu tiên của người dùng được giới thiệu và 10% cho các đơn hàng trả phí hợp lệ tiếp theo trong vòng 60 ngày kể từ khi đăng ký. Điều kiện đủ tư cách, việc ghi nhận nguồn giới thiệu, hoàn tiền, yêu cầu bồi hoàn giao dịch và thỏa thuận hiện hành quyết định khoản hoa hồng được chi trả. Thu nhập không được bảo đảm; hãy công khai quan hệ tiếp thị liên kết khi giới thiệu dịch vụ.",
-  "affiliate_steps": "Đăng nhập MusicMaker, hoàn thành hồ sơ tiếp thị liên kết, chấp nhận thỏa thuận và tạo liên kết giới thiệu trong không gian làm việc dành cho đối tác.",
+  "affiliate_steps": "Đăng nhập AI Music Maker, hoàn thành hồ sơ tiếp thị liên kết, chấp nhận thỏa thuận và tạo liên kết giới thiệu trong không gian làm việc dành cho đối tác.",
   "affiliate_actions": [
     "Khám phá chương trình tiếp thị liên kết →",
     "Đọc thỏa thuận tiếp thị liên kết"

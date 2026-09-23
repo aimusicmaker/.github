@@ -1,6 +1,6 @@
 <div  align="center">
 
-<h1><a href="https://musicmaker.im/tw/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="MusicMaker"> MusicMaker</a></h1>
+<h1><a href="https://musicmaker.im/tw/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</a></h1>
 
 **把一個音樂靈感，做成值得分享的作品。**
 
@@ -12,7 +12,7 @@
 
 </div>
 
-MusicMaker 將歌曲生成、歌詞創作、音訊工具和音樂視覺製作放在同一個創作空間。這裡是我們的官方 GitHub 首頁，向初次寫歌的人、影片創作者和音樂教育者分享公開指南，歡迎學習、改編和共同完善。
+AI Music Maker 將歌曲生成、歌詞創作、音訊工具和音樂視覺製作放在同一個創作空間。這裡是我們的官方 GitHub 首頁，向初次寫歌的人、影片創作者和音樂教育者分享公開指南，歡迎學習、改編和共同完善。
 
 [從這裡開始](#start) · [開源指南](#guides) · [創作工具](#tools) · [關於這些資料](#about) · [聯盟合作](#affiliate)
 
@@ -34,7 +34,7 @@ MusicMaker 將歌曲生成、歌詞創作、音訊工具和音樂視覺製作放
 
 ## 學習、創作、分享
 
-一首完成的歌無法展示背後的每個選擇。我們公開提示詞、參考來源和分步練習，幫助你理解創作思路、用於自己的作品，也歡迎你改進指南。儲存庫分享的是學習資料；MusicMaker 線上服務是獨立的產品。
+一首完成的歌無法展示背後的每個選擇。我們公開提示詞、參考來源和分步練習，幫助你理解創作思路、用於自己的作品，也歡迎你改進指南。儲存庫分享的是學習資料；AI Music Maker 線上服務是獨立的產品。
 
 ### ♫ Awesome Suno Creator Guide
 
@@ -111,7 +111,7 @@ MusicMaker 將歌曲生成、歌詞創作、音訊工具和音樂視覺製作放
 
 ## 誰在維護這個首頁？
 
-本頁由 MusicMaker 團隊維護。品牌官網列出的營運主體是 FLAQ TECH PTE. LTD.。這裡的產品連結指向我們自己的服務，不是獨立評測，也不代表模型提供方的背書。指南中的公開案例保留原始來源連結，不表示我們已重現其效果。
+本頁由 AI Music Maker 團隊維護。品牌官網列出的營運主體是 FLAQ TECH PTE. LTD.。這裡的產品連結指向我們自己的服務，不是獨立評測，也不代表模型提供方的背書。指南中的公開案例保留原始來源連結，不表示我們已重現其效果。
 
 <details>
 <summary>來源與維護說明</summary>
@@ -126,17 +126,17 @@ MusicMaker 將歌曲生成、歌詞創作、音訊工具和音樂視覺製作放
 
 發現步驟不清楚或連結失效？請到相應儲存庫回報問題，附上頁面、具體問題以及來源或重現步驟。歡迎修正翻譯、補充有依據的案例和實用改進。重複利用前請查看各儲存庫的授權，以及媒體素材另行標註的權利資訊。
 
-[回報首頁問題](https://github.com/aimusicmaker/.github/issues) · [瀏覽全部儲存庫](https://github.com/orgs/aimusicmaker/repositories) · [MusicMaker 社群](https://discord.gg/dykaXheA3e)
+[回報首頁問題](https://github.com/aimusicmaker/.github/issues) · [瀏覽全部儲存庫](https://github.com/orgs/aimusicmaker/repositories) · [AI Music Maker 社群](https://discord.gg/dykaXheA3e)
 
 <a id="affiliate"></a>
 
 ## 我們支持聯盟推廣合作
 
-如果你製作教學、教授音樂創作，或經營創作者社群，可以透過聯盟計畫推薦 MusicMaker。先向讀者講清楚：這個工具適合誰，具體能用來做什麼。
+如果你製作教學、教授音樂創作，或經營創作者社群，可以透過聯盟計畫推薦 AI Music Maker。先向讀者講清楚：這個工具適合誰，具體能用來做什麼。
 
 目前計畫列明：推薦使用者的首筆有效付費訂單佣金為 20%，註冊後 60 天內後續有效付費訂單佣金為 10%。實際可結算佣金取決於訂單資格、歸因、退款、拒付及現行協議，不保證收益。推薦服務時，請揭露你的聯盟合作關係。
 
-登入 MusicMaker，完善聯盟資料、同意協議，再到聯盟工作區建立專屬推薦連結。
+登入 AI Music Maker，完善聯盟資料、同意協議，再到聯盟工作區建立專屬推薦連結。
 
 <a href="https://musicmaker.im/affiliate-program/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/tw-affiliate.svg" height="40" alt="了解並加入聯盟計畫 →"></a>
 

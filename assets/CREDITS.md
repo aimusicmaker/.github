@@ -15,4 +15,4 @@ Copyright (c) 2026 AI Music Maker。源仓库在可授予权利范围内采用 M
 
 ## 品牌 LOGO
 
-`musicmaker-logo.svg` 来自 [MusicMaker 官网 LOGO](https://musicmaker.im/images/logo.svg)，原样保存，用于所有语言的桌面与手机版品牌标题。它是品牌标识，不纳入插画 MIT 授权。`musicmaker-avatar.png` 是同一 LOGO 的 PNG 格式副本，供组织管理员上传为头像。
+`musicmaker-logo.svg` 来自 [AI Music Maker 官网 LOGO](https://musicmaker.im/images/logo.svg)，原样保存，用于所有语言的桌面与手机版品牌标题。它是品牌标识，不纳入插画 MIT 授权。`musicmaker-avatar.png` 是同一 LOGO 的 PNG 格式副本，供组织管理员上传为头像。

@@ -1,6 +1,6 @@
 {
   "tagline": "De uma ideia de música a algo que vale a pena compartilhar.",
-  "intro": "O MusicMaker reúne criação de músicas, letras, ferramentas de áudio e recursos visuais para música em um único espaço criativo. Esta é nossa página oficial no GitHub para guias públicos: um lugar onde compositores iniciantes, criadores de vídeos e educadores musicais podem aprender, adaptar materiais e contribuir.",
+  "intro": "O AI Music Maker reúne criação de músicas, letras, ferramentas de áudio e recursos visuais para música em um único espaço criativo. Esta é nossa página oficial no GitHub para guias públicos: um lugar onde compositores iniciantes, criadores de vídeos e educadores musicais podem aprender, adaptar materiais e contribuir.",
   "buttons": [
     "Criar uma música",
     "Explorar os guias",
@@ -22,7 +22,7 @@
   "prompt": "Uma música pop acústica acolhedora para uma viagem tranquila de trem de volta para casa. Violão suave e piano delicado, voz intimista, uma estrofe contida e um refrão mais luminoso. Termine suavemente.",
   "prompt_note": "Uma sugestão inicial escrita para esta página, não uma receita de geração testada. Os resultados variam conforme a ferramenta, o modelo e as configurações escolhidas.",
   "projects_title": "Aprenda, crie e compartilhe",
-  "why": "Uma faixa pronta não mostra todas as decisões por trás dela. Publicamos instruções, fontes e exercícios passo a passo para você estudar essas escolhas, adaptá-las ao seu trabalho e ajudar a melhorar os guias. Os repositórios compartilham materiais de aprendizagem; o serviço online do MusicMaker é um produto separado.",
+  "why": "Uma faixa pronta não mostra todas as decisões por trás dela. Publicamos instruções, fontes e exercícios passo a passo para você estudar essas escolhas, adaptá-las ao seu trabalho e ajudar a melhorar os guias. Os repositórios compartilham materiais de aprendizagem; o serviço online do AI Music Maker é um produto separado.",
   "projects": [
     "Para compositores: explore referências oficiais do Suno, exemplos para ouvir, instruções, letras originais e soluções práticas. Este guia organizado de forma independente não é a documentação oficial do Suno.",
     "Para criadores de vídeos: transforme uma música em um plano de cenas, com exemplos vinculados às fontes, instruções que você pode copiar e exercícios de edição. Os exemplos de criadores e os exercícios novos são identificados separadamente."
@@ -76,7 +76,7 @@
     "Termos de serviço"
   ],
   "trust_title": "Quem mantém esta página?",
-  "trust": "Esta página é mantida pela equipe MusicMaker. O site da marca identifica FLAQ TECH PTE. LTD. como sua operadora. Os links de produtos levam ao nosso próprio serviço; não são avaliações independentes nem recomendações dos fornecedores de modelos. Os exemplos públicos nos guias mantêm os links para suas fontes e não comprovam que reproduzimos os resultados.",
+  "trust": "Esta página é mantida pela equipe AI Music Maker. O site da marca identifica FLAQ TECH PTE. LTD. como sua operadora. Os links de produtos levam ao nosso próprio serviço; não são avaliações independentes nem recomendações dos fornecedores de modelos. Os exemplos públicos nos guias mantêm os links para suas fontes e não comprovam que reproduzimos os resultados.",
   "reviewed": "A navegação do produto, os idiomas do site e os termos de afiliação foram verificados em 2026-09-23. Consulte as fontes e as notas de manutenção.",
   "source_link": "Fontes e manutenção",
   "contribute_title": "Ajude a melhorar o próximo guia",
@@ -84,12 +84,12 @@
   "contribute_links": [
     "Informar um problema no perfil",
     "Ver todos os repositórios",
-    "Comunidade MusicMaker"
+    "Comunidade AI Music Maker"
   ],
   "affiliate_title": "Estamos abertos a parcerias de afiliação",
-  "affiliate": "Você cria tutoriais, ensina criação musical ou administra uma comunidade de criadores? Pode recomendar o MusicMaker pelo nosso programa de afiliados. Comece com uma explicação útil sobre como uma ferramenta atende ao seu público.",
+  "affiliate": "Você cria tutoriais, ensina criação musical ou administra uma comunidade de criadores? Pode recomendar o AI Music Maker pelo nosso programa de afiliados. Comece com uma explicação útil sobre como uma ferramenta atende ao seu público.",
   "affiliate_rules": "O programa atual informa 20% para o primeiro pedido pago válido de um usuário indicado e 10% para os pedidos pagos válidos seguintes, dentro de 60 dias após o cadastro desse usuário. A elegibilidade, a atribuição, os reembolsos, as contestações de pagamento e o acordo vigente determinam a comissão a pagar. Não há garantia de ganhos; informe sua relação de afiliado ao recomendar o serviço.",
-  "affiliate_steps": "Entre no MusicMaker, preencha seu perfil de afiliado, aceite o acordo e crie seu link de indicação na área de afiliados.",
+  "affiliate_steps": "Entre no AI Music Maker, preencha seu perfil de afiliado, aceite o acordo e crie seu link de indicação na área de afiliados.",
   "affiliate_actions": [
     "Conhecer o programa de afiliados →",
     "Ler o acordo de afiliação"

@@ -1,6 +1,6 @@
 <div  align="center">
 
-<h1><a href="https://musicmaker.im/ja/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="MusicMaker"> MusicMaker</a></h1>
+<h1><a href="https://musicmaker.im/ja/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</a></h1>
 
 **曲のアイデアを、誰かに届けたくなる作品へ。**
 
@@ -12,7 +12,7 @@
 
 </div>
 
-MusicMaker は、楽曲生成、作詞、音声ツール、音楽の映像制作をひとつの制作環境にまとめています。ここは公開ガイドを集めた公式 GitHub ページです。初めて曲を作る方、動画制作者、音楽教育に携わる方が、学び、自分の制作に生かし、改善に参加できます。
+AI Music Maker は、楽曲生成、作詞、音声ツール、音楽の映像制作をひとつの制作環境にまとめています。ここは公開ガイドを集めた公式 GitHub ページです。初めて曲を作る方、動画制作者、音楽教育に携わる方が、学び、自分の制作に生かし、改善に参加できます。
 
 [はじめに](#start) · [オープンソースのガイド](#guides) · [制作ツール](#tools) · [公開資料について](#about) · [アフィリエイト提携](#affiliate)
 
@@ -34,7 +34,7 @@ MusicMaker は、楽曲生成、作詞、音声ツール、音楽の映像制作
 
 ## 学ぶ、作る、共有する
 
-完成した曲だけでは、制作中の判断までは見えません。そこで、プロンプト、参照元、段階的な練習課題を公開しています。制作上の選択を学び、自分の作品に応用し、ガイドの改善にも参加できます。各リポジトリは学習資料を共有する場です。オンラインで提供する MusicMaker サービスは、別の製品です。
+完成した曲だけでは、制作中の判断までは見えません。そこで、プロンプト、参照元、段階的な練習課題を公開しています。制作上の選択を学び、自分の作品に応用し、ガイドの改善にも参加できます。各リポジトリは学習資料を共有する場です。オンラインで提供する AI Music Maker サービスは、別の製品です。
 
 ### ♫ Awesome Suno Creator Guide
 
@@ -111,7 +111,7 @@ MusicMaker は、楽曲生成、作詞、音声ツール、音楽の映像制作
 
 ## このページの運営者
 
-MusicMaker チームが管理しています。ブランド公式サイトでは、運営会社を FLAQ TECH PTE. LTD. と記載しています。このページの製品リンクは当社サービスへのリンクです。第三者によるレビューや、モデル提供元による推薦を意味するものではありません。ガイド内の公開作例には出典リンクを残しており、当社が同じ結果を再現したことを示すものではありません。
+AI Music Maker チームが管理しています。ブランド公式サイトでは、運営会社を FLAQ TECH PTE. LTD. と記載しています。このページの製品リンクは当社サービスへのリンクです。第三者によるレビューや、モデル提供元による推薦を意味するものではありません。ガイド内の公開作例には出典リンクを残しており、当社が同じ結果を再現したことを示すものではありません。
 
 <details>
 <summary>出典と保守について</summary>
@@ -126,17 +126,17 @@ MusicMaker チームが管理しています。ブランド公式サイトでは
 
 わかりにくい手順やリンク切れを見つけた場合は、該当リポジトリで Issue を作成し、対象ページ、問題点、参照元または再現手順をお知らせください。翻訳の修正、出典を確認できる作例、実用的な改善案も歓迎します。再利用の前に、各リポジトリのライセンスと、画像・音声・動画などの個別のクレジット表記を確認してください。
 
-[プロフィールページの問題を報告する](https://github.com/aimusicmaker/.github/issues) · [すべてのリポジトリを見る](https://github.com/orgs/aimusicmaker/repositories) · [MusicMaker コミュニティ](https://discord.gg/dykaXheA3e)
+[プロフィールページの問題を報告する](https://github.com/aimusicmaker/.github/issues) · [すべてのリポジトリを見る](https://github.com/orgs/aimusicmaker/repositories) · [AI Music Maker コミュニティ](https://discord.gg/dykaXheA3e)
 
 <a id="affiliate"></a>
 
 ## アフィリエイト提携を歓迎します
 
-チュートリアル制作、音楽制作の指導、クリエイターコミュニティの運営に携わっていますか。アフィリエイトプログラムを通じて MusicMaker を紹介できます。まずは、そのツールが読者や参加者にどう役立つかを、具体的に説明しましょう。
+チュートリアル制作、音楽制作の指導、クリエイターコミュニティの運営に携わっていますか。アフィリエイトプログラムを通じて AI Music Maker を紹介できます。まずは、そのツールが読者や参加者にどう役立つかを、具体的に説明しましょう。
 
 現在のプログラムでは、紹介されたユーザーの最初の有効な有料注文に対して 20%、登録から 60 日以内のその後の有効な有料注文に対して 10% とされています。支払われる報酬は、適用条件、紹介の帰属判定、返金、チャージバック、現行の契約によって決まります。収益を保証するものではありません。サービスを紹介する際は、アフィリエイト関係があることを明示してください。
 
-MusicMaker にログインし、アフィリエイト用プロフィールを記入して契約に同意した後、アフィリエイト管理画面で紹介リンクを作成します。
+AI Music Maker にログインし、アフィリエイト用プロフィールを記入して契約に同意した後、アフィリエイト管理画面で紹介リンクを作成します。
 
 <a href="https://musicmaker.im/affiliate-program/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-affiliate.svg" height="40" alt="アフィリエイトプログラムを見る →"></a>
 

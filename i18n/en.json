@@ -1,6 +1,6 @@
 {
   "tagline": "From a song idea to something worth sharing.",
-  "intro": "MusicMaker brings song generation, lyrics, audio tools and music visuals into one creative workspace. This is our official GitHub home for public guides: a place for first-time songwriters, video creators and music educators to learn, adapt and contribute.",
+  "intro": "AI Music Maker brings song generation, lyrics, audio tools and music visuals into one creative workspace. This is our official GitHub home for public guides: a place for first-time songwriters, video creators and music educators to learn, adapt and contribute.",
   "buttons": [
     "Create a song",
     "Explore the guides",
@@ -22,7 +22,7 @@
   "prompt": "A warm acoustic pop song for a quiet train ride home. Gentle guitar and soft piano, intimate vocals, a restrained verse and a brighter chorus. End softly.",
   "prompt_note": "A starter brief written for this page, not a tested generation recipe. Results vary with the selected tool, model and settings.",
   "projects_title": "Learn, make, share",
-  "why": "A finished track does not show every decision behind it. We publish prompts, source references and step-by-step exercises so you can study the choices, adapt them to your own work and help improve the guides. The repositories share learning materials; the hosted MusicMaker service is a separate product.",
+  "why": "A finished track does not show every decision behind it. We publish prompts, source references and step-by-step exercises so you can study the choices, adapt them to your own work and help improve the guides. The repositories share learning materials; the hosted AI Music Maker service is a separate product.",
   "projects": [
     "For songwriters: explore official Suno references, listening examples, prompts, original lyrics and practical fixes. This independently curated guide is not official Suno documentation.",
     "For video creators: move from a song to a shot plan, with source-linked examples, copyable prompts and editing exercises. Creator examples and newly written exercises are identified separately."
@@ -76,7 +76,7 @@
     "Terms of service"
   ],
   "trust_title": "Who maintains this page?",
-  "trust": "Maintained by the MusicMaker team. The brand website identifies its operator as FLAQ TECH PTE. LTD. Product links here lead to our own service; they are not independent reviews or endorsements by model providers. Public examples in the guides retain their source links and do not establish that we reproduced the results.",
+  "trust": "Maintained by the AI Music Maker team. The brand website identifies its operator as FLAQ TECH PTE. LTD. Product links here lead to our own service; they are not independent reviews or endorsements by model providers. Public examples in the guides retain their source links and do not establish that we reproduced the results.",
   "reviewed": "Product navigation, website languages and affiliate terms checked on 2026-09-23. See the source and maintenance notes.",
   "source_link": "Sources and maintenance",
   "contribute_title": "Help make the next guide better",
@@ -84,12 +84,12 @@
   "contribute_links": [
     "Report a profile issue",
     "Browse all repositories",
-    "MusicMaker community"
+    "AI Music Maker community"
   ],
   "affiliate_title": "We welcome affiliate partnerships",
-  "affiliate": "Make tutorials, teach music creation or run a creator community? You can recommend MusicMaker through our affiliate program. Start with a useful explanation of how a tool fits your audience.",
+  "affiliate": "Make tutorials, teach music creation or run a creator community? You can recommend AI Music Maker through our affiliate program. Start with a useful explanation of how a tool fits your audience.",
   "affiliate_rules": "The current program lists 20% for a referred user's first valid paid order and 10% for subsequent valid paid orders within 60 days of registration. Eligibility, attribution, refunds, chargebacks and the current agreement determine payable commission. Earnings are not guaranteed; disclose your affiliate relationship when recommending the service.",
-  "affiliate_steps": "Sign in to MusicMaker, complete your affiliate profile, accept the agreement and create your referral link in the affiliate workspace.",
+  "affiliate_steps": "Sign in to AI Music Maker, complete your affiliate profile, accept the agreement and create your referral link in the affiliate workspace.",
   "affiliate_actions": [
     "Explore the affiliate program →",
     "Read the affiliate agreement"

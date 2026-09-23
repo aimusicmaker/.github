@@ -1,6 +1,6 @@
 <div  align="center">
 
-<h1><a href="https://musicmaker.im/ko/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="MusicMaker"> MusicMaker</a></h1>
+<h1><a href="https://musicmaker.im/ko/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</a></h1>
 
 **노래 아이디어를 함께 나누고 싶은 작품으로.**
 
@@ -12,7 +12,7 @@
 
 </div>
 
-MusicMaker는 노래 생성, 작사, 오디오 도구, 음악 영상 제작을 하나의 작업 공간에 모았습니다. 이곳은 공개 가이드를 제공하는 공식 GitHub 페이지입니다. 처음 곡을 쓰는 분, 영상 제작자, 음악 교육자가 배우고 자신의 작업에 적용하며 개선에 참여할 수 있습니다.
+AI Music Maker는 노래 생성, 작사, 오디오 도구, 음악 영상 제작을 하나의 작업 공간에 모았습니다. 이곳은 공개 가이드를 제공하는 공식 GitHub 페이지입니다. 처음 곡을 쓰는 분, 영상 제작자, 음악 교육자가 배우고 자신의 작업에 적용하며 개선에 참여할 수 있습니다.
 
 [시작하기](#start) · [오픈 소스 가이드](#guides) · [창작 도구](#tools) · [자료 소개](#about) · [제휴 파트너](#affiliate)
 
@@ -34,7 +34,7 @@ MusicMaker는 노래 생성, 작사, 오디오 도구, 음악 영상 제작을 �
 
 ## 배우고, 만들고, 나누세요
 
-완성된 곡만으로는 제작 과정의 모든 선택을 알 수 없습니다. 그래서 프롬프트, 참고 출처, 단계별 연습 과제를 공개합니다. 각 선택을 살펴보고 자신의 작업에 적용하며 가이드 개선에도 참여할 수 있습니다. 저장소는 학습 자료를 공유하는 곳이며, 온라인 MusicMaker 서비스는 별도의 제품입니다.
+완성된 곡만으로는 제작 과정의 모든 선택을 알 수 없습니다. 그래서 프롬프트, 참고 출처, 단계별 연습 과제를 공개합니다. 각 선택을 살펴보고 자신의 작업에 적용하며 가이드 개선에도 참여할 수 있습니다. 저장소는 학습 자료를 공유하는 곳이며, 온라인 AI Music Maker 서비스는 별도의 제품입니다.
 
 <table><tr>
 <td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>작곡·작사를 하는 분께: Suno 공식 참고 자료, 감상 예시, 프롬프트, 직접 쓴 가사, 실용적인 문제 해결 방법을 살펴보세요. 독립적으로 편집한 가이드이며 Suno 공식 문서가 아닙니다.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="주황색 레코드를 그린 작곡 가이드 표지입니다. 영어 문구가 들어간 독창적인 편집용 삽화이며 제품 화면 캡처가 아닙니다."></a><p>주황색 레코드를 그린 작곡 가이드 표지입니다. 영어 문구가 들어간 독창적인 편집용 삽화이며 제품 화면 캡처가 아닙니다.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">원본 이미지 보기 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><b>작곡·작사 가이드 열기 →</b></a></td>
@@ -64,7 +64,7 @@ MusicMaker는 노래 생성, 작사, 오디오 도구, 음악 영상 제작을 �
 
 ## 이 페이지는 누가 관리하나요?
 
-MusicMaker 팀이 관리합니다. 브랜드 웹사이트에 명시된 운영사는 FLAQ TECH PTE. LTD.입니다. 이곳의 제품 링크는 당사 서비스로 연결되며, 독립적인 리뷰나 모델 제공사의 추천을 뜻하지 않습니다. 가이드의 공개 예시에는 출처 링크가 유지되며, 당사가 같은 결과를 재현했다는 증거는 아닙니다.
+AI Music Maker 팀이 관리합니다. 브랜드 웹사이트에 명시된 운영사는 FLAQ TECH PTE. LTD.입니다. 이곳의 제품 링크는 당사 서비스로 연결되며, 독립적인 리뷰나 모델 제공사의 추천을 뜻하지 않습니다. 가이드의 공개 예시에는 출처 링크가 유지되며, 당사가 같은 결과를 재현했다는 증거는 아닙니다.
 
 <details>
 <summary>출처와 관리 안내</summary>
@@ -79,17 +79,17 @@ MusicMaker 팀이 관리합니다. 브랜드 웹사이트에 명시된 운영사
 
 이해하기 어려운 단계나 끊어진 링크를 발견하셨나요? 해당 저장소에 이슈를 등록하고 페이지, 문제, 출처 또는 재현 방법을 알려 주세요. 번역 수정, 근거가 있는 예시, 실용적인 개선도 환영합니다. 재사용 전에 각 저장소의 라이선스와 미디어의 별도 출처·권리 표기를 확인하세요.
 
-[프로필 페이지 문제 신고](https://github.com/aimusicmaker/.github/issues) · [모든 저장소 보기](https://github.com/orgs/aimusicmaker/repositories) · [MusicMaker 커뮤니티](https://discord.gg/dykaXheA3e)
+[프로필 페이지 문제 신고](https://github.com/aimusicmaker/.github/issues) · [모든 저장소 보기](https://github.com/orgs/aimusicmaker/repositories) · [AI Music Maker 커뮤니티](https://discord.gg/dykaXheA3e)
 
 <a id="affiliate"></a>
 
 ## 제휴 마케팅 파트너를 환영합니다
 
-튜토리얼을 만들거나 음악 창작을 가르치거나 창작자 커뮤니티를 운영하시나요? 제휴 프로그램으로 MusicMaker를 소개할 수 있습니다. 먼저 도구가 독자나 참여자에게 어떻게 도움이 되는지 유익하게 설명해 주세요.
+튜토리얼을 만들거나 음악 창작을 가르치거나 창작자 커뮤니티를 운영하시나요? 제휴 프로그램으로 AI Music Maker를 소개할 수 있습니다. 먼저 도구가 독자나 참여자에게 어떻게 도움이 되는지 유익하게 설명해 주세요.
 
 현재 프로그램에 명시된 수수료는 추천받은 사용자의 첫 번째 유효한 유료 주문에 대해 20%, 가입 후 60일 이내의 이후 유효한 유료 주문에 대해 10%입니다. 실제 지급 수수료는 자격 조건, 추천 귀속 판정, 환불, 결제 취소 및 현행 계약에 따라 결정됩니다. 수익은 보장되지 않습니다. 서비스를 추천할 때 제휴 관계를 공개하세요.
 
-MusicMaker에 로그인하고 제휴 프로필을 작성한 뒤 계약에 동의하세요. 이후 제휴 작업 공간에서 추천 링크를 만들 수 있습니다.
+AI Music Maker에 로그인하고 제휴 프로필을 작성한 뒤 계약에 동의하세요. 이후 제휴 작업 공간에서 추천 링크를 만들 수 있습니다.
 
 <a href="https://musicmaker.im/affiliate-program/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-affiliate.svg" height="40" alt="제휴 프로그램 살펴보기 →"></a>
 

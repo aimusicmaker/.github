@@ -1,6 +1,6 @@
 <div  align="center">
 
-<h1><a href="https://musicmaker.im/de/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="MusicMaker"> MusicMaker</a></h1>
+<h1><a href="https://musicmaker.im/de/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</a></h1>
 
 **Von der Songidee zu Musik, die du teilen möchtest.**
 
@@ -12,7 +12,7 @@
 
 </div>
 
-MusicMaker vereint Songerstellung, Songtexte, Audiowerkzeuge und Musikvisuals in einem kreativen Arbeitsbereich. Dies ist unsere offizielle GitHub-Seite für öffentlich zugängliche Anleitungen: Hier können angehende Songwriter, Videokreative und Musikpädagogen lernen, Inhalte anpassen und mitwirken.
+AI Music Maker vereint Songerstellung, Songtexte, Audiowerkzeuge und Musikvisuals in einem kreativen Arbeitsbereich. Dies ist unsere offizielle GitHub-Seite für öffentlich zugängliche Anleitungen: Hier können angehende Songwriter, Videokreative und Musikpädagogen lernen, Inhalte anpassen und mitwirken.
 
 [Hier beginnen](#start) · [Open-Source-Anleitungen](#guides) · [Kreative Werkzeuge](#tools) · [Über diese Materialien](#about) · [Affiliate-Partner](#affiliate)
 
@@ -34,7 +34,7 @@ Ein warmer akustischer Popsong für eine ruhige Zugfahrt nach Hause. Sanfte Gita
 
 ## Lernen, gestalten, teilen
 
-Ein fertiger Track zeigt nicht alle Entscheidungen, die dahinterstehen. Wir veröffentlichen Prompts, Quellen und schrittweise Übungen, damit du diese Entscheidungen nachvollziehen, auf deine Arbeit übertragen und die Anleitungen verbessern kannst. Die Repositories enthalten Lernmaterialien; der online angebotene MusicMaker-Dienst ist ein separates Produkt.
+Ein fertiger Track zeigt nicht alle Entscheidungen, die dahinterstehen. Wir veröffentlichen Prompts, Quellen und schrittweise Übungen, damit du diese Entscheidungen nachvollziehen, auf deine Arbeit übertragen und die Anleitungen verbessern kannst. Die Repositories enthalten Lernmaterialien; der online angebotene AI Music Maker-Dienst ist ein separates Produkt.
 
 <table><tr>
 <td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>Für Songwriter: Entdecke offizielle Suno-Quellen, Hörbeispiele, Prompts, eigene Songtexte und praktische Lösungswege. Diese unabhängig zusammengestellte Anleitung ist keine offizielle Suno-Dokumentation.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_DE.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="Cover des Songwriting-Leitfadens mit einer orangefarbenen Schallplatte. Originale redaktionelle Illustration mit englischer Beschriftung, kein Produkt-Screenshot."></a><p>Cover des Songwriting-Leitfadens mit einer orangefarbenen Schallplatte. Originale redaktionelle Illustration mit englischer Beschriftung, kein Produkt-Screenshot.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">Bild in voller Größe ansehen ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_DE.md"><b>Songwriting-Anleitung öffnen →</b></a></td>
@@ -64,7 +64,7 @@ Verfügbare Modelle, Guthaben, Downloads und Rechte zur kommerziellen Nutzung h�
 
 ## Wer pflegt diese Seite?
 
-Diese Seite wird vom MusicMaker-Team gepflegt. Die Markenwebsite nennt FLAQ TECH PTE. LTD. als Betreiber. Die Produktlinks führen zu unserem eigenen Dienst; sie sind weder unabhängige Bewertungen noch Empfehlungen der Modellanbieter. Öffentliche Beispiele in den Anleitungen behalten ihre Quellenlinks. Sie belegen nicht, dass wir die Ergebnisse reproduziert haben.
+Diese Seite wird vom AI Music Maker-Team gepflegt. Die Markenwebsite nennt FLAQ TECH PTE. LTD. als Betreiber. Die Produktlinks führen zu unserem eigenen Dienst; sie sind weder unabhängige Bewertungen noch Empfehlungen der Modellanbieter. Öffentliche Beispiele in den Anleitungen behalten ihre Quellenlinks. Sie belegen nicht, dass wir die Ergebnisse reproduziert haben.
 
 <details>
 <summary>Quellen und Pflege</summary>
@@ -79,17 +79,17 @@ Produktnavigation, Website-Sprachen und Affiliate-Bedingungen wurden am 2026-09-
 
 Ein Schritt ist unklar oder ein Link funktioniert nicht? Erstelle im betreffenden Repository ein Issue mit der Seite, einer Problembeschreibung sowie einer Quelle oder Schritten zur Reproduktion. Übersetzungskorrekturen, dokumentierte Beispiele und praktische Verbesserungen sind willkommen. Prüfe vor einer Weiterverwendung die Lizenz des jeweiligen Repositorys und etwaige gesonderte Mediennachweise.
 
-[Ein Problem mit der Profilseite melden](https://github.com/aimusicmaker/.github/issues) · [Alle Repositories ansehen](https://github.com/orgs/aimusicmaker/repositories) · [MusicMaker-Community](https://discord.gg/dykaXheA3e)
+[Ein Problem mit der Profilseite melden](https://github.com/aimusicmaker/.github/issues) · [Alle Repositories ansehen](https://github.com/orgs/aimusicmaker/repositories) · [AI Music Maker-Community](https://discord.gg/dykaXheA3e)
 
 <a id="affiliate"></a>
 
 ## Wir freuen uns über Affiliate-Partnerschaften
 
-Du erstellst Tutorials, unterrichtest Musikproduktion oder betreibst eine Kreativ-Community? Über unser Affiliate-Programm kannst du MusicMaker empfehlen. Erkläre zunächst hilfreich und konkret, wie ein Werkzeug zu deinem Publikum passt.
+Du erstellst Tutorials, unterrichtest Musikproduktion oder betreibst eine Kreativ-Community? Über unser Affiliate-Programm kannst du AI Music Maker empfehlen. Erkläre zunächst hilfreich und konkret, wie ein Werkzeug zu deinem Publikum passt.
 
 Das aktuelle Programm nennt 20% für die erste gültige bezahlte Bestellung eines geworbenen Nutzers und 10% für weitere gültige bezahlte Bestellungen innerhalb von 60 Tagen nach dessen Registrierung. Teilnahmeberechtigung, Zuordnung, Erstattungen, Rückbuchungen und die aktuelle Vereinbarung bestimmen die auszahlbare Provision. Einnahmen sind nicht garantiert; lege bei Empfehlungen deine Affiliate-Beziehung offen.
 
-Melde dich bei MusicMaker an, vervollständige dein Affiliate-Profil, akzeptiere die Vereinbarung und erstelle deinen Empfehlungslink im Affiliate-Bereich.
+Melde dich bei AI Music Maker an, vervollständige dein Affiliate-Profil, akzeptiere die Vereinbarung und erstelle deinen Empfehlungslink im Affiliate-Bereich.
 
 <a href="https://musicmaker.im/affiliate-program/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/de-affiliate.svg" height="40" alt="Affiliate-Programm entdecken →"></a>
 

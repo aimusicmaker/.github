@@ -1,12 +1,12 @@
 # 来源与维护说明
 
-本页由 MusicMaker 团队维护。本次核对日期：2026-09-23。
+本页由 AI Music Maker 团队维护。本次核对日期：2026-09-23。
 
 ## 内容依据
 
 | 内容 | 来源 | 使用边界 |
 | --- | --- | --- |
-| 品牌定位、工具入口、运营主体 | [MusicMaker 官网](https://musicmaker.im/) | 官网产品说明，不是独立评测；没有进行音频或视频生成实测 |
+| 品牌定位、工具入口、运营主体 | [AI Music Maker 官网](https://musicmaker.im/) | 官网产品说明，不是独立评测；没有进行音频或视频生成实测 |
 | 全部官网语言 | 官网 HTML 的 `hreflang` 与页脚语言列表 | 英语、日语、印尼语、意大利语、葡萄牙语、西班牙语、德语、俄语、法语、简体中文、繁体中文、韩语、泰语、越南语、阿拉伯语，共 15 种 |
 | 公开项目及用途 | [品牌仓库列表](https://github.com/orgs/aimusicmaker/repositories)、[歌曲指南](https://github.com/aimusicmaker/awesome-suno-creator-guide)、[音乐视频指南](https://github.com/aimusicmaker/awesome-music-video-creator-guide) | 项目介绍依据 README；不把引用案例写成团队实测或模型官方背书 |
 | 首页组织方式 | [FLAQ GitHub 主页](https://github.com/flaqai) | 参考品牌定位、开源动机、项目用途、产品入口、参与合作的阅读顺序；不移植 FLAQ 的数量、履历或产品能力 |

@@ -1,6 +1,6 @@
 <div  align="center">
 
-<h1><a href="https://musicmaker.im/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="MusicMaker"> MusicMaker</a></h1>
+<h1><a href="https://musicmaker.im/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</a></h1>
 
 **From a song idea to something worth sharing.**
 
@@ -12,7 +12,7 @@
 
 </div>
 
-MusicMaker brings song generation, lyrics, audio tools and music visuals into one creative workspace. This is our official GitHub home for public guides: a place for first-time songwriters, video creators and music educators to learn, adapt and contribute.
+AI Music Maker brings song generation, lyrics, audio tools and music visuals into one creative workspace. This is our official GitHub home for public guides: a place for first-time songwriters, video creators and music educators to learn, adapt and contribute.
 
 [Start here](#start) · [Open-source guides](#guides) · [Creative tools](#tools) · [About these resources](#about) · [Affiliate partners](#affiliate)
 
@@ -34,7 +34,7 @@ A warm acoustic pop song for a quiet train ride home. Gentle guitar and soft pia
 
 ## Learn, make, share
 
-A finished track does not show every decision behind it. We publish prompts, source references and step-by-step exercises so you can study the choices, adapt them to your own work and help improve the guides. The repositories share learning materials; the hosted MusicMaker service is a separate product.
+A finished track does not show every decision behind it. We publish prompts, source references and step-by-step exercises so you can study the choices, adapt them to your own work and help improve the guides. The repositories share learning materials; the hosted AI Music Maker service is a separate product.
 
 ### ♫ Awesome Suno Creator Guide
 
@@ -111,7 +111,7 @@ Available models, credits, downloads and commercial-use permissions depend on th
 
 ## Who maintains this page?
 
-Maintained by the MusicMaker team. The brand website identifies its operator as FLAQ TECH PTE. LTD. Product links here lead to our own service; they are not independent reviews or endorsements by model providers. Public examples in the guides retain their source links and do not establish that we reproduced the results.
+Maintained by the AI Music Maker team. The brand website identifies its operator as FLAQ TECH PTE. LTD. Product links here lead to our own service; they are not independent reviews or endorsements by model providers. Public examples in the guides retain their source links and do not establish that we reproduced the results.
 
 <details>
 <summary>Sources and maintenance</summary>
@@ -126,17 +126,17 @@ Product navigation, website languages and affiliate terms checked on 2026-09-23.
 
 Found an unclear step or a broken link? Open an issue in the relevant repository with the page, the problem and a source or reproduction steps. Translation corrections, documented examples and practical improvements are welcome. Check each repository's license and any separate media credits before reuse.
 
-[Report a profile issue](https://github.com/aimusicmaker/.github/issues) · [Browse all repositories](https://github.com/orgs/aimusicmaker/repositories) · [MusicMaker community](https://discord.gg/dykaXheA3e)
+[Report a profile issue](https://github.com/aimusicmaker/.github/issues) · [Browse all repositories](https://github.com/orgs/aimusicmaker/repositories) · [AI Music Maker community](https://discord.gg/dykaXheA3e)
 
 <a id="affiliate"></a>
 
 ## We welcome affiliate partnerships
 
-Make tutorials, teach music creation or run a creator community? You can recommend MusicMaker through our affiliate program. Start with a useful explanation of how a tool fits your audience.
+Make tutorials, teach music creation or run a creator community? You can recommend AI Music Maker through our affiliate program. Start with a useful explanation of how a tool fits your audience.
 
 The current program lists 20% for a referred user's first valid paid order and 10% for subsequent valid paid orders within 60 days of registration. Eligibility, attribution, refunds, chargebacks and the current agreement determine payable commission. Earnings are not guaranteed; disclose your affiliate relationship when recommending the service.
 
-Sign in to MusicMaker, complete your affiliate profile, accept the agreement and create your referral link in the affiliate workspace.
+Sign in to AI Music Maker, complete your affiliate profile, accept the agreement and create your referral link in the affiliate workspace.
 
 <a href="https://musicmaker.im/affiliate-program/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-affiliate.svg" height="40" alt="Explore the affiliate program →"></a>
 

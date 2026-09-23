@@ -1,6 +1,6 @@
 <div  align="center">
 
-<h1><a href="https://musicmaker.im/id/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="MusicMaker"> MusicMaker</a></h1>
+<h1><a href="https://musicmaker.im/id/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</a></h1>
 
 **Dari ide lagu menjadi karya yang layak dibagikan.**
 
@@ -12,7 +12,7 @@
 
 </div>
 
-MusicMaker menyatukan pembuatan lagu, lirik, alat audio, dan visual musik dalam satu ruang berkarya. Inilah halaman resmi GitHub kami untuk panduan publik: tempat penulis lagu pemula, kreator video, dan pengajar musik belajar, menyesuaikan materi, serta berkontribusi.
+AI Music Maker menyatukan pembuatan lagu, lirik, alat audio, dan visual musik dalam satu ruang berkarya. Inilah halaman resmi GitHub kami untuk panduan publik: tempat penulis lagu pemula, kreator video, dan pengajar musik belajar, menyesuaikan materi, serta berkontribusi.
 
 [Mulai di sini](#start) · [Panduan sumber terbuka](#guides) · [Alat kreatif](#tools) · [Tentang materi ini](#about) · [Mitra afiliasi](#affiliate)
 
@@ -34,7 +34,7 @@ Lagu pop akustik yang hangat untuk perjalanan pulang dengan kereta yang tenang. 
 
 ## Belajar, berkarya, berbagi
 
-Lagu yang sudah jadi tidak memperlihatkan setiap keputusan di baliknya. Kami membagikan perintah, referensi sumber, dan latihan bertahap agar Anda dapat mempelajari pilihan tersebut, menerapkannya pada karya sendiri, serta membantu memperbaiki panduan. Repositori ini membagikan materi pembelajaran; layanan daring MusicMaker merupakan produk tersendiri.
+Lagu yang sudah jadi tidak memperlihatkan setiap keputusan di baliknya. Kami membagikan perintah, referensi sumber, dan latihan bertahap agar Anda dapat mempelajari pilihan tersebut, menerapkannya pada karya sendiri, serta membantu memperbaiki panduan. Repositori ini membagikan materi pembelajaran; layanan daring AI Music Maker merupakan produk tersendiri.
 
 ### ♫ Awesome Suno Creator Guide
 
@@ -111,7 +111,7 @@ Model, kredit, unduhan, dan izin penggunaan komersial bergantung pada produk dan
 
 ## Siapa yang mengelola halaman ini?
 
-Dikelola oleh tim MusicMaker. Situs merek mencantumkan FLAQ TECH PTE. LTD. sebagai operatornya. Tautan produk di sini menuju layanan kami sendiri; bukan ulasan independen atau dukungan dari penyedia model. Contoh publik dalam panduan tetap menyertakan tautan sumbernya dan tidak membuktikan bahwa kami telah mereproduksi hasil tersebut.
+Dikelola oleh tim AI Music Maker. Situs merek mencantumkan FLAQ TECH PTE. LTD. sebagai operatornya. Tautan produk di sini menuju layanan kami sendiri; bukan ulasan independen atau dukungan dari penyedia model. Contoh publik dalam panduan tetap menyertakan tautan sumbernya dan tidak membuktikan bahwa kami telah mereproduksi hasil tersebut.
 
 <details>
 <summary>Sumber dan pemeliharaan</summary>
@@ -126,17 +126,17 @@ Navigasi produk, bahasa situs, dan ketentuan afiliasi diperiksa pada 2026-09-23.
 
 Menemukan langkah yang kurang jelas atau tautan rusak? Buat laporan masalah di repositori terkait dengan menyertakan halaman, masalah, serta sumber atau langkah untuk mereproduksinya. Koreksi terjemahan, contoh terdokumentasi, dan perbaikan praktis sangat kami terima. Periksa lisensi setiap repositori dan keterangan hak media yang terpisah sebelum menggunakan ulang materi.
 
-[Laporkan masalah halaman profil](https://github.com/aimusicmaker/.github/issues) · [Lihat semua repositori](https://github.com/orgs/aimusicmaker/repositories) · [Komunitas MusicMaker](https://discord.gg/dykaXheA3e)
+[Laporkan masalah halaman profil](https://github.com/aimusicmaker/.github/issues) · [Lihat semua repositori](https://github.com/orgs/aimusicmaker/repositories) · [Komunitas AI Music Maker](https://discord.gg/dykaXheA3e)
 
 <a id="affiliate"></a>
 
 ## Kami terbuka untuk kerja sama afiliasi
 
-Anda membuat tutorial, mengajar pembuatan musik, atau mengelola komunitas kreator? Anda dapat merekomendasikan MusicMaker melalui program afiliasi kami. Mulailah dengan penjelasan bermanfaat tentang kesesuaian alat dengan kebutuhan audiens Anda.
+Anda membuat tutorial, mengajar pembuatan musik, atau mengelola komunitas kreator? Anda dapat merekomendasikan AI Music Maker melalui program afiliasi kami. Mulailah dengan penjelasan bermanfaat tentang kesesuaian alat dengan kebutuhan audiens Anda.
 
 Program saat ini mencantumkan komisi 20% untuk pesanan berbayar valid pertama dari pengguna yang Anda rujuk, serta 10% untuk pesanan berbayar valid berikutnya dalam 60 hari sejak pendaftaran. Kelayakan, atribusi rujukan, pengembalian dana, sanggahan transaksi, dan perjanjian yang berlaku menentukan komisi yang dapat dibayarkan. Penghasilan tidak dijamin; ungkapkan hubungan afiliasi Anda saat merekomendasikan layanan.
 
-Masuk ke MusicMaker, lengkapi profil afiliasi, setujui perjanjian, lalu buat tautan rujukan di ruang kerja afiliasi.
+Masuk ke AI Music Maker, lengkapi profil afiliasi, setujui perjanjian, lalu buat tautan rujukan di ruang kerja afiliasi.
 
 <a href="https://musicmaker.im/affiliate-program/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-affiliate.svg" height="40" alt="Jelajahi program afiliasi →"></a>
 
