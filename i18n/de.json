@@ -1,6 +1,6 @@
 {
   "tagline": "Von der Songidee zu Musik, die du teilen möchtest.",
-  "intro": "AI Music Maker vereint Songerstellung, Songtexte, Audiowerkzeuge und Musikvisuals in einem kreativen Arbeitsbereich. Dies ist unsere offizielle GitHub-Seite für öffentlich zugängliche Anleitungen: Hier können angehende Songwriter, Videokreative und Musikpädagogen lernen, Inhalte anpassen und mitwirken.",
+  "intro": "AI Music Maker vereint Songs, Songtexte, Audio und Musikvisuals in einer kreativen Arbeitsumgebung. Entdecke unsere Anleitungen, um deinen ersten Song zu schreiben, ein Video zu vertonen oder einen neuen Sound auszuprobieren.",
   "buttons": [
     "Einen Song erstellen",
     "Anleitungen entdecken",
@@ -20,12 +20,12 @@
     "Wenn dir eine Passage gefällt, plane mit der Musikvideo-Anleitung passende Aufnahmen und schneide sie zum Takt."
   ],
   "prompt": "Ein warmer akustischer Popsong für eine ruhige Zugfahrt nach Hause. Sanfte Gitarre und leises Klavier, nahbarer Gesang, eine zurückhaltende Strophe und ein hellerer Refrain. Sanft ausklingen lassen.",
-  "prompt_note": "Ein für diese Seite geschriebener Einstiegstext, keine getestete Anleitung zur Generierung. Die Ergebnisse hängen vom gewählten Werkzeug, Modell und den Einstellungen ab.",
+  "prompt_note": "Beginne mit dieser Beschreibung und passe beim Anhören Instrumente, Gesang und Stimmung an.",
   "projects_title": "Lernen, gestalten, teilen",
-  "why": "Ein fertiger Track zeigt nicht alle Entscheidungen, die dahinterstehen. Wir veröffentlichen Prompts, Quellen und schrittweise Übungen, damit du diese Entscheidungen nachvollziehen, auf deine Arbeit übertragen und die Anleitungen verbessern kannst. Die Repositories enthalten Lernmaterialien; der online angebotene AI Music Maker-Dienst ist ein separates Produkt.",
+  "why": "Entdecke eine musikalische Richtung, lerne an Beispielen und entwickle deine eigene Idee daraus. Unsere Anleitungen verbinden Quellen, Prompts und Übungen Schritt für Schritt rund um Songwriting und Musikvideos.",
   "projects": [
-    "Für Songwriter: Entdecke offizielle Suno-Quellen, Hörbeispiele, Prompts, eigene Songtexte und praktische Lösungswege. Diese unabhängig zusammengestellte Anleitung ist keine offizielle Suno-Dokumentation.",
-    "Für Videokreative: Entwickle aus einem Song einen Aufnahmeplan, mit Beispielen samt Quellenlinks, kopierbaren Prompts und Schnittübungen. Beispiele von Kreativen und neu verfasste Übungen sind getrennt gekennzeichnet."
+    "Entdecke offizielle Suno-Demos und Beispiele von Kreativen – von Folk und Dance bis zu Jazz, Klaviermusik und Filmmusik. Wähle eine Richtung, probiere die Prompts aus und entwickle mit den Anleitungen deinen Song oder dein Arrangement.",
+    "Mach aus einem Song einen Veröffentlichungsteaser, ein Performance-Video oder eine visuelle Schleife. Entdecke offizielle Modelldemos und Beispiele von Kreativen. Die Anleitungen für Naturaufnahmen und singende Porträts begleiten dich von der Planung bis zum Schnitt."
   ],
   "project_actions": [
     "Songwriting-Anleitung öffnen →",
@@ -75,8 +75,8 @@
     "Kommerzielle Lizenz",
     "Nutzungsbedingungen"
   ],
-  "trust_title": "Wer pflegt diese Seite?",
-  "trust": "Diese Seite wird vom AI Music Maker-Team gepflegt. Die Markenwebsite nennt FLAQ TECH PTE. LTD. als Betreiber. Die Produktlinks führen zu unserem eigenen Dienst; sie sind weder unabhängige Bewertungen noch Empfehlungen der Modellanbieter. Öffentliche Beispiele in den Anleitungen behalten ihre Quellenlinks. Sie belegen nicht, dass wir die Ergebnisse reproduziert haben.",
+  "trust_title": "Über AI Music Maker",
+  "trust": "Unser Team pflegt diese Anleitungen und freut sich über Beiträge von Musik- und Videoschaffenden. AI Music Maker wird von FLAQ TECH PTE. LTD. betrieben. Die Anleitungen verlinken Originalbeispiele, Quellen und Übungen, mit denen du jede Idee weiter erkunden kannst.",
   "reviewed": "Produktnavigation, Website-Sprachen und Affiliate-Bedingungen wurden am 2026-09-23 geprüft. Weitere Informationen stehen in den Quellen- und Pflegehinweisen.",
   "source_link": "Quellen und Pflege",
   "contribute_title": "Hilf mit, die nächste Anleitung zu verbessern",
@@ -87,7 +87,7 @@
     "AI Music Maker-Community"
   ],
   "affiliate_title": "Wir freuen uns über Affiliate-Partnerschaften",
-  "affiliate": "Du erstellst Tutorials, unterrichtest Musikproduktion oder betreibst eine Kreativ-Community? Über unser Affiliate-Programm kannst du AI Music Maker empfehlen. Erkläre zunächst hilfreich und konkret, wie ein Werkzeug zu deinem Publikum passt.",
+  "affiliate": "Stelle AI Music Maker in Tutorials, im Musikunterricht oder in deiner Kreativ-Community vor. Unser Partnerprogramm unterstützt Menschen, die anderen nützliche Musikwerkzeuge näherbringen und zeigen, wie sie sich einsetzen lassen.",
   "affiliate_rules": "Das aktuelle Programm nennt 20% für die erste gültige bezahlte Bestellung eines geworbenen Nutzers und 10% für weitere gültige bezahlte Bestellungen innerhalb von 60 Tagen nach dessen Registrierung. Teilnahmeberechtigung, Zuordnung, Erstattungen, Rückbuchungen und die aktuelle Vereinbarung bestimmen die auszahlbare Provision. Einnahmen sind nicht garantiert; lege bei Empfehlungen deine Affiliate-Beziehung offen.",
   "affiliate_steps": "Melde dich bei AI Music Maker an, vervollständige dein Affiliate-Profil, akzeptiere die Vereinbarung und erstelle deinen Empfehlungslink im Affiliate-Bereich.",
   "affiliate_actions": [
@@ -96,8 +96,8 @@
   ],
   "links_note": "Die folgenden Links zu Werkzeugen, Richtlinien und zum Partnerprogramm öffnen die englischen Seiten der offiziellen Website.",
   "project_image_captions": [
-    "Cover des Songwriting-Leitfadens mit einer orangefarbenen Schallplatte. Originale redaktionelle Illustration mit englischer Beschriftung, kein Produkt-Screenshot.",
-    "Illustrierter Ablauf: Musik wählen → Einstellungen planen → Bilder generieren → schneiden und exportieren. Englische Konzeptillustration, kein Produkt-Screenshot und kein Ergebnis eines Videotests."
+    "Ideen für Songs mit Klavier, Jazz, Akustikgitarre und Dance sowie für Animationsfilme. Cover des Leitfadens mit englischer Beschriftung.",
+    "Von der Musik zum Video: Musik auswählen, Einstellungen planen, Clips generieren, schneiden und exportieren. Illustrierter Ablauf mit englischen Beschriftungen."
   ],
   "image_zoom": "Bild in voller Größe ansehen ↗",
   "view_switch": [

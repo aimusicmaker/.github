@@ -18,7 +18,7 @@
 
 ---
 
-AI Music Maker réunit la création de chansons, les paroles, les outils audio et les visuels musicaux dans un même espace de création. Voici notre page GitHub officielle consacrée aux guides publics : un lieu où auteurs débutants, vidéastes et enseignants en musique peuvent apprendre, adapter les ressources et contribuer.
+AI Music Maker réunit chansons, paroles, audio et visuels musicaux dans un même espace de création. Explorez nos guides pour écrire votre première chanson, mettre une vidéo en musique ou essayer de nouvelles sonorités.
 
 [Commencer ici](#start) · [Guides open source](#guides) · [Outils créatifs](#tools) · [À propos des ressources](#about) · [Partenaires affiliés](#affiliate)
 
@@ -36,37 +36,37 @@ AI Music Maker réunit la création de chansons, les paroles, les outils audio e
 Une chanson pop acoustique chaleureuse pour un trajet paisible en train vers la maison. Guitare douce et piano discret, voix intimiste, couplet retenu et refrain plus lumineux. Terminer en douceur.
 ```
 
-> Un exemple de consigne rédigé pour cette page, et non une recette de génération testée. Les résultats varient selon l’outil, le modèle et les réglages choisis.
+> Partez de cette description, puis ajustez les instruments, le chant et l’ambiance au fil des écoutes.
 
 <a id="guides"></a>
 
 ## Apprendre, créer, partager
 
-Un morceau terminé ne révèle pas toutes les décisions qui l’ont façonné. Nous publions des consignes, des sources et des exercices pas à pas pour vous permettre d’étudier ces choix, de les adapter à vos créations et d’améliorer les guides. Les dépôts proposent des ressources pédagogiques ; le service AI Music Maker en ligne est un produit distinct.
+Explorez une direction musicale, inspirez-vous des exemples et donnez-lui votre touche personnelle. Nos guides réunissent des sources, des consignes et des exercices pas à pas pour écrire des chansons et réaliser des clips musicaux.
 
 ### ♫ Awesome Suno Creator Guide
 
-Pour les auteurs de chansons : découvrez des références officielles Suno, des exemples à écouter, des consignes, des paroles originales et des solutions pratiques. Ce guide constitué de manière indépendante n’est pas la documentation officielle de Suno.
+Découvrez les démonstrations officielles de Suno et les exemples de créateurs, du folk à la dance, en passant par le jazz, le piano et la musique de film. Choisissez une direction, essayez les consignes et suivez les tutoriels pour développer votre chanson ou votre arrangement.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_FR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Couverture du guide de composition avec un disque vinyle orange. Illustration éditoriale originale avec du texte en anglais, et non une capture d’écran du produit."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_FR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Des idées de chansons autour du piano, du jazz, de la guitare acoustique, de la dance et de l’animation. Couverture du guide avec du texte en anglais."></a>
 
-Couverture du guide de composition avec un disque vinyle orange. Illustration éditoriale originale avec du texte en anglais, et non une capture d’écran du produit.
+Des idées de chansons autour du piano, du jazz, de la guitare acoustique, de la dance et de l’animation. Couverture du guide avec du texte en anglais.
 
 [Voir l’image en taille réelle ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
 
-**[Ouvrir le guide d’écriture de chansons →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_FR.md)**
+**[Ouvrir le guide d’écriture de chansons →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_FR.md)**
 
 ### ▶ Awesome Music Video Creator Guide
 
-Pour les vidéastes : passez d’une chanson à un découpage en plans, avec des exemples accompagnés de leurs sources, des consignes à copier et des exercices de montage. Les exemples de créateurs et les nouveaux exercices sont identifiés séparément.
+Transformez une chanson en bande-annonce de sortie, en vidéo de performance ou en boucle visuelle. Découvrez des démonstrations officielles de modèles et des exemples de créateurs, puis suivez les tutoriels de scènes de nature et de portraits chantants, de la préparation au montage.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_FR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="Parcours illustré : choisir la musique → préparer les plans → générer les images → monter et exporter. Illustration conceptuelle en anglais, et non une capture du produit ou le résultat d’un test vidéo."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_FR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="De la musique à la vidéo : choisir la musique, préparer les plans, générer les séquences, puis monter et exporter. Parcours illustré avec des légendes en anglais."></a>
 
-Parcours illustré : choisir la musique → préparer les plans → générer les images → monter et exporter. Illustration conceptuelle en anglais, et non une capture du produit ou le résultat d’un test vidéo.
+De la musique à la vidéo : choisir la musique, préparer les plans, générer les séquences, puis monter et exporter. Parcours illustré avec des légendes en anglais.
 
 [Voir l’image en taille réelle ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
 
-**[Préparer votre premier clip musical →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_FR.md)**
+**[Préparer votre premier clip musical →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_FR.md)**
 
 <a id="tools"></a>
 
@@ -117,9 +117,9 @@ Les modèles disponibles, les crédits, les téléchargements et les droits d’
 
 <a id="about"></a>
 
-## Qui entretient cette page ?
+## À propos d’AI Music Maker
 
-Cette page est tenue à jour par l’équipe AI Music Maker. Le site de la marque désigne FLAQ TECH PTE. LTD. comme exploitant. Les liens produits renvoient à notre propre service ; ce ne sont ni des avis indépendants ni des recommandations des fournisseurs de modèles. Les exemples publics des guides conservent leurs liens sources et ne prouvent pas que nous en avons reproduit les résultats.
+Notre équipe tient ces guides à jour et accueille les contributions des créateurs de musique et de vidéos. AI Music Maker est exploité par FLAQ TECH PTE. LTD. Les guides renvoient aux exemples originaux, aux références et aux exercices pour vous permettre d’approfondir chaque idée.
 
 <details>
 <summary>Sources et maintenance</summary>
@@ -140,7 +140,7 @@ Une étape manque de clarté ou un lien ne fonctionne plus ? Ouvrez un ticket da
 
 ## Nous accueillons les partenariats d’affiliation
 
-Vous réalisez des tutoriels, enseignez la création musicale ou animez une communauté de créateurs ? Vous pouvez recommander AI Music Maker grâce à notre programme d’affiliation. Commencez par expliquer concrètement comment un outil peut servir votre public.
+Faites découvrir AI Music Maker à travers vos tutoriels, vos cours de musique ou votre communauté de créateurs. Notre programme d’affiliation accompagne les partenaires qui aident leur public à découvrir des outils musicaux utiles et à les utiliser.
 
 Le programme actuel prévoit 20% pour la première commande payante valide d’un utilisateur parrainé, puis 10% pour ses commandes payantes valides suivantes dans les 60 jours après son inscription. L’éligibilité, l’attribution, les remboursements, les rétrofacturations et l’accord en vigueur déterminent la commission payable. Aucun revenu n’est garanti ; signalez votre relation d’affiliation lorsque vous recommandez le service.
 

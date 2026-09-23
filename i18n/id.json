@@ -1,6 +1,6 @@
 {
   "tagline": "Dari ide lagu menjadi karya yang layak dibagikan.",
-  "intro": "AI Music Maker menyatukan pembuatan lagu, lirik, alat audio, dan visual musik dalam satu ruang berkarya. Inilah halaman resmi GitHub kami untuk panduan publik: tempat penulis lagu pemula, kreator video, dan pengajar musik belajar, menyesuaikan materi, serta berkontribusi.",
+  "intro": "AI Music Maker menyatukan lagu, lirik, audio, dan visual musik dalam satu ruang berkarya. Jelajahi panduan kami untuk membuat lagu pertama, mengisi musik untuk video, atau mencoba warna suara baru.",
   "buttons": [
     "Buat lagu",
     "Jelajahi panduan",
@@ -20,12 +20,12 @@
     "Setelah menemukan bagian yang ingin dipertahankan, gunakan panduan video musik untuk merencanakan pengambilan gambar dan menyuntingnya mengikuti ketukan."
   ],
   "prompt": "Lagu pop akustik yang hangat untuk perjalanan pulang dengan kereta yang tenang. Gitar lembut dan piano halus, vokal yang terasa dekat, bait yang tertahan, serta refrain yang lebih cerah. Akhiri dengan lembut.",
-  "prompt_note": "Contoh arahan awal yang ditulis untuk halaman ini, bukan resep pembuatan yang sudah diuji. Hasil bergantung pada alat, model, dan pengaturan yang dipilih.",
+  "prompt_note": "Mulailah dengan deskripsi ini, lalu sesuaikan instrumen, vokal, dan suasananya sambil mendengarkan hasilnya.",
   "projects_title": "Belajar, berkarya, berbagi",
-  "why": "Lagu yang sudah jadi tidak memperlihatkan setiap keputusan di baliknya. Kami membagikan perintah, referensi sumber, dan latihan bertahap agar Anda dapat mempelajari pilihan tersebut, menerapkannya pada karya sendiri, serta membantu memperbaiki panduan. Repositori ini membagikan materi pembelajaran; layanan daring AI Music Maker merupakan produk tersendiri.",
+  "why": "Temukan arah musik yang ingin Anda coba, pelajari contohnya, lalu kembangkan dengan gaya Anda sendiri. Panduan kami memuat sumber rujukan, prompt, dan latihan bertahap untuk penulisan lagu serta pembuatan video musik.",
   "projects": [
-    "Untuk penulis lagu: jelajahi referensi resmi Suno, contoh untuk didengarkan, perintah, lirik orisinal, dan solusi praktis. Panduan ini disusun secara independen dan bukan dokumentasi resmi Suno.",
-    "Untuk kreator video: kembangkan lagu menjadi rencana pengambilan gambar dengan contoh bertautan sumber, perintah yang bisa disalin, dan latihan penyuntingan. Contoh karya kreator dan latihan yang baru ditulis diberi penanda terpisah."
+    "Jelajahi demo resmi Suno dan karya kreator, mulai dari folk dan dance hingga jazz, piano, dan musik film. Pilih arah yang Anda sukai, coba prompt-nya, lalu ikuti tutorial untuk mengembangkan lagu atau aransemen Anda.",
+    "Ubah lagu menjadi cuplikan promosi perilisan, video penampilan, atau visual berulang. Jelajahi demo resmi model dan karya kreator, lalu ikuti tutorial video pemandangan alam dan potret bernyanyi, dari perencanaan hingga penyuntingan."
   ],
   "project_actions": [
     "Buka panduan penulisan lagu →",
@@ -75,8 +75,8 @@
     "Lisensi komersial",
     "Ketentuan layanan"
   ],
-  "trust_title": "Siapa yang mengelola halaman ini?",
-  "trust": "Dikelola oleh tim AI Music Maker. Situs merek mencantumkan FLAQ TECH PTE. LTD. sebagai operatornya. Tautan produk di sini menuju layanan kami sendiri; bukan ulasan independen atau dukungan dari penyedia model. Contoh publik dalam panduan tetap menyertakan tautan sumbernya dan tidak membuktikan bahwa kami telah mereproduksi hasil tersebut.",
+  "trust_title": "Tentang AI Music Maker",
+  "trust": "Tim kami merawat panduan ini dan menyambut kontribusi dari kreator musik serta video. AI Music Maker dioperasikan oleh FLAQ TECH PTE. LTD. Panduan ini menyertakan tautan ke contoh asli, referensi, dan latihan agar Anda dapat mendalami setiap ide.",
   "reviewed": "Navigasi produk, bahasa situs, dan ketentuan afiliasi diperiksa pada 2026-09-23. Lihat catatan sumber dan pemeliharaan.",
   "source_link": "Sumber dan pemeliharaan",
   "contribute_title": "Bantu menyempurnakan panduan berikutnya",
@@ -87,7 +87,7 @@
     "Komunitas AI Music Maker"
   ],
   "affiliate_title": "Kami terbuka untuk kerja sama afiliasi",
-  "affiliate": "Anda membuat tutorial, mengajar pembuatan musik, atau mengelola komunitas kreator? Anda dapat merekomendasikan AI Music Maker melalui program afiliasi kami. Mulailah dengan penjelasan bermanfaat tentang kesesuaian alat dengan kebutuhan audiens Anda.",
+  "affiliate": "Perkenalkan AI Music Maker melalui tutorial, pelajaran musik, atau komunitas kreator Anda. Program afiliasi kami mendukung mitra yang membantu orang menemukan dan menggunakan perangkat untuk membuat musik yang bermanfaat.",
   "affiliate_rules": "Program saat ini mencantumkan komisi 20% untuk pesanan berbayar valid pertama dari pengguna yang Anda rujuk, serta 10% untuk pesanan berbayar valid berikutnya dalam 60 hari sejak pendaftaran. Kelayakan, atribusi rujukan, pengembalian dana, sanggahan transaksi, dan perjanjian yang berlaku menentukan komisi yang dapat dibayarkan. Penghasilan tidak dijamin; ungkapkan hubungan afiliasi Anda saat merekomendasikan layanan.",
   "affiliate_steps": "Masuk ke AI Music Maker, lengkapi profil afiliasi, setujui perjanjian, lalu buat tautan rujukan di ruang kerja afiliasi.",
   "affiliate_actions": [
@@ -96,8 +96,8 @@
   ],
   "links_note": "Tautan alat, kebijakan, dan afiliasi di bawah membuka halaman situs resmi dalam bahasa Inggris.",
   "project_image_captions": [
-    "Sampul panduan penulisan lagu bergambar piringan hitam oranye. Ilustrasi editorial orisinal dengan teks bahasa Inggris, bukan tangkapan layar produk.",
-    "Alur ilustratif: pilih musik → rencanakan adegan → buat visual → edit dan ekspor. Ilustrasi konsep berbahasa Inggris, bukan tangkapan layar produk atau hasil uji video."
+    "Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi. Sampul panduan dengan tulisan berbahasa Inggris.",
+    "Dari musik menjadi video: pilih musik, rencanakan adegan, buat klip, lalu sunting dan ekspor. Ilustrasi alur kerja dengan label berbahasa Inggris."
   ],
   "image_zoom": "Lihat gambar ukuran penuh ↗",
   "view_switch": [

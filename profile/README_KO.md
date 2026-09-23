@@ -18,7 +18,7 @@
 
 ---
 
-AI Music Maker는 노래 생성, 작사, 오디오 도구, 음악 영상 제작을 하나의 작업 공간에 모았습니다. 이곳은 공개 가이드를 제공하는 공식 GitHub 페이지입니다. 처음 곡을 쓰는 분, 영상 제작자, 음악 교육자가 배우고 자신의 작업에 적용하며 개선에 참여할 수 있습니다.
+AI Music Maker는 노래, 가사, 오디오, 음악 영상을 한곳에서 만들 수 있는 창작 공간입니다. 가이드를 따라 첫 곡을 만들고, 영상에 음악을 입히거나 새로운 사운드를 시도해 보세요.
 
 [시작하기](#start) · [오픈 소스 가이드](#guides) · [창작 도구](#tools) · [자료 소개](#about) · [제휴 파트너](#affiliate)
 
@@ -36,17 +36,17 @@ AI Music Maker는 노래 생성, 작사, 오디오 도구, 음악 영상 제작�
 조용한 귀갓길 기차에서 듣는 따뜻한 어쿠스틱 팝. 잔잔한 기타와 부드러운 피아노, 가까이서 들려주는 듯한 보컬. 절은 절제된 느낌으로, 후렴은 더 밝게. 끝은 부드럽게 마무리한다.
 ```
 
-> 이 페이지를 위해 작성한 시작용 지시문이며, 생성 결과를 검증한 제작법은 아닙니다. 선택한 도구, 모델, 설정에 따라 결과가 달라집니다.
+> 이 설명으로 시작한 뒤, 결과를 들으면서 악기와 보컬, 분위기를 조정해 보세요.
 
 <a id="guides"></a>
 
 ## 배우고, 만들고, 나누세요
 
-완성된 곡만으로는 제작 과정의 모든 선택을 알 수 없습니다. 그래서 프롬프트, 참고 출처, 단계별 연습 과제를 공개합니다. 각 선택을 살펴보고 자신의 작업에 적용하며 가이드 개선에도 참여할 수 있습니다. 저장소는 학습 자료를 공유하는 곳이며, 온라인 AI Music Maker 서비스는 별도의 제품입니다.
+원하는 음악 방향을 찾고, 예시에서 배운 내용을 나만의 작품에 적용해 보세요. 가이드에는 작곡·작사와 뮤직비디오 제작에 필요한 참고 자료, 프롬프트, 단계별 연습이 담겨 있습니다.
 
 <table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>작곡·작사를 하는 분께: Suno 공식 참고 자료, 감상 예시, 프롬프트, 직접 쓴 가사, 실용적인 문제 해결 방법을 살펴보세요. 독립적으로 편집한 가이드이며 Suno 공식 문서가 아닙니다.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="주황색 레코드를 그린 작곡 가이드 표지입니다. 영어 문구가 들어간 독창적인 편집용 삽화이며 제품 화면 캡처가 아닙니다."></a><p>주황색 레코드를 그린 작곡 가이드 표지입니다. 영어 문구가 들어간 독창적인 편집용 삽화이며 제품 화면 캡처가 아닙니다.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">원본 이미지 보기 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><b>작곡·작사 가이드 열기 →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>영상 제작자께: 출처가 연결된 예시, 복사 가능한 프롬프트, 편집 연습을 통해 곡을 장면 계획으로 발전시켜 보세요. 창작자의 예시와 새로 작성한 연습 과제는 구분해 표시합니다.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="제작 흐름: 음악 선택 → 장면 계획 → 영상 생성 → 편집 및 내보내기. 영어로 된 개념 삽화이며 제품 화면 캡처나 실제 영상 생성 테스트 결과가 아닙니다."></a><p>제작 흐름: 음악 선택 → 장면 계획 → 영상 생성 → 편집 및 내보내기. 영어로 된 개념 삽화이며 제품 화면 캡처나 실제 영상 생성 테스트 결과가 아닙니다.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">원본 이미지 보기 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><b>첫 뮤직비디오 계획하기 →</b></a></td>
+<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>포크와 댄스부터 재즈, 피아노, 영화 음악까지 Suno 공식 데모와 크리에이터의 작품을 살펴보세요. 원하는 방향을 정하고 프롬프트를 시도한 다음, 튜토리얼을 따라 곡과 편곡을 발전시킬 수 있습니다.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="피아노, 재즈, 어쿠스틱 기타, 댄스, 애니메이션에서 찾는 곡 만들기 아이디어. 영어 문구가 들어간 가이드 표지."></a><p>피아노, 재즈, 어쿠스틱 기타, 댄스, 애니메이션에서 찾는 곡 만들기 아이디어. 영어 문구가 들어간 가이드 표지.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">원본 이미지 보기 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><b>작곡·작사 가이드 열기 →</b></a></td>
+<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>노래를 발매 예고 영상, 공연 영상 또는 반복 재생 영상으로 만들어 보세요. 모델의 공식 데모와 크리에이터의 작품을 살펴보고, 자연 풍경 영상과 인물이 노래하는 영상 튜토리얼을 따라 기획부터 편집까지 진행할 수 있습니다.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="음악에서 영상으로: 음악 선택, 장면 계획, 영상 생성, 편집 및 내보내기. 영어로 표시된 제작 과정 그림."></a><p>음악에서 영상으로: 음악 선택, 장면 계획, 영상 생성, 편집 및 내보내기. 영어로 표시된 제작 과정 그림.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">원본 이미지 보기 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><b>첫 뮤직비디오 계획하기 →</b></a></td>
 </tr></table>
 
 <a id="tools"></a>
@@ -70,9 +70,9 @@ AI Music Maker는 노래 생성, 작사, 오디오 도구, 음악 영상 제작�
 
 <a id="about"></a>
 
-## 이 페이지는 누가 관리하나요?
+## AI Music Maker 소개
 
-AI Music Maker 팀이 관리합니다. 브랜드 웹사이트에 명시된 운영사는 FLAQ TECH PTE. LTD.입니다. 이곳의 제품 링크는 당사 서비스로 연결되며, 독립적인 리뷰나 모델 제공사의 추천을 뜻하지 않습니다. 가이드의 공개 예시에는 출처 링크가 유지되며, 당사가 같은 결과를 재현했다는 증거는 아닙니다.
+저희 팀은 가이드를 관리하며 음악·영상 크리에이터의 기여를 환영합니다. AI Music Maker는 FLAQ TECH PTE. LTD.가 운영합니다. 가이드에 담긴 원본 예시, 참고 자료, 연습 링크를 통해 각 아이디어를 더 깊이 탐구할 수 있습니다.
 
 <details>
 <summary>출처와 관리 안내</summary>
@@ -93,7 +93,7 @@ AI Music Maker 팀이 관리합니다. 브랜드 웹사이트에 명시된 운�
 
 ## 제휴 마케팅 파트너를 환영합니다
 
-튜토리얼을 만들거나 음악 창작을 가르치거나 창작자 커뮤니티를 운영하시나요? 제휴 프로그램으로 AI Music Maker를 소개할 수 있습니다. 먼저 도구가 독자나 참여자에게 어떻게 도움이 되는지 유익하게 설명해 주세요.
+튜토리얼, 음악 수업, 크리에이터 커뮤니티를 통해 AI Music Maker를 소개해 보세요. 제휴 프로그램은 사람들이 유용한 음악 도구를 발견하고 활용하도록 돕는 파트너를 지원합니다.
 
 현재 프로그램에 명시된 수수료는 추천받은 사용자의 첫 번째 유효한 유료 주문에 대해 20%, 가입 후 60일 이내의 이후 유효한 유료 주문에 대해 10%입니다. 실제 지급 수수료는 자격 조건, 추천 귀속 판정, 환불, 결제 취소 및 현행 계약에 따라 결정됩니다. 수익은 보장되지 않습니다. 서비스를 추천할 때 제휴 관계를 공개하세요.
 

@@ -18,7 +18,7 @@
 
 ---
 
-AI Music Maker 将歌曲生成、歌词创作、音频工具和音乐视觉制作放在同一个创作空间。这里是我们的官方 GitHub 主页，向初次写歌的人、视频创作者和音乐教育者分享公开指南，欢迎学习、改编和共同完善。
+AI Music Maker 汇集歌曲生成、歌词创作、音频处理和音乐视觉工具。从这里的创作指南出发，写第一首歌、为视频配乐，或试试新的音乐风格。
 
 [从这里开始](#start) · [开源指南](#guides) · [创作工具](#tools) · [关于这些资料](#about) · [联盟合作](#affiliate)
 
@@ -36,37 +36,37 @@ AI Music Maker 将歌曲生成、歌词创作、音频工具和音乐视觉制�
 一首适合安静坐火车回家时听的温暖原声流行歌。轻柔吉他与柔和钢琴，贴近耳边的人声，主歌克制，副歌明亮一些，轻轻收尾。
 ```
 
-> 这是为本页编写的入门描述，尚未进行生成实测。效果会随工具、模型和设置变化。
+> 从这段描述开始，边听边调整乐器、人声和情绪。
 
 <a id="guides"></a>
 
 ## 学习、创作、分享
 
-一首成品歌无法展示背后的每个选择。我们公开提示词、参考来源和分步练习，帮助你理解创作思路、用于自己的作品，也欢迎你改进指南。仓库分享的是学习资料；AI Music Maker 在线服务是独立的产品。
+找到喜欢的音乐方向，参考案例，再做出自己的作品。我们把参考资料、提示词和分步练习整理成指南，陪你从写歌走到音乐视频制作。
 
 ### ♫ Awesome Suno Creator Guide
 
-面向写歌的人：查看 Suno 官方资料、试听参考、提示词、原创歌词及常见问题处理方法。这是独立整理的指南，不是 Suno 官方文档。
+从 Suno 官方演示和创作者作品中寻找灵感，探索民谣、舞曲、爵士、钢琴及影视配乐。选一个方向，试用提示词，跟着教程完善歌曲或为已有旋律重新编配。
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="歌曲创作指南的橙色唱片封面。原创编辑插画，画面文字为英文，不是产品截图。"></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="钢琴、爵士、原声吉他、舞蹈与动画：从一个想法探索多种音乐风格。指南封面，图中文字为英文。"></a>
 
-歌曲创作指南的橙色唱片封面。原创编辑插画，画面文字为英文，不是产品截图。
+钢琴、爵士、原声吉他、舞蹈与动画：从一个想法探索多种音乐风格。指南封面，图中文字为英文。
 
 [查看原图 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
 
-**[打开歌曲创作指南 →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ZH.md)**
+**[打开歌曲创作指南 →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ZH.md)**
 
 ### ▶ Awesome Music Video Creator Guide
 
-面向视频创作者：从歌曲出发规划镜头，使用附有来源的案例、可复制提示词和剪辑练习。指南区分了创作者案例与新编练习。
+把歌曲做成发行预告、演唱短片或循环播放的音乐画面。先看模型官方演示和创作者案例，再跟着自然风景镜头与人像演唱教程，完成从镜头规划到剪辑的练习。
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="流程示意：选择音乐 → 规划镜头 → 生成画面 → 剪辑导出。英文概念插画，不是产品截图，也不是视频实测成果。"></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="从音乐到视频：选音乐、规划镜头、生成片段，再剪辑导出。流程插画，图中文字为英文。"></a>
 
-流程示意：选择音乐 → 规划镜头 → 生成画面 → 剪辑导出。英文概念插画，不是产品截图，也不是视频实测成果。
+从音乐到视频：选音乐、规划镜头、生成片段，再剪辑导出。流程插画，图中文字为英文。
 
 [查看原图 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
 
-**[规划你的第一支音乐视频 →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ZH.md)**
+**[规划你的第一支音乐视频 →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ZH.md)**
 
 <a id="tools"></a>
 
@@ -117,9 +117,9 @@ AI Music Maker 将歌曲生成、歌词创作、音频工具和音乐视觉制�
 
 <a id="about"></a>
 
-## 谁在维护这个主页？
+## 关于 AI Music Maker
 
-本页由 AI Music Maker 团队维护。品牌官网列出的运营主体是 FLAQ TECH PTE. LTD.。这里的产品链接指向我们自己的服务，不是独立测评，也不代表模型提供方的背书。指南中的公开案例保留原始来源链接，不表示我们已复现其效果。
+这些指南由我们的团队维护，也欢迎音乐和视频创作者一起完善。AI Music Maker 由 FLAQ TECH PTE. LTD. 运营。指南附有原始案例、参考资料和练习入口，方便继续探索感兴趣的创作方法。
 
 <details>
 <summary>来源与维护说明</summary>
@@ -140,7 +140,7 @@ AI Music Maker 将歌曲生成、歌词创作、音频工具和音乐视觉制�
 
 ## 我们支持联盟推广合作
 
-如果你制作教程、教授音乐创作，或运营创作者社区，可以通过联盟计划推荐 AI Music Maker。先向读者讲清楚：这个工具适合谁，具体能用来做什么。
+通过教程、音乐课程或创作者社区分享 AI Music Maker。我们支持联盟推广合作，欢迎帮助读者发现音乐工具、学会实际用法的内容创作者加入。
 
 目前计划列明：推荐用户的首笔有效付费订单佣金为 20%，注册后 60 天内后续有效付费订单佣金为 10%。实际可结算佣金取决于订单资格、归因、退款、拒付及现行协议，不保证收益。推荐服务时，请披露你的联盟合作关系。
 

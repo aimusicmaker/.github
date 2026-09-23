@@ -1,6 +1,6 @@
 {
   "tagline": "From a song idea to something worth sharing.",
-  "intro": "AI Music Maker brings song generation, lyrics, audio tools and music visuals into one creative workspace. This is our official GitHub home for public guides: a place for first-time songwriters, video creators and music educators to learn, adapt and contribute.",
+  "intro": "AI Music Maker brings songs, lyrics, audio and music visuals into one creative workspace. Explore our guides to write your first song, score a video or try a new sound.",
   "buttons": [
     "Create a song",
     "Explore the guides",
@@ -20,12 +20,12 @@
     "When you have a passage worth keeping, use the music-video guide to plan shots and edit them to the beat."
   ],
   "prompt": "A warm acoustic pop song for a quiet train ride home. Gentle guitar and soft piano, intimate vocals, a restrained verse and a brighter chorus. End softly.",
-  "prompt_note": "A starter brief written for this page, not a tested generation recipe. Results vary with the selected tool, model and settings.",
+  "prompt_note": "Start with this description, then adjust the instruments, vocals and mood as you listen.",
   "projects_title": "Learn, make, share",
-  "why": "A finished track does not show every decision behind it. We publish prompts, source references and step-by-step exercises so you can study the choices, adapt them to your own work and help improve the guides. The repositories share learning materials; the hosted AI Music Maker service is a separate product.",
+  "why": "Explore a musical direction, learn from the examples and make it your own. Our guides bring together source references, prompts and step-by-step exercises for songwriting and music videos.",
   "projects": [
-    "For songwriters: explore official Suno references, listening examples, prompts, original lyrics and practical fixes. This independently curated guide is not official Suno documentation.",
-    "For video creators: move from a song to a shot plan, with source-linked examples, copyable prompts and editing exercises. Creator examples and newly written exercises are identified separately."
+    "Explore Suno’s official demos and creator examples, from folk and dance to jazz, piano and film scores. Choose a direction, try the prompts and follow the tutorials to develop your song or arrangement.",
+    "Turn a song into a release teaser, performance clip or visual loop. Explore official model demos and creator examples, then follow the nature-shot and portrait-singing tutorials from planning to editing."
   ],
   "project_actions": [
     "Open the songwriting guide →",
@@ -75,8 +75,8 @@
     "Commercial license",
     "Terms of service"
   ],
-  "trust_title": "Who maintains this page?",
-  "trust": "Maintained by the AI Music Maker team. The brand website identifies its operator as FLAQ TECH PTE. LTD. Product links here lead to our own service; they are not independent reviews or endorsements by model providers. Public examples in the guides retain their source links and do not establish that we reproduced the results.",
+  "trust_title": "About AI Music Maker",
+  "trust": "Our team maintains these guides and welcomes contributions from music and video creators. AI Music Maker is operated by FLAQ TECH PTE. LTD. The guides link to original examples, references and exercises so you can explore each idea further.",
   "reviewed": "Product navigation, website languages and affiliate terms checked on 2026-09-23. See the source and maintenance notes.",
   "source_link": "Sources and maintenance",
   "contribute_title": "Help make the next guide better",
@@ -87,7 +87,7 @@
     "AI Music Maker community"
   ],
   "affiliate_title": "We welcome affiliate partnerships",
-  "affiliate": "Make tutorials, teach music creation or run a creator community? You can recommend AI Music Maker through our affiliate program. Start with a useful explanation of how a tool fits your audience.",
+  "affiliate": "Share AI Music Maker through tutorials, music lessons or your creator community. Our affiliate program supports partners who help people discover useful music tools and put them to work.",
   "affiliate_rules": "The current program lists 20% for a referred user's first valid paid order and 10% for subsequent valid paid orders within 60 days of registration. Eligibility, attribution, refunds, chargebacks and the current agreement determine payable commission. Earnings are not guaranteed; disclose your affiliate relationship when recommending the service.",
   "affiliate_steps": "Sign in to AI Music Maker, complete your affiliate profile, accept the agreement and create your referral link in the affiliate workspace.",
   "affiliate_actions": [
@@ -96,8 +96,8 @@
   ],
   "links_note": "Tool, policy and affiliate links below open the English website pages.",
   "project_image_captions": [
-    "Orange vinyl cover for the songwriting guide. Original editorial artwork with English lettering; not a product screenshot.",
-    "Illustrated workflow: choose music → plan shots → generate → edit and export. English concept illustration, not a product screenshot or tested video result."
+    "Songwriting ideas across piano, jazz, acoustic guitar, dance and animation. Guide cover with English lettering.",
+    "From music to video: choose music, plan shots, generate clips, then edit and export. Illustrated workflow with English labels."
   ],
   "image_zoom": "View full-size image ↗",
   "view_switch": [

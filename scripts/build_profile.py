@@ -51,7 +51,7 @@ for code,name in LANGS:
   sections += [f'\n```text\n{t["prompt"]}\n```\n\n> {t["prompt_note"]}\n',f'<a id="guides"></a>\n\n## {t["projects_title"]}\n\n{t["why"]}\n']
   cards=[]
   for i,(slug,title,icon) in enumerate([('awesome-suno-creator-guide','Awesome Suno Creator Guide','♫'),('awesome-music-video-creator-guide','Awesome Music Video Creator Guide','▶')]):
-   url=f'https://github.com/aimusicmaker/{slug}/blob/main/{file(code)}'
+   url=f'https://github.com/aimusicmaker/{slug}/blob/main/{"mobile/" if mobile else ""}{file(code)}'
    asset = ['songwriting-guide.png', 'music-video-workflow.png'][i]
    caption = html.escape(t['project_image_captions'][i], quote=True)
    if mobile:

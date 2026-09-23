@@ -4,7 +4,7 @@
 
 | 本仓库文件 | 原始文件 | 图文对应 |
 | --- | --- | --- |
-| `songwriting-guide.png` | [歌曲指南封面](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/assets/creator-guide-cover.png) | 橙色唱片及歌曲创作主题；放在歌曲指南介绍之后，点击进入对应语言的指南 |
+| `songwriting-guide.png` | [歌曲指南封面](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/assets/creator-guide-cover.png) | 钢琴、爵士、吉他、舞蹈及动画的多风格歌曲创作主题；放在歌曲指南介绍之后，点击进入对应语言的指南 |
 | `music-video-workflow.png` | [音乐视频流程图](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/assets/music-video-workflow.png) | 选音乐、规划镜头、生成、剪辑导出四步；放在音乐视频指南介绍之后，点击进入对应语言的指南 |
 
 来源说明：[歌曲指南图片权利说明](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/assets/README.md)、[视频指南图片权利说明](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/assets/README.md)。
@@ -16,3 +16,5 @@ Copyright (c) 2026 AI Music Maker。源仓库在可授予权利范围内采用 M
 ## 品牌 LOGO
 
 `musicmaker-logo.svg` 来自 [AI Music Maker 官网 LOGO](https://musicmaker.im/images/logo.svg)，原样保存，用于所有语言的桌面与手机版品牌标题。它是品牌标识，不纳入插画 MIT 授权。`musicmaker-avatar.png` 是同一 LOGO 的 PNG 格式副本，供组织管理员上传为头像。
+
+封面同步版本：歌曲指南 `c138449`，视频指南 `037c393`。本次歌曲封面已更新，视频封面与公开版本一致。

@@ -18,7 +18,7 @@
 
 ---
 
-O AI Music Maker reúne criação de músicas, letras, ferramentas de áudio e recursos visuais para música em um único espaço criativo. Esta é nossa página oficial no GitHub para guias públicos: um lugar onde compositores iniciantes, criadores de vídeos e educadores musicais podem aprender, adaptar materiais e contribuir.
+AI Music Maker reúne músicas, letras, áudio e recursos visuais para música em um só espaço criativo. Explore nossos guias para escrever sua primeira música, criar a trilha de um vídeo ou experimentar um novo som.
 
 [Comece aqui](#start) · [Guias de código aberto](#guides) · [Ferramentas criativas](#tools) · [Sobre estes recursos](#about) · [Parceiros afiliados](#affiliate)
 
@@ -36,37 +36,37 @@ O AI Music Maker reúne criação de músicas, letras, ferramentas de áudio e r
 Uma música pop acústica acolhedora para uma viagem tranquila de trem de volta para casa. Violão suave e piano delicado, voz intimista, uma estrofe contida e um refrão mais luminoso. Termine suavemente.
 ```
 
-> Uma sugestão inicial escrita para esta página, não uma receita de geração testada. Os resultados variam conforme a ferramenta, o modelo e as configurações escolhidas.
+> Comece com esta descrição e ajuste os instrumentos, os vocais e o clima à medida que escuta.
 
 <a id="guides"></a>
 
 ## Aprenda, crie e compartilhe
 
-Uma faixa pronta não mostra todas as decisões por trás dela. Publicamos instruções, fontes e exercícios passo a passo para você estudar essas escolhas, adaptá-las ao seu trabalho e ajudar a melhorar os guias. Os repositórios compartilham materiais de aprendizagem; o serviço online do AI Music Maker é um produto separado.
+Explore uma direção musical, aprenda com os exemplos e dê seu toque pessoal. Nossos guias reúnem fontes, instruções e exercícios passo a passo para compor músicas e criar videoclipes.
 
 ### ♫ Awesome Suno Creator Guide
 
-Para compositores: explore referências oficiais do Suno, exemplos para ouvir, instruções, letras originais e soluções práticas. Este guia organizado de forma independente não é a documentação oficial do Suno.
+Explore as demonstrações oficiais do Suno e os exemplos de criadores, do folk e da dance ao jazz, piano e trilhas de cinema. Escolha uma direção, experimente as instruções e siga os tutoriais para desenvolver sua música ou seu arranjo.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Capa do guia de composição com um disco de vinil laranja. Ilustração editorial original com texto em inglês; não é uma captura de tela do produto."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Ideias de composição com piano, jazz, violão e dance, além de música para animação. Capa do guia com texto em inglês."></a>
 
-Capa do guia de composição com um disco de vinil laranja. Ilustração editorial original com texto em inglês; não é uma captura de tela do produto.
+Ideias de composição com piano, jazz, violão e dance, além de música para animação. Capa do guia com texto em inglês.
 
 [Ver imagem em tamanho original ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
 
-**[Abrir o guia de composição →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_PT.md)**
+**[Abrir o guia de composição →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_PT.md)**
 
 ### ▶ Awesome Music Video Creator Guide
 
-Para criadores de vídeos: transforme uma música em um plano de cenas, com exemplos vinculados às fontes, instruções que você pode copiar e exercícios de edição. Os exemplos de criadores e os exercícios novos são identificados separadamente.
+Transforme uma música em uma prévia de lançamento, um vídeo de apresentação ou um loop visual. Explore demonstrações oficiais de modelos e exemplos de criadores; depois, siga os tutoriais de cenas da natureza e retratos cantando, do planejamento à edição.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="Fluxo ilustrado: escolha a música → planeje as cenas → gere as imagens → edite e exporte. Ilustração conceitual em inglês, não uma captura de tela do produto nem o resultado de um teste de vídeo."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar. Fluxo ilustrado com legendas em inglês."></a>
 
-Fluxo ilustrado: escolha a música → planeje as cenas → gere as imagens → edite e exporte. Ilustração conceitual em inglês, não uma captura de tela do produto nem o resultado de um teste de vídeo.
+Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar. Fluxo ilustrado com legendas em inglês.
 
 [Ver imagem em tamanho original ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
 
-**[Planejar seu primeiro clipe musical →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_PT.md)**
+**[Planejar seu primeiro clipe musical →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_PT.md)**
 
 <a id="tools"></a>
 
@@ -117,9 +117,9 @@ Os modelos disponíveis, os créditos, os downloads e as permissões de uso come
 
 <a id="about"></a>
 
-## Quem mantém esta página?
+## Sobre o AI Music Maker
 
-Esta página é mantida pela equipe AI Music Maker. O site da marca identifica FLAQ TECH PTE. LTD. como sua operadora. Os links de produtos levam ao nosso próprio serviço; não são avaliações independentes nem recomendações dos fornecedores de modelos. Os exemplos públicos nos guias mantêm os links para suas fontes e não comprovam que reproduzimos os resultados.
+Nossa equipe mantém estes guias e recebe contribuições de criadores de música e vídeo. AI Music Maker é operado pela FLAQ TECH PTE. LTD. Os guias incluem links para exemplos originais, referências e exercícios para você explorar cada ideia com mais profundidade.
 
 <details>
 <summary>Fontes e manutenção</summary>
@@ -140,7 +140,7 @@ Encontrou uma etapa pouco clara ou um link quebrado? Abra uma issue no repositó
 
 ## Estamos abertos a parcerias de afiliação
 
-Você cria tutoriais, ensina criação musical ou administra uma comunidade de criadores? Pode recomendar o AI Music Maker pelo nosso programa de afiliados. Comece com uma explicação útil sobre como uma ferramenta atende ao seu público.
+Apresente o AI Music Maker em tutoriais, aulas de música ou na sua comunidade de criadores. Nosso programa de afiliados apoia parceiros que ajudam as pessoas a descobrir ferramentas musicais úteis e a colocá-las em prática.
 
 O programa atual informa 20% para o primeiro pedido pago válido de um usuário indicado e 10% para os pedidos pagos válidos seguintes, dentro de 60 dias após o cadastro desse usuário. A elegibilidade, a atribuição, os reembolsos, as contestações de pagamento e o acordo vigente determinam a comissão a pagar. Não há garantia de ganhos; informe sua relação de afiliado ao recomendar o serviço.
 

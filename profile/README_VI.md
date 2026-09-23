@@ -18,7 +18,7 @@
 
 ---
 
-AI Music Maker tập hợp công cụ tạo bài hát, viết lời, xử lý âm thanh và làm hình ảnh cho âm nhạc trong cùng một không gian sáng tạo. Đây là trang GitHub chính thức của chúng tôi dành cho các hướng dẫn công khai, nơi người mới viết nhạc, người làm video và giáo viên âm nhạc có thể học hỏi, vận dụng và đóng góp.
+AI Music Maker tập hợp công cụ tạo bài hát, lời ca, âm thanh và hình ảnh âm nhạc trong một không gian sáng tạo. Khám phá các hướng dẫn để viết bài hát đầu tiên, làm nhạc cho video hoặc thử một màu sắc âm nhạc mới.
 
 [Bắt đầu tại đây](#start) · [Hướng dẫn mã nguồn mở](#guides) · [Công cụ sáng tạo](#tools) · [Về các tài liệu này](#about) · [Đối tác tiếp thị liên kết](#affiliate)
 
@@ -36,17 +36,17 @@ AI Music Maker tập hợp công cụ tạo bài hát, viết lời, xử lý â
 Một bài pop acoustic ấm áp cho chuyến tàu về nhà yên tĩnh. Guitar nhẹ nhàng và piano êm dịu, giọng hát gần gũi, phiên khúc tiết chế và điệp khúc tươi sáng hơn. Kết thúc nhẹ nhàng.
 ```
 
-> Đây là mẫu chỉ dẫn khởi đầu được viết cho trang này, chưa phải công thức tạo nhạc đã được kiểm thử. Kết quả thay đổi theo công cụ, mô hình và thiết lập đã chọn.
+> Bắt đầu với mô tả này, rồi vừa nghe vừa điều chỉnh nhạc cụ, giọng hát và sắc thái của bài nhạc.
 
 <a id="guides"></a>
 
 ## Học hỏi, sáng tạo, chia sẻ
 
-Một bản nhạc hoàn chỉnh không cho thấy mọi quyết định trong quá trình làm ra nó. Chúng tôi công bố câu lệnh, nguồn tham khảo và bài tập từng bước để bạn tìm hiểu các lựa chọn, áp dụng vào tác phẩm của mình và góp phần cải thiện hướng dẫn. Các kho lưu trữ chia sẻ tài liệu học tập; dịch vụ AI Music Maker trực tuyến là một sản phẩm riêng.
+Khám phá hướng âm nhạc bạn yêu thích, học từ các ví dụ và phát triển theo phong cách riêng. Các hướng dẫn tập hợp nguồn tham khảo, câu lệnh và bài tập từng bước về sáng tác bài hát và làm video âm nhạc.
 
 <table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>Dành cho người viết nhạc: tìm hiểu tài liệu chính thức của Suno, ví dụ để nghe, câu lệnh, lời bài hát tự sáng tác và cách khắc phục vấn đề thực tế. Hướng dẫn này được biên soạn độc lập, không phải tài liệu chính thức của Suno.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="Bìa hướng dẫn sáng tác với đĩa than màu cam. Tranh minh họa biên tập nguyên gốc có chữ tiếng Anh, không phải ảnh chụp màn hình sản phẩm."></a><p>Bìa hướng dẫn sáng tác với đĩa than màu cam. Tranh minh họa biên tập nguyên gốc có chữ tiếng Anh, không phải ảnh chụp màn hình sản phẩm.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">Xem ảnh kích thước đầy đủ ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_VI.md"><b>Mở hướng dẫn viết nhạc →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>Dành cho người làm video: phát triển bài hát thành kế hoạch cảnh quay với ví dụ có liên kết nguồn, câu lệnh có thể sao chép và bài tập dựng phim. Ví dụ của người sáng tạo và bài tập mới biên soạn được ghi rõ, tách biệt nhau.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="Quy trình minh họa: chọn nhạc → lên kế hoạch cảnh quay → tạo hình ảnh → dựng và xuất video. Tranh ý tưởng bằng tiếng Anh, không phải ảnh chụp sản phẩm hay kết quả thử nghiệm video."></a><p>Quy trình minh họa: chọn nhạc → lên kế hoạch cảnh quay → tạo hình ảnh → dựng và xuất video. Tranh ý tưởng bằng tiếng Anh, không phải ảnh chụp sản phẩm hay kết quả thử nghiệm video.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">Xem ảnh kích thước đầy đủ ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_VI.md"><b>Lên kế hoạch cho video âm nhạc đầu tiên →</b></a></td>
+<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>Khám phá bản demo chính thức của Suno và tác phẩm của các nhà sáng tạo, từ folk, dance đến jazz, piano và nhạc phim. Chọn hướng bạn muốn thử, dùng các câu lệnh rồi làm theo hướng dẫn để phát triển bài hát hoặc bản phối.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="Ý tưởng sáng tác từ piano, jazz, guitar acoustic, dance và hoạt hình. Bìa hướng dẫn có chữ tiếng Anh."></a><p>Ý tưởng sáng tác từ piano, jazz, guitar acoustic, dance và hoạt hình. Bìa hướng dẫn có chữ tiếng Anh.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">Xem ảnh kích thước đầy đủ ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_VI.md"><b>Mở hướng dẫn viết nhạc →</b></a></td>
+<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>Biến bài hát thành video nhá hàng cho lần phát hành, clip biểu diễn hoặc hình ảnh chuyển động lặp lại. Khám phá bản demo chính thức của các mô hình và tác phẩm của nhà sáng tạo, rồi làm theo hướng dẫn về video cảnh thiên nhiên và chân dung hát, từ lên kế hoạch đến biên tập.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="Từ âm nhạc đến video: chọn nhạc, lên kế hoạch cảnh quay, tạo clip, sau đó biên tập và xuất video. Sơ đồ minh họa quy trình có nhãn tiếng Anh."></a><p>Từ âm nhạc đến video: chọn nhạc, lên kế hoạch cảnh quay, tạo clip, sau đó biên tập và xuất video. Sơ đồ minh họa quy trình có nhãn tiếng Anh.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">Xem ảnh kích thước đầy đủ ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_VI.md"><b>Lên kế hoạch cho video âm nhạc đầu tiên →</b></a></td>
 </tr></table>
 
 <a id="tools"></a>
@@ -70,9 +70,9 @@ Mô hình, tín dụng sử dụng, khả năng tải xuống và quyền dùng 
 
 <a id="about"></a>
 
-## Ai duy trì trang này?
+## Về AI Music Maker
 
-Trang do nhóm AI Music Maker duy trì. Website thương hiệu ghi đơn vị vận hành là FLAQ TECH PTE. LTD. Các liên kết sản phẩm ở đây dẫn đến dịch vụ của chúng tôi; chúng không phải đánh giá độc lập hay sự chứng thực của nhà cung cấp mô hình. Các ví dụ công khai trong hướng dẫn giữ nguyên liên kết nguồn và không chứng minh rằng chúng tôi đã tái tạo được kết quả đó.
+Đội ngũ chúng tôi duy trì các hướng dẫn này và chào đón đóng góp từ những người sáng tạo âm nhạc và video. AI Music Maker do FLAQ TECH PTE. LTD. vận hành. Các hướng dẫn có liên kết đến ví dụ gốc, tài liệu tham khảo và bài tập để bạn tìm hiểu sâu hơn về từng ý tưởng.
 
 <details>
 <summary>Nguồn và việc duy trì nội dung</summary>
@@ -93,7 +93,7 @@ Bạn thấy bước khó hiểu hoặc liên kết hỏng? Hãy tạo báo cáo
 
 ## Chúng tôi hoan nghênh hợp tác tiếp thị liên kết
 
-Bạn làm hướng dẫn, dạy sáng tạo âm nhạc hoặc điều hành cộng đồng sáng tạo? Bạn có thể giới thiệu AI Music Maker qua chương trình tiếp thị liên kết của chúng tôi. Hãy bắt đầu bằng lời giải thích hữu ích về cách công cụ đáp ứng nhu cầu của người xem.
+Giới thiệu AI Music Maker qua bài hướng dẫn, lớp học âm nhạc hoặc cộng đồng sáng tạo của bạn. Chương trình tiếp thị liên kết của chúng tôi hỗ trợ các đối tác giúp mọi người khám phá và sử dụng những công cụ âm nhạc hữu ích.
 
 Chương trình hiện tại nêu mức hoa hồng 20% cho đơn hàng trả phí hợp lệ đầu tiên của người dùng được giới thiệu và 10% cho các đơn hàng trả phí hợp lệ tiếp theo trong vòng 60 ngày kể từ khi đăng ký. Điều kiện đủ tư cách, việc ghi nhận nguồn giới thiệu, hoàn tiền, yêu cầu bồi hoàn giao dịch và thỏa thuận hiện hành quyết định khoản hoa hồng được chi trả. Thu nhập không được bảo đảm; hãy công khai quan hệ tiếp thị liên kết khi giới thiệu dịch vụ.
 

@@ -18,7 +18,7 @@
 
 ---
 
-AI Music Maker menyatukan pembuatan lagu, lirik, alat audio, dan visual musik dalam satu ruang berkarya. Inilah halaman resmi GitHub kami untuk panduan publik: tempat penulis lagu pemula, kreator video, dan pengajar musik belajar, menyesuaikan materi, serta berkontribusi.
+AI Music Maker menyatukan lagu, lirik, audio, dan visual musik dalam satu ruang berkarya. Jelajahi panduan kami untuk membuat lagu pertama, mengisi musik untuk video, atau mencoba warna suara baru.
 
 [Mulai di sini](#start) · [Panduan sumber terbuka](#guides) · [Alat kreatif](#tools) · [Tentang materi ini](#about) · [Mitra afiliasi](#affiliate)
 
@@ -36,37 +36,37 @@ AI Music Maker menyatukan pembuatan lagu, lirik, alat audio, dan visual musik da
 Lagu pop akustik yang hangat untuk perjalanan pulang dengan kereta yang tenang. Gitar lembut dan piano halus, vokal yang terasa dekat, bait yang tertahan, serta refrain yang lebih cerah. Akhiri dengan lembut.
 ```
 
-> Contoh arahan awal yang ditulis untuk halaman ini, bukan resep pembuatan yang sudah diuji. Hasil bergantung pada alat, model, dan pengaturan yang dipilih.
+> Mulailah dengan deskripsi ini, lalu sesuaikan instrumen, vokal, dan suasananya sambil mendengarkan hasilnya.
 
 <a id="guides"></a>
 
 ## Belajar, berkarya, berbagi
 
-Lagu yang sudah jadi tidak memperlihatkan setiap keputusan di baliknya. Kami membagikan perintah, referensi sumber, dan latihan bertahap agar Anda dapat mempelajari pilihan tersebut, menerapkannya pada karya sendiri, serta membantu memperbaiki panduan. Repositori ini membagikan materi pembelajaran; layanan daring AI Music Maker merupakan produk tersendiri.
+Temukan arah musik yang ingin Anda coba, pelajari contohnya, lalu kembangkan dengan gaya Anda sendiri. Panduan kami memuat sumber rujukan, prompt, dan latihan bertahap untuk penulisan lagu serta pembuatan video musik.
 
 ### ♫ Awesome Suno Creator Guide
 
-Untuk penulis lagu: jelajahi referensi resmi Suno, contoh untuk didengarkan, perintah, lirik orisinal, dan solusi praktis. Panduan ini disusun secara independen dan bukan dokumentasi resmi Suno.
+Jelajahi demo resmi Suno dan karya kreator, mulai dari folk dan dance hingga jazz, piano, dan musik film. Pilih arah yang Anda sukai, coba prompt-nya, lalu ikuti tutorial untuk mengembangkan lagu atau aransemen Anda.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Sampul panduan penulisan lagu bergambar piringan hitam oranye. Ilustrasi editorial orisinal dengan teks bahasa Inggris, bukan tangkapan layar produk."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi. Sampul panduan dengan tulisan berbahasa Inggris."></a>
 
-Sampul panduan penulisan lagu bergambar piringan hitam oranye. Ilustrasi editorial orisinal dengan teks bahasa Inggris, bukan tangkapan layar produk.
+Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi. Sampul panduan dengan tulisan berbahasa Inggris.
 
 [Lihat gambar ukuran penuh ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
 
-**[Buka panduan penulisan lagu →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md)**
+**[Buka panduan penulisan lagu →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ID.md)**
 
 ### ▶ Awesome Music Video Creator Guide
 
-Untuk kreator video: kembangkan lagu menjadi rencana pengambilan gambar dengan contoh bertautan sumber, perintah yang bisa disalin, dan latihan penyuntingan. Contoh karya kreator dan latihan yang baru ditulis diberi penanda terpisah.
+Ubah lagu menjadi cuplikan promosi perilisan, video penampilan, atau visual berulang. Jelajahi demo resmi model dan karya kreator, lalu ikuti tutorial video pemandangan alam dan potret bernyanyi, dari perencanaan hingga penyuntingan.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="Alur ilustratif: pilih musik → rencanakan adegan → buat visual → edit dan ekspor. Ilustrasi konsep berbahasa Inggris, bukan tangkapan layar produk atau hasil uji video."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="Dari musik menjadi video: pilih musik, rencanakan adegan, buat klip, lalu sunting dan ekspor. Ilustrasi alur kerja dengan label berbahasa Inggris."></a>
 
-Alur ilustratif: pilih musik → rencanakan adegan → buat visual → edit dan ekspor. Ilustrasi konsep berbahasa Inggris, bukan tangkapan layar produk atau hasil uji video.
+Dari musik menjadi video: pilih musik, rencanakan adegan, buat klip, lalu sunting dan ekspor. Ilustrasi alur kerja dengan label berbahasa Inggris.
 
 [Lihat gambar ukuran penuh ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
 
-**[Rencanakan video musik pertama Anda →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md)**
+**[Rencanakan video musik pertama Anda →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ID.md)**
 
 <a id="tools"></a>
 
@@ -117,9 +117,9 @@ Model, kredit, unduhan, dan izin penggunaan komersial bergantung pada produk dan
 
 <a id="about"></a>
 
-## Siapa yang mengelola halaman ini?
+## Tentang AI Music Maker
 
-Dikelola oleh tim AI Music Maker. Situs merek mencantumkan FLAQ TECH PTE. LTD. sebagai operatornya. Tautan produk di sini menuju layanan kami sendiri; bukan ulasan independen atau dukungan dari penyedia model. Contoh publik dalam panduan tetap menyertakan tautan sumbernya dan tidak membuktikan bahwa kami telah mereproduksi hasil tersebut.
+Tim kami merawat panduan ini dan menyambut kontribusi dari kreator musik serta video. AI Music Maker dioperasikan oleh FLAQ TECH PTE. LTD. Panduan ini menyertakan tautan ke contoh asli, referensi, dan latihan agar Anda dapat mendalami setiap ide.
 
 <details>
 <summary>Sumber dan pemeliharaan</summary>
@@ -140,7 +140,7 @@ Menemukan langkah yang kurang jelas atau tautan rusak? Buat laporan masalah di r
 
 ## Kami terbuka untuk kerja sama afiliasi
 
-Anda membuat tutorial, mengajar pembuatan musik, atau mengelola komunitas kreator? Anda dapat merekomendasikan AI Music Maker melalui program afiliasi kami. Mulailah dengan penjelasan bermanfaat tentang kesesuaian alat dengan kebutuhan audiens Anda.
+Perkenalkan AI Music Maker melalui tutorial, pelajaran musik, atau komunitas kreator Anda. Program afiliasi kami mendukung mitra yang membantu orang menemukan dan menggunakan perangkat untuk membuat musik yang bermanfaat.
 
 Program saat ini mencantumkan komisi 20% untuk pesanan berbayar valid pertama dari pengguna yang Anda rujuk, serta 10% untuk pesanan berbayar valid berikutnya dalam 60 hari sejak pendaftaran. Kelayakan, atribusi rujukan, pengembalian dana, sanggahan transaksi, dan perjanjian yang berlaku menentukan komisi yang dapat dibayarkan. Penghasilan tidak dijamin; ungkapkan hubungan afiliasi Anda saat merekomendasikan layanan.
 

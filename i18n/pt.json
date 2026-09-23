@@ -1,6 +1,6 @@
 {
   "tagline": "De uma ideia de música a algo que vale a pena compartilhar.",
-  "intro": "O AI Music Maker reúne criação de músicas, letras, ferramentas de áudio e recursos visuais para música em um único espaço criativo. Esta é nossa página oficial no GitHub para guias públicos: um lugar onde compositores iniciantes, criadores de vídeos e educadores musicais podem aprender, adaptar materiais e contribuir.",
+  "intro": "AI Music Maker reúne músicas, letras, áudio e recursos visuais para música em um só espaço criativo. Explore nossos guias para escrever sua primeira música, criar a trilha de um vídeo ou experimentar um novo som.",
   "buttons": [
     "Criar uma música",
     "Explorar os guias",
@@ -20,12 +20,12 @@
     "Quando tiver um trecho que queira guardar, use o guia de clipes musicais para planejar as cenas e editar no ritmo da música."
   ],
   "prompt": "Uma música pop acústica acolhedora para uma viagem tranquila de trem de volta para casa. Violão suave e piano delicado, voz intimista, uma estrofe contida e um refrão mais luminoso. Termine suavemente.",
-  "prompt_note": "Uma sugestão inicial escrita para esta página, não uma receita de geração testada. Os resultados variam conforme a ferramenta, o modelo e as configurações escolhidas.",
+  "prompt_note": "Comece com esta descrição e ajuste os instrumentos, os vocais e o clima à medida que escuta.",
   "projects_title": "Aprenda, crie e compartilhe",
-  "why": "Uma faixa pronta não mostra todas as decisões por trás dela. Publicamos instruções, fontes e exercícios passo a passo para você estudar essas escolhas, adaptá-las ao seu trabalho e ajudar a melhorar os guias. Os repositórios compartilham materiais de aprendizagem; o serviço online do AI Music Maker é um produto separado.",
+  "why": "Explore uma direção musical, aprenda com os exemplos e dê seu toque pessoal. Nossos guias reúnem fontes, instruções e exercícios passo a passo para compor músicas e criar videoclipes.",
   "projects": [
-    "Para compositores: explore referências oficiais do Suno, exemplos para ouvir, instruções, letras originais e soluções práticas. Este guia organizado de forma independente não é a documentação oficial do Suno.",
-    "Para criadores de vídeos: transforme uma música em um plano de cenas, com exemplos vinculados às fontes, instruções que você pode copiar e exercícios de edição. Os exemplos de criadores e os exercícios novos são identificados separadamente."
+    "Explore as demonstrações oficiais do Suno e os exemplos de criadores, do folk e da dance ao jazz, piano e trilhas de cinema. Escolha uma direção, experimente as instruções e siga os tutoriais para desenvolver sua música ou seu arranjo.",
+    "Transforme uma música em uma prévia de lançamento, um vídeo de apresentação ou um loop visual. Explore demonstrações oficiais de modelos e exemplos de criadores; depois, siga os tutoriais de cenas da natureza e retratos cantando, do planejamento à edição."
   ],
   "project_actions": [
     "Abrir o guia de composição →",
@@ -75,8 +75,8 @@
     "Licença comercial",
     "Termos de serviço"
   ],
-  "trust_title": "Quem mantém esta página?",
-  "trust": "Esta página é mantida pela equipe AI Music Maker. O site da marca identifica FLAQ TECH PTE. LTD. como sua operadora. Os links de produtos levam ao nosso próprio serviço; não são avaliações independentes nem recomendações dos fornecedores de modelos. Os exemplos públicos nos guias mantêm os links para suas fontes e não comprovam que reproduzimos os resultados.",
+  "trust_title": "Sobre o AI Music Maker",
+  "trust": "Nossa equipe mantém estes guias e recebe contribuições de criadores de música e vídeo. AI Music Maker é operado pela FLAQ TECH PTE. LTD. Os guias incluem links para exemplos originais, referências e exercícios para você explorar cada ideia com mais profundidade.",
   "reviewed": "A navegação do produto, os idiomas do site e os termos de afiliação foram verificados em 2026-09-23. Consulte as fontes e as notas de manutenção.",
   "source_link": "Fontes e manutenção",
   "contribute_title": "Ajude a melhorar o próximo guia",
@@ -87,7 +87,7 @@
     "Comunidade AI Music Maker"
   ],
   "affiliate_title": "Estamos abertos a parcerias de afiliação",
-  "affiliate": "Você cria tutoriais, ensina criação musical ou administra uma comunidade de criadores? Pode recomendar o AI Music Maker pelo nosso programa de afiliados. Comece com uma explicação útil sobre como uma ferramenta atende ao seu público.",
+  "affiliate": "Apresente o AI Music Maker em tutoriais, aulas de música ou na sua comunidade de criadores. Nosso programa de afiliados apoia parceiros que ajudam as pessoas a descobrir ferramentas musicais úteis e a colocá-las em prática.",
   "affiliate_rules": "O programa atual informa 20% para o primeiro pedido pago válido de um usuário indicado e 10% para os pedidos pagos válidos seguintes, dentro de 60 dias após o cadastro desse usuário. A elegibilidade, a atribuição, os reembolsos, as contestações de pagamento e o acordo vigente determinam a comissão a pagar. Não há garantia de ganhos; informe sua relação de afiliado ao recomendar o serviço.",
   "affiliate_steps": "Entre no AI Music Maker, preencha seu perfil de afiliado, aceite o acordo e crie seu link de indicação na área de afiliados.",
   "affiliate_actions": [
@@ -96,8 +96,8 @@
   ],
   "links_note": "Os links de ferramentas, políticas e afiliação abaixo abrem as páginas em inglês do site oficial.",
   "project_image_captions": [
-    "Capa do guia de composição com um disco de vinil laranja. Ilustração editorial original com texto em inglês; não é uma captura de tela do produto.",
-    "Fluxo ilustrado: escolha a música → planeje as cenas → gere as imagens → edite e exporte. Ilustração conceitual em inglês, não uma captura de tela do produto nem o resultado de um teste de vídeo."
+    "Ideias de composição com piano, jazz, violão e dance, além de música para animação. Capa do guia com texto em inglês.",
+    "Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar. Fluxo ilustrado com legendas em inglês."
   ],
   "image_zoom": "Ver imagem em tamanho original ↗",
   "view_switch": [

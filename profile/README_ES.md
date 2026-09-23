@@ -18,7 +18,7 @@
 
 ---
 
-AI Music Maker reúne la creación de canciones, las letras, las herramientas de audio y los recursos visuales para música en un mismo espacio creativo. Esta es nuestra página oficial de GitHub para guías públicas: un lugar donde compositores principiantes, creadores de vídeo y docentes de música pueden aprender, adaptar materiales y contribuir.
+AI Music Maker reúne canciones, letras, audio y recursos visuales para la música en un mismo espacio creativo. Explora nuestras guías para escribir tu primera canción, poner música a un vídeo o probar un sonido nuevo.
 
 [Empieza aquí](#start) · [Guías de código abierto](#guides) · [Herramientas creativas](#tools) · [Sobre estos recursos](#about) · [Socios afiliados](#affiliate)
 
@@ -36,17 +36,17 @@ AI Music Maker reúne la creación de canciones, las letras, las herramientas de
 Una canción pop acústica cálida para un tranquilo viaje en tren de vuelta a casa. Guitarra suave y piano delicado, voz íntima, una estrofa contenida y un estribillo más luminoso. Termina con suavidad.
 ```
 
-> Una propuesta inicial escrita para esta página, no una fórmula de generación probada. Los resultados varían según la herramienta, el modelo y los ajustes elegidos.
+> Empieza con esta descripción y ajusta los instrumentos, las voces y el ambiente a medida que escuchas.
 
 <a id="guides"></a>
 
 ## Aprende, crea y comparte
 
-Una canción terminada no muestra todas las decisiones que hay detrás. Publicamos instrucciones, fuentes y ejercicios paso a paso para que puedas estudiar esas decisiones, adaptarlas a tu trabajo y ayudar a mejorar las guías. Los repositorios ofrecen materiales de aprendizaje; el servicio en línea de AI Music Maker es un producto aparte.
+Explora un estilo musical, aprende de los ejemplos y dale tu toque personal. Nuestras guías reúnen fuentes, instrucciones y ejercicios paso a paso para componer canciones y crear vídeos musicales.
 
 <table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>Para compositores: explora referencias oficiales de Suno, ejemplos para escuchar, instrucciones, letras originales y soluciones prácticas. Esta guía elaborada de forma independiente no es la documentación oficial de Suno.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ES.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="Portada de la guía de composición con un disco de vinilo naranja. Ilustración editorial original con texto en inglés; no es una captura de pantalla del producto."></a><p>Portada de la guía de composición con un disco de vinilo naranja. Ilustración editorial original con texto en inglés; no es una captura de pantalla del producto.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">Ver imagen a tamaño completo ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ES.md"><b>Abrir la guía de composición →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>Para creadores de vídeo: pasa de una canción a un plan de planos, con ejemplos enlazados a sus fuentes, instrucciones que puedes copiar y ejercicios de edición. Los ejemplos de creadores y los ejercicios nuevos se identifican por separado.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ES.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="Proceso ilustrado: elegir música → planificar planos → generar imágenes → editar y exportar. Ilustración conceptual en inglés, no una captura del producto ni el resultado de una prueba de vídeo."></a><p>Proceso ilustrado: elegir música → planificar planos → generar imágenes → editar y exportar. Ilustración conceptual en inglés, no una captura del producto ni el resultado de una prueba de vídeo.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">Ver imagen a tamaño completo ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ES.md"><b>Planificar tu primer vídeo musical →</b></a></td>
+<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>Explora las demostraciones oficiales de Suno y los ejemplos de creadores, desde folk y dance hasta jazz, piano y bandas sonoras. Elige un estilo, prueba las instrucciones y sigue los tutoriales para desarrollar tu canción o arreglo.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ES.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="Ideas para canciones con piano, jazz, guitarra acústica y dance, y para animación. Portada de la guía con texto en inglés."></a><p>Ideas para canciones con piano, jazz, guitarra acústica y dance, y para animación. Portada de la guía con texto en inglés.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">Ver imagen a tamaño completo ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ES.md"><b>Abrir la guía de composición →</b></a></td>
+<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>Convierte una canción en un adelanto de lanzamiento, un vídeo de interpretación o un bucle visual. Explora demostraciones oficiales de modelos y ejemplos de creadores; después, sigue los tutoriales de escenas de naturaleza y retratos cantando, desde la planificación hasta el montaje.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ES.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="De la música al vídeo: elegir la música, planificar los planos, generar los clips y, por último, editar y exportar. Flujo ilustrado con textos en inglés."></a><p>De la música al vídeo: elegir la música, planificar los planos, generar los clips y, por último, editar y exportar. Flujo ilustrado con textos en inglés.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">Ver imagen a tamaño completo ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ES.md"><b>Planificar tu primer vídeo musical →</b></a></td>
 </tr></table>
 
 <a id="tools"></a>
@@ -70,9 +70,9 @@ Los modelos disponibles, los créditos, las descargas y los permisos de uso come
 
 <a id="about"></a>
 
-## ¿Quién mantiene esta página?
+## Acerca de AI Music Maker
 
-El equipo de AI Music Maker mantiene esta página. El sitio de la marca identifica a FLAQ TECH PTE. LTD. como su operador. Los enlaces de productos llevan a nuestro propio servicio; no son reseñas independientes ni recomendaciones de los proveedores de modelos. Los ejemplos públicos de las guías conservan sus enlaces de origen y no demuestran que hayamos reproducido sus resultados.
+Nuestro equipo mantiene estas guías y recibe con gusto las aportaciones de creadores de música y vídeo. AI Music Maker está operado por FLAQ TECH PTE. LTD. Las guías enlazan a ejemplos originales, referencias y ejercicios para que puedas profundizar en cada idea.
 
 <details>
 <summary>Fuentes y mantenimiento</summary>
@@ -93,7 +93,7 @@ La navegación del producto, los idiomas del sitio y las condiciones de afiliaci
 
 ## Damos la bienvenida a las colaboraciones de afiliación
 
-¿Creas tutoriales, enseñas creación musical o diriges una comunidad de creadores? Puedes recomendar AI Music Maker mediante nuestro programa de afiliación. Empieza con una explicación útil de cómo una herramienta puede servir a tu público.
+Comparte AI Music Maker mediante tutoriales, clases de música o tu comunidad de creadores. Nuestro programa de afiliados apoya a quienes ayudan a otras personas a descubrir herramientas musicales útiles y a ponerlas en práctica.
 
 El programa actual indica un 20% por el primer pedido pagado válido de un usuario referido y un 10% por sus siguientes pedidos pagados válidos dentro de los 60 días posteriores al registro. La elegibilidad, la atribución, los reembolsos, las devoluciones de cargos y el acuerdo vigente determinan la comisión que se puede abonar. No se garantizan ingresos; informa de tu relación de afiliación cuando recomiendes el servicio.
 
