@@ -101,8 +101,8 @@
   ],
   "links_note": "Die folgenden Links zu Werkzeugen, Richtlinien und zum Partnerprogramm öffnen die englischen Seiten der offiziellen Website.",
   "project_image_captions": [
-    "Ideen für Songs mit Klavier, Jazz, Akustikgitarre und Dance sowie für Animationsfilme. Cover des Leitfadens mit englischer Beschriftung.",
-    "Von der Musik zum Video: Musik auswählen, Einstellungen planen, Clips generieren, schneiden und exportieren. Illustrierter Ablauf mit englischen Beschriftungen."
+    "Ideen für Songs mit Klavier, Jazz, Akustikgitarre und Dance sowie für Animationsfilme.",
+    "Von der Musik zum Video: Musik auswählen, Einstellungen planen, Clips generieren, schneiden und exportieren."
   ],
   "image_zoom": "Bild in voller Größe ansehen ↗",
   "view_switch": [
@@ -138,5 +138,6 @@
       "Weitere gültige bezahlte Bestellungen innerhalb von 60 Tagen nach der Registrierung des geworbenen Nutzers."
     ]
   ],
-  "affiliate_steps_title": "So machst du mit"
+  "affiliate_steps_title": "So machst du mit",
+  "tools_intro": "Vom Songwriting und der Audiobearbeitung bis zu Coverdesign und Musikvideos: Wähle das passende Werkzeug für deinen nächsten Schritt."
 }

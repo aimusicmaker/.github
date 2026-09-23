@@ -101,8 +101,8 @@
   ],
   "links_note": "I link a strumenti, condizioni e programma di affiliazione qui sotto aprono le pagine in inglese del sito ufficiale.",
   "project_image_captions": [
-    "Idee per canzoni tra pianoforte, jazz, chitarra acustica, dance e animazione. Copertina della guida con scritte in inglese.",
-    "Dalla musica al video: scegliere la musica, pianificare le inquadrature, generare le clip, montare ed esportare. Percorso illustrato con etichette in inglese."
+    "Idee per canzoni tra pianoforte, jazz, chitarra acustica, dance e animazione.",
+    "Dalla musica al video: scegliere la musica, pianificare le inquadrature, generare le clip, montare ed esportare."
   ],
   "image_zoom": "Visualizza immagine originale ↗",
   "view_switch": [
@@ -138,5 +138,6 @@
       "Gli ordini a pagamento validi successivi, entro 60 giorni dalla registrazione dell’utente presentato."
     ]
   ],
-  "affiliate_steps_title": "Come partecipare"
+  "affiliate_steps_title": "Come partecipare",
+  "tools_intro": "Dalla scrittura di canzoni e dall’elaborazione audio alle copertine e ai video musicali, scegli lo strumento adatto al tuo prossimo passo."
 }

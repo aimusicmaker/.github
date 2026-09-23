@@ -32,13 +32,13 @@ AI Music Maker は、ソングライター、動画クリエイター、音楽�
 
 ## 制作ガイドを見てみよう
 
-### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+### ♫ [Suno Music Creation Guide: Prompts, Examples & Tutorials](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_JA.md)
 
 フォークやダンスからジャズ、ピアノ、映画音楽まで、Suno の公式デモとクリエイターの作例を紹介しています。目指す方向を選び、プロンプトを試し、チュートリアルに沿って曲やアレンジを磨いてみましょう。
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="ピアノ、ジャズ、アコースティックギター、ダンス、アニメーションから広がる曲作りのアイデア。英語の文字を使ったガイドの表紙。"></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="ピアノ、ジャズ、アコースティックギター、ダンス、アニメーションから広がる曲作りのアイデア。"></a>
 
-ピアノ、ジャズ、アコースティックギター、ダンス、アニメーションから広がる曲作りのアイデア。英語の文字を使ったガイドの表紙。
+ピアノ、ジャズ、アコースティックギター、ダンス、アニメーションから広がる曲作りのアイデア。
 
 [原寸画像を見る ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
@@ -50,13 +50,13 @@ AI Music Maker は、ソングライター、動画クリエイター、音楽�
 
 ---
 
-### ▶ Awesome Music Video Creator Guide
+### ▶ [Awesome Music Video Creator Guide](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_JA.md)
 
 曲をリリース予告、パフォーマンス映像、ループ映像に仕上げましょう。モデルの公式デモやクリエイターの作例を見ながら、自然の風景を使う動画と人物が歌う動画のチュートリアルで、企画から編集まで学べます。
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="音楽から動画へ：曲を選び、カットを計画し、映像を生成して、編集・書き出しへ。英語のラベルを使った制作フロー図。"></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="音楽から動画へ：曲を選び、カットを計画し、映像を生成して、編集・書き出しへ。"></a>
 
-音楽から動画へ：曲を選び、カットを計画し、映像を生成して、編集・書き出しへ。英語のラベルを使った制作フロー図。
+音楽から動画へ：曲を選び、カットを計画し、映像を生成して、編集・書き出しへ。
 
 [原寸画像を見る ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
@@ -83,6 +83,8 @@ AI Music Maker は、ソングライター、動画クリエイター、音楽�
 <a id="tools"></a>
 
 ## 制作の次のステップを選ぶ
+
+曲作りや音声の加工から、ジャケット画像やミュージックビデオの制作まで。次にやりたいことに合うツールを選びましょう。
 
 以下のツール、規約、アフィリエイトのリンクは、公式サイトの英語ページを開きます。
 

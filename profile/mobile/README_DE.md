@@ -32,13 +32,13 @@ Ein gutes Beispiel erleichtert den Einstieg. Wir sammeln Hörbeispiele, kreative
 
 ## Entdecke unsere Anleitungen zum kreativen Arbeiten
 
-### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+### ♫ [Suno Music Creation Guide: Prompts, Examples & Tutorials](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_DE.md)
 
 Entdecke offizielle Suno-Demos und Beispiele von Kreativen – von Folk und Dance bis zu Jazz, Klaviermusik und Filmmusik. Wähle eine Richtung, probiere die Prompts aus und entwickle mit den Anleitungen deinen Song oder dein Arrangement.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_DE.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Ideen für Songs mit Klavier, Jazz, Akustikgitarre und Dance sowie für Animationsfilme. Cover des Leitfadens mit englischer Beschriftung."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_DE.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Ideen für Songs mit Klavier, Jazz, Akustikgitarre und Dance sowie für Animationsfilme."></a>
 
-Ideen für Songs mit Klavier, Jazz, Akustikgitarre und Dance sowie für Animationsfilme. Cover des Leitfadens mit englischer Beschriftung.
+Ideen für Songs mit Klavier, Jazz, Akustikgitarre und Dance sowie für Animationsfilme.
 
 [Bild in voller Größe ansehen ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
@@ -50,13 +50,13 @@ Ideen für Songs mit Klavier, Jazz, Akustikgitarre und Dance sowie für Animatio
 
 ---
 
-### ▶ Awesome Music Video Creator Guide
+### ▶ [Awesome Music Video Creator Guide](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_DE.md)
 
 Mach aus einem Song einen Veröffentlichungsteaser, ein Performance-Video oder eine visuelle Schleife. Entdecke offizielle Modelldemos und Beispiele von Kreativen. Die Anleitungen für Naturaufnahmen und singende Porträts begleiten dich von der Planung bis zum Schnitt.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_DE.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="Von der Musik zum Video: Musik auswählen, Einstellungen planen, Clips generieren, schneiden und exportieren. Illustrierter Ablauf mit englischen Beschriftungen."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_DE.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="Von der Musik zum Video: Musik auswählen, Einstellungen planen, Clips generieren, schneiden und exportieren."></a>
 
-Von der Musik zum Video: Musik auswählen, Einstellungen planen, Clips generieren, schneiden und exportieren. Illustrierter Ablauf mit englischen Beschriftungen.
+Von der Musik zum Video: Musik auswählen, Einstellungen planen, Clips generieren, schneiden und exportieren.
 
 [Bild in voller Größe ansehen ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
@@ -83,6 +83,8 @@ Ein warmer akustischer Popsong für eine ruhige Zugfahrt nach Hause. Sanfte Gita
 <a id="tools"></a>
 
 ## Wähle den nächsten Schritt für dein Projekt
+
+Vom Songwriting und der Audiobearbeitung bis zu Coverdesign und Musikvideos: Wähle das passende Werkzeug für deinen nächsten Schritt.
 
 Die folgenden Links zu Werkzeugen, Richtlinien und zum Partnerprogramm öffnen die englischen Seiten der offiziellen Website.
 

@@ -65,10 +65,10 @@ for code,name in LANGS:
    url=f'https://github.com/aimusicmaker/{slug}/blob/main/{"mobile/" if mobile else ""}{file(code)}'
    asset = ['songwriting-guide.jpg', 'music-video-workflow.jpg'][i]
    caption = html.escape(t['project_image_captions'][i], quote=True)
-   cards.append(f'### {icon} {title}\n\n{t["projects"][i]}\n\n<a href="{url}"><img src="{RAW}/assets/{asset}" width="100%" alt="{caption}"></a>\n\n{t["project_image_captions"][i]}\n\n[{t["image_zoom"]}]({RAW}/assets/{asset})\n\n**{t["project_labels"][0]}:** {t["project_audiences"][i]}\n\n**{t["project_labels"][1]}:** {t["project_learning"][i]}\n\n**[{t["project_actions"][i]}]({url})**\n')
+   cards.append(f'### {icon} [{title}]({url})\n\n{t["projects"][i]}\n\n<a href="{url}"><img src="{RAW}/assets/{asset}" width="100%" alt="{caption}"></a>\n\n{t["project_image_captions"][i]}\n\n[{t["image_zoom"]}]({RAW}/assets/{asset})\n\n**{t["project_labels"][0]}:** {t["project_audiences"][i]}\n\n**{t["project_labels"][1]}:** {t["project_learning"][i]}\n\n**[{t["project_actions"][i]}]({url})**\n')
   sections += ['\n---\n\n'.join(cards),f'<a id="start"></a>\n\n## {t["start_title"]}\n']
   sections += [f'{i}. {step}' for i,step in enumerate(t['start'],1)]
-  sections += [f'\n```text\n{t["prompt"]}\n```\n\n> {t["prompt_note"]}\n',f'<a id="tools"></a>\n\n## {t["tools_title"]}\n\n{t["links_note"]}\n']
+  sections += [f'\n```text\n{t["prompt"]}\n```\n\n> {t["prompt_note"]}\n',f'<a id="tools"></a>\n\n## {t["tools_title"]}\n\n{t["tools_intro"]}\n\n{t["links_note"]}\n']
   if mobile:
    for row,route in zip(t['tools'],ROUTES):
     sections.append(f'### {row[0]}\n\n[{row[1]}](https://musicmaker.im/{route}/) ↗\n\n{row[2]}\n')

@@ -32,13 +32,13 @@ AI Music Maker는 작곡가, 영상 제작자, 음악 교육자가 아이디어�
 
 ## 창작 가이드 살펴보기
 
-### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+### ♫ [Suno Music Creation Guide: Prompts, Examples & Tutorials](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md)
 
 포크와 댄스부터 재즈, 피아노, 영화 음악까지 Suno 공식 데모와 크리에이터의 작품을 살펴보세요. 원하는 방향을 정하고 프롬프트를 시도한 다음, 튜토리얼을 따라 곡과 편곡을 발전시킬 수 있습니다.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="피아노, 재즈, 어쿠스틱 기타, 댄스, 애니메이션에서 찾는 곡 만들기 아이디어. 영어 문구가 들어간 가이드 표지."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="피아노, 재즈, 어쿠스틱 기타, 댄스, 애니메이션에서 찾는 곡 만들기 아이디어."></a>
 
-피아노, 재즈, 어쿠스틱 기타, 댄스, 애니메이션에서 찾는 곡 만들기 아이디어. 영어 문구가 들어간 가이드 표지.
+피아노, 재즈, 어쿠스틱 기타, 댄스, 애니메이션에서 찾는 곡 만들기 아이디어.
 
 [원본 이미지 보기 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
@@ -50,13 +50,13 @@ AI Music Maker는 작곡가, 영상 제작자, 음악 교육자가 아이디어�
 
 ---
 
-### ▶ Awesome Music Video Creator Guide
+### ▶ [Awesome Music Video Creator Guide](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md)
 
 노래를 발매 예고 영상, 공연 영상 또는 반복 재생 영상으로 만들어 보세요. 모델의 공식 데모와 크리에이터의 작품을 살펴보고, 자연 풍경 영상과 인물이 노래하는 영상 튜토리얼을 따라 기획부터 편집까지 진행할 수 있습니다.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="음악에서 영상으로: 음악 선택, 장면 계획, 영상 생성, 편집 및 내보내기. 영어로 표시된 제작 과정 그림."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="음악에서 영상으로: 음악 선택, 장면 계획, 영상 생성, 편집 및 내보내기."></a>
 
-음악에서 영상으로: 음악 선택, 장면 계획, 영상 생성, 편집 및 내보내기. 영어로 표시된 제작 과정 그림.
+음악에서 영상으로: 음악 선택, 장면 계획, 영상 생성, 편집 및 내보내기.
 
 [원본 이미지 보기 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
@@ -83,6 +83,8 @@ AI Music Maker는 작곡가, 영상 제작자, 음악 교육자가 아이디어�
 <a id="tools"></a>
 
 ## 작업의 다음 단계를 선택하세요
+
+작곡과 오디오 처리부터 커버 이미지와 뮤직비디오 제작까지, 다음 작업에 맞는 도구를 선택하세요.
 
 아래 도구, 정책 및 제휴 링크는 공식 웹사이트의 영어 페이지로 연결됩니다.
 

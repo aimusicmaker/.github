@@ -32,13 +32,13 @@ Contoh yang berguna memberi Anda titik awal. Kami menghimpun referensi musik unt
 
 ## Jelajahi panduan berkarya kami
 
-### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+### ♫ [Suno Music Creation Guide: Prompts, Examples & Tutorials](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md)
 
 Jelajahi demo resmi Suno dan karya kreator, mulai dari folk dan dance hingga jazz, piano, dan musik film. Pilih arah yang Anda sukai, coba prompt-nya, lalu ikuti tutorial untuk mengembangkan lagu atau aransemen Anda.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi. Sampul panduan dengan tulisan berbahasa Inggris."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi."></a>
 
-Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi. Sampul panduan dengan tulisan berbahasa Inggris.
+Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi.
 
 [Lihat gambar ukuran penuh ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
@@ -50,13 +50,13 @@ Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi. Sampul p
 
 ---
 
-### ▶ Awesome Music Video Creator Guide
+### ▶ [Awesome Music Video Creator Guide](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md)
 
 Ubah lagu menjadi cuplikan promosi perilisan, video penampilan, atau visual berulang. Jelajahi demo resmi model dan karya kreator, lalu ikuti tutorial video pemandangan alam dan potret bernyanyi, dari perencanaan hingga penyuntingan.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="Dari musik menjadi video: pilih musik, rencanakan adegan, buat klip, lalu sunting dan ekspor. Ilustrasi alur kerja dengan label berbahasa Inggris."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="Dari musik menjadi video: pilih musik, rencanakan adegan, buat klip, lalu sunting dan ekspor."></a>
 
-Dari musik menjadi video: pilih musik, rencanakan adegan, buat klip, lalu sunting dan ekspor. Ilustrasi alur kerja dengan label berbahasa Inggris.
+Dari musik menjadi video: pilih musik, rencanakan adegan, buat klip, lalu sunting dan ekspor.
 
 [Lihat gambar ukuran penuh ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
@@ -83,6 +83,8 @@ Lagu pop akustik yang hangat untuk perjalanan pulang dengan kereta yang tenang. 
 <a id="tools"></a>
 
 ## Pilih langkah berikutnya untuk proyek Anda
+
+Dari menulis lagu dan mengolah audio hingga membuat sampul dan video musik, pilih alat yang sesuai dengan langkah berikutnya.
 
 Tautan alat, kebijakan, dan afiliasi di bawah membuka halaman situs resmi dalam bahasa Inggris.
 

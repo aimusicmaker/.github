@@ -32,13 +32,13 @@ A useful example gives you somewhere to start. We bring listening references, cr
 
 ## Explore our creation guides
 
-### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+### ♫ [Suno Music Creation Guide: Prompts, Examples & Tutorials](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README.md)
 
 Explore Suno’s official demos and creator examples, from folk and dance to jazz, piano and film scores. Choose a direction, try the prompts and follow the tutorials to develop your song or arrangement.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Songwriting ideas across piano, jazz, acoustic guitar, dance and animation. Guide cover with English lettering."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Songwriting ideas across piano, jazz, acoustic guitar, dance and animation."></a>
 
-Songwriting ideas across piano, jazz, acoustic guitar, dance and animation. Guide cover with English lettering.
+Songwriting ideas across piano, jazz, acoustic guitar, dance and animation.
 
 [View full-size image ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
@@ -50,13 +50,13 @@ Songwriting ideas across piano, jazz, acoustic guitar, dance and animation. Guid
 
 ---
 
-### ▶ Awesome Music Video Creator Guide
+### ▶ [Awesome Music Video Creator Guide](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README.md)
 
 Turn a song into a release teaser, performance clip or visual loop. Explore official model demos and creator examples, then follow the nature-shot and portrait-singing tutorials from planning to editing.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="From music to video: choose music, plan shots, generate clips, then edit and export. Illustrated workflow with English labels."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="From music to video: choose music, plan shots, generate clips, then edit and export."></a>
 
-From music to video: choose music, plan shots, generate clips, then edit and export. Illustrated workflow with English labels.
+From music to video: choose music, plan shots, generate clips, then edit and export.
 
 [View full-size image ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
@@ -83,6 +83,8 @@ A warm acoustic pop song for a quiet train ride home. Gentle guitar and soft pia
 <a id="tools"></a>
 
 ## Choose the next step in your project
+
+From songwriting and audio processing to cover art and music videos, choose the tool that fits your next step.
 
 Tool, policy and affiliate links below open the English website pages.
 

@@ -101,8 +101,8 @@
   ],
   "links_note": "Tool, policy and affiliate links below open the English website pages.",
   "project_image_captions": [
-    "Songwriting ideas across piano, jazz, acoustic guitar, dance and animation. Guide cover with English lettering.",
-    "From music to video: choose music, plan shots, generate clips, then edit and export. Illustrated workflow with English labels."
+    "Songwriting ideas across piano, jazz, acoustic guitar, dance and animation.",
+    "From music to video: choose music, plan shots, generate clips, then edit and export."
   ],
   "image_zoom": "View full-size image ↗",
   "view_switch": [
@@ -138,5 +138,6 @@
       "Subsequent valid paid orders within 60 days of the referred user’s registration."
     ]
   ],
-  "affiliate_steps_title": "How to join"
+  "affiliate_steps_title": "How to join",
+  "tools_intro": "From songwriting and audio processing to cover art and music videos, choose the tool that fits your next step."
 }

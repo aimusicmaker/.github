@@ -32,13 +32,13 @@ Um bom exemplo oferece um ponto de partida. Reunimos referências para ouvir, pr
 
 ## Explore nossos guias de criação
 
-### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+### ♫ [Suno Music Creation Guide: Prompts, Examples & Tutorials](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_PT.md)
 
 Explore as demonstrações oficiais do Suno e os exemplos de criadores, do folk e da dance ao jazz, piano e trilhas de cinema. Escolha uma direção, experimente as instruções e siga os tutoriais para desenvolver sua música ou seu arranjo.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Ideias de composição com piano, jazz, violão e dance, além de música para animação. Capa do guia com texto em inglês."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Ideias de composição com piano, jazz, violão e dance, além de música para animação."></a>
 
-Ideias de composição com piano, jazz, violão e dance, além de música para animação. Capa do guia com texto em inglês.
+Ideias de composição com piano, jazz, violão e dance, além de música para animação.
 
 [Ver imagem em tamanho original ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
@@ -50,13 +50,13 @@ Ideias de composição com piano, jazz, violão e dance, além de música para a
 
 ---
 
-### ▶ Awesome Music Video Creator Guide
+### ▶ [Awesome Music Video Creator Guide](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_PT.md)
 
 Transforme uma música em uma prévia de lançamento, um vídeo de apresentação ou um loop visual. Explore demonstrações oficiais de modelos e exemplos de criadores; depois, siga os tutoriais de cenas da natureza e retratos cantando, do planejamento à edição.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar. Fluxo ilustrado com legendas em inglês."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar."></a>
 
-Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar. Fluxo ilustrado com legendas em inglês.
+Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar.
 
 [Ver imagem em tamanho original ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
@@ -83,6 +83,8 @@ Uma música pop acústica acolhedora para uma viagem tranquila de trem de volta 
 <a id="tools"></a>
 
 ## Escolha o próximo passo do seu projeto
+
+Da composição e do processamento de áudio à criação de capas e videoclipes, escolha a ferramenta adequada para o próximo passo.
 
 Os links de ferramentas, políticas e afiliação abaixo abrem as páginas em inglês do site oficial.
 

@@ -101,8 +101,8 @@
   ],
   "links_note": "Tautan alat, kebijakan, dan afiliasi di bawah membuka halaman situs resmi dalam bahasa Inggris.",
   "project_image_captions": [
-    "Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi. Sampul panduan dengan tulisan berbahasa Inggris.",
-    "Dari musik menjadi video: pilih musik, rencanakan adegan, buat klip, lalu sunting dan ekspor. Ilustrasi alur kerja dengan label berbahasa Inggris."
+    "Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi.",
+    "Dari musik menjadi video: pilih musik, rencanakan adegan, buat klip, lalu sunting dan ekspor."
   ],
   "image_zoom": "Lihat gambar ukuran penuh ↗",
   "view_switch": [
@@ -138,5 +138,6 @@
       "Pesanan berbayar berikutnya yang memenuhi syarat dalam 60 hari sejak pengguna yang Anda referensikan mendaftar."
     ]
   ],
-  "affiliate_steps_title": "Cara bergabung"
+  "affiliate_steps_title": "Cara bergabung",
+  "tools_intro": "Dari menulis lagu dan mengolah audio hingga membuat sampul dan video musik, pilih alat yang sesuai dengan langkah berikutnya."
 }

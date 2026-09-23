@@ -32,13 +32,13 @@ AI Music Maker 面向歌曲创作者、视频创作者和音乐教育者，帮�
 
 ## 探索创作指南
 
-### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+### ♫ [Suno Music Creation Guide: Prompts, Examples & Tutorials](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ZH.md)
 
 从 Suno 官方演示和创作者作品中寻找灵感，探索民谣、舞曲、爵士、钢琴及影视配乐。选一个方向，试用提示词，跟着教程完善歌曲或为已有旋律重新编配。
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="钢琴、爵士、原声吉他、舞蹈与动画：从一个想法探索多种音乐风格。指南封面，图中文字为英文。"></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="钢琴、爵士、原声吉他、舞蹈与动画：从一个想法探索多种音乐风格。"></a>
 
-钢琴、爵士、原声吉他、舞蹈与动画：从一个想法探索多种音乐风格。指南封面，图中文字为英文。
+钢琴、爵士、原声吉他、舞蹈与动画：从一个想法探索多种音乐风格。
 
 [查看原图 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
@@ -50,13 +50,13 @@ AI Music Maker 面向歌曲创作者、视频创作者和音乐教育者，帮�
 
 ---
 
-### ▶ Awesome Music Video Creator Guide
+### ▶ [Awesome Music Video Creator Guide](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ZH.md)
 
 把歌曲做成发行预告、演唱短片或循环播放的音乐画面。先看模型官方演示和创作者案例，再跟着自然风景镜头与人像演唱教程，完成从镜头规划到剪辑的练习。
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="从音乐到视频：选音乐、规划镜头、生成片段，再剪辑导出。流程插画，图中文字为英文。"></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="从音乐到视频：选音乐、规划镜头、生成片段，再剪辑导出。"></a>
 
-从音乐到视频：选音乐、规划镜头、生成片段，再剪辑导出。流程插画，图中文字为英文。
+从音乐到视频：选音乐、规划镜头、生成片段，再剪辑导出。
 
 [查看原图 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
@@ -83,6 +83,8 @@ AI Music Maker 面向歌曲创作者、视频创作者和音乐教育者，帮�
 <a id="tools"></a>
 
 ## 为作品选择下一步
+
+从写歌、处理音频到制作封面和音乐视频，按当前需要选择工具。
 
 下方工具、政策和联盟链接打开官网英文页面。
 

@@ -32,13 +32,13 @@ Một ví dụ hữu ích giúp bạn biết nên bắt đầu từ đâu. Chún
 
 ## Khám phá các hướng dẫn sáng tạo
 
-### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+### ♫ [Suno Music Creation Guide: Prompts, Examples & Tutorials](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_VI.md)
 
 Khám phá bản demo chính thức của Suno và tác phẩm của các nhà sáng tạo, từ folk, dance đến jazz, piano và nhạc phim. Chọn hướng bạn muốn thử, dùng các câu lệnh rồi làm theo hướng dẫn để phát triển bài hát hoặc bản phối.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Ý tưởng sáng tác từ piano, jazz, guitar acoustic, dance và hoạt hình. Bìa hướng dẫn có chữ tiếng Anh."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Ý tưởng sáng tác từ piano, jazz, guitar acoustic, dance và hoạt hình."></a>
 
-Ý tưởng sáng tác từ piano, jazz, guitar acoustic, dance và hoạt hình. Bìa hướng dẫn có chữ tiếng Anh.
+Ý tưởng sáng tác từ piano, jazz, guitar acoustic, dance và hoạt hình.
 
 [Xem ảnh kích thước đầy đủ ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
@@ -50,13 +50,13 @@ Khám phá bản demo chính thức của Suno và tác phẩm của các nhà s
 
 ---
 
-### ▶ Awesome Music Video Creator Guide
+### ▶ [Awesome Music Video Creator Guide](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_VI.md)
 
 Biến bài hát thành video nhá hàng cho lần phát hành, clip biểu diễn hoặc hình ảnh chuyển động lặp lại. Khám phá bản demo chính thức của các mô hình và tác phẩm của nhà sáng tạo, rồi làm theo hướng dẫn về video cảnh thiên nhiên và chân dung hát, từ lên kế hoạch đến biên tập.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="Từ âm nhạc đến video: chọn nhạc, lên kế hoạch cảnh quay, tạo clip, sau đó biên tập và xuất video. Sơ đồ minh họa quy trình có nhãn tiếng Anh."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="Từ âm nhạc đến video: chọn nhạc, lên kế hoạch cảnh quay, tạo clip, sau đó biên tập và xuất video."></a>
 
-Từ âm nhạc đến video: chọn nhạc, lên kế hoạch cảnh quay, tạo clip, sau đó biên tập và xuất video. Sơ đồ minh họa quy trình có nhãn tiếng Anh.
+Từ âm nhạc đến video: chọn nhạc, lên kế hoạch cảnh quay, tạo clip, sau đó biên tập và xuất video.
 
 [Xem ảnh kích thước đầy đủ ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
@@ -83,6 +83,8 @@ Một bài pop acoustic ấm áp cho chuyến tàu về nhà yên tĩnh. Guitar 
 <a id="tools"></a>
 
 ## Chọn bước tiếp theo cho dự án
+
+Từ sáng tác và xử lý âm thanh đến thiết kế ảnh bìa và làm video âm nhạc, hãy chọn công cụ phù hợp với bước tiếp theo.
 
 Các liên kết công cụ, chính sách và chương trình tiếp thị liên kết bên dưới dẫn đến trang tiếng Anh của website chính thức.
 

@@ -101,8 +101,8 @@
   ],
   "links_note": "Los enlaces a herramientas, políticas y afiliación que aparecen a continuación abren las páginas en inglés del sitio oficial.",
   "project_image_captions": [
-    "Ideas para canciones con piano, jazz, guitarra acústica y dance, y para animación. Portada de la guía con texto en inglés.",
-    "De la música al vídeo: elegir la música, planificar los planos, generar los clips y, por último, editar y exportar. Flujo ilustrado con textos en inglés."
+    "Ideas para canciones con piano, jazz, guitarra acústica y dance, y para animación.",
+    "De la música al vídeo: elegir la música, planificar los planos, generar los clips y, por último, editar y exportar."
   ],
   "image_zoom": "Ver imagen a tamaño completo ↗",
   "view_switch": [
@@ -138,5 +138,6 @@
       "Los siguientes pedidos pagados válidos dentro de los 60 días posteriores al registro del usuario referido."
     ]
   ],
-  "affiliate_steps_title": "Cómo participar"
+  "affiliate_steps_title": "Cómo participar",
+  "tools_intro": "Desde componer canciones y procesar audio hasta diseñar portadas y crear vídeos musicales, elige la herramienta adecuada para tu próximo paso."
 }

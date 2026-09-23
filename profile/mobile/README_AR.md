@@ -34,13 +34,13 @@
 
 ## استكشف أدلتنا الإبداعية
 
-### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+### ♫ [Suno Music Creation Guide: Prompts, Examples & Tutorials](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_AR.md)
 
 استكشف عروض Suno الرسمية وأعمال المبدعين، من الفولك وموسيقى الرقص إلى الجاز والبيانو وموسيقى الأفلام. اختر اتجاهًا، وجرّب الأوصاف النصية، ثم اتبع الدروس لتطوير أغنيتك أو توزيعك الموسيقي.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="أفكار لكتابة الأغاني مستوحاة من البيانو والجاز والغيتار الصوتي وموسيقى الرقص والرسوم المتحركة. غلاف الدليل يتضمن نصًا بالإنجليزية."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="أفكار لكتابة الأغاني مستوحاة من البيانو والجاز والغيتار الصوتي وموسيقى الرقص والرسوم المتحركة."></a>
 
-أفكار لكتابة الأغاني مستوحاة من البيانو والجاز والغيتار الصوتي وموسيقى الرقص والرسوم المتحركة. غلاف الدليل يتضمن نصًا بالإنجليزية.
+أفكار لكتابة الأغاني مستوحاة من البيانو والجاز والغيتار الصوتي وموسيقى الرقص والرسوم المتحركة.
 
 [عرض الصورة بالحجم الكامل ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
@@ -52,13 +52,13 @@
 
 ---
 
-### ▶ Awesome Music Video Creator Guide
+### ▶ [Awesome Music Video Creator Guide](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_AR.md)
 
 حوّل أغنية إلى إعلان تشويقي لإصدار جديد، أو مقطع أداء، أو مشهد يتكرر بسلاسة. استكشف العروض الرسمية للنماذج وأعمال المبدعين، ثم اتبع دروس مشاهد الطبيعة وتحريك الصور الشخصية لتغنّي، من التخطيط إلى المونتاج.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="من الموسيقى إلى الفيديو: اختر الموسيقى، وخطط للقطات، وأنشئ المقاطع، ثم حرر الفيديو وصدّره. رسم توضيحي لسير العمل بعناوين إنجليزية."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="من الموسيقى إلى الفيديو: اختر الموسيقى، وخطط للقطات، وأنشئ المقاطع، ثم حرر الفيديو وصدّره."></a>
 
-من الموسيقى إلى الفيديو: اختر الموسيقى، وخطط للقطات، وأنشئ المقاطع، ثم حرر الفيديو وصدّره. رسم توضيحي لسير العمل بعناوين إنجليزية.
+من الموسيقى إلى الفيديو: اختر الموسيقى، وخطط للقطات، وأنشئ المقاطع، ثم حرر الفيديو وصدّره.
 
 [عرض الصورة بالحجم الكامل ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
@@ -85,6 +85,8 @@
 <a id="tools"></a>
 
 ## اختر الخطوة التالية في مشروعك
+
+من كتابة الأغاني ومعالجة الصوت إلى تصميم الأغلفة وصناعة الفيديوهات الموسيقية، اختر الأداة المناسبة لخطوتك التالية.
 
 تفتح روابط الأدوات والسياسات وبرنامج التسويق بالعمولة أدناه صفحات الموقع الرسمي باللغة الإنجليزية.
 

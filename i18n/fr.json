@@ -101,8 +101,8 @@
   ],
   "links_note": "Les liens vers les outils, les conditions et le programme d’affiliation ci-dessous ouvrent les pages en anglais du site officiel.",
   "project_image_captions": [
-    "Des idées de chansons autour du piano, du jazz, de la guitare acoustique, de la dance et de l’animation. Couverture du guide avec du texte en anglais.",
-    "De la musique à la vidéo : choisir la musique, préparer les plans, générer les séquences, puis monter et exporter. Parcours illustré avec des légendes en anglais."
+    "Des idées de chansons autour du piano, du jazz, de la guitare acoustique, de la dance et de l’animation.",
+    "De la musique à la vidéo : choisir la musique, préparer les plans, générer les séquences, puis monter et exporter."
   ],
   "image_zoom": "Voir l’image en taille réelle ↗",
   "view_switch": [
@@ -138,5 +138,6 @@
       "Les commandes payantes valides suivantes, dans les 60 jours après l’inscription de l’utilisateur parrainé."
     ]
   ],
-  "affiliate_steps_title": "Comment participer"
+  "affiliate_steps_title": "Comment participer",
+  "tools_intro": "De l’écriture de chansons au traitement audio, en passant par les pochettes et les clips musicaux, choisissez l’outil adapté à votre prochaine étape."
 }

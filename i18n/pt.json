@@ -101,8 +101,8 @@
   ],
   "links_note": "Os links de ferramentas, políticas e afiliação abaixo abrem as páginas em inglês do site oficial.",
   "project_image_captions": [
-    "Ideias de composição com piano, jazz, violão e dance, além de música para animação. Capa do guia com texto em inglês.",
-    "Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar. Fluxo ilustrado com legendas em inglês."
+    "Ideias de composição com piano, jazz, violão e dance, além de música para animação.",
+    "Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar."
   ],
   "image_zoom": "Ver imagem em tamanho original ↗",
   "view_switch": [
@@ -138,5 +138,6 @@
       "Os pedidos pagos válidos seguintes, dentro de 60 dias após o cadastro do usuário indicado."
     ]
   ],
-  "affiliate_steps_title": "Como participar"
+  "affiliate_steps_title": "Como participar",
+  "tools_intro": "Da composição e do processamento de áudio à criação de capas e videoclipes, escolha a ferramenta adequada para o próximo passo."
 }
