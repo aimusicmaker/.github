@@ -1,6 +1,6 @@
 {
   "tagline": "Da un’idea musicale a una canzone da condividere.",
-  "intro": "AI Music Maker riunisce canzoni, testi, audio e immagini per la musica in un unico spazio creativo. Esplora le nostre guide per scrivere la tua prima canzone, mettere in musica un video o provare un nuovo sound.",
+  "intro": "AI Music Maker aiuta autori di canzoni, videomaker e insegnanti di musica a trasformare le idee in brani e contenuti visivi musicali. Crea testi e canzoni, lavora sull’audio, progetta una copertina o realizza un video musicale. Le nostre guide su GitHub raccolgono esempi, prompt e tutorial per aiutarti a scegliere una direzione e iniziare a creare.",
   "buttons": [
     "Crea una canzone",
     "Esplora le guide",
@@ -21,8 +21,8 @@
   ],
   "prompt": "Una canzone pop acustica dal tono caldo per un tranquillo viaggio in treno verso casa. Chitarra delicata e pianoforte leggero, voce intima, una strofa contenuta e un ritornello più luminoso. Concludi dolcemente.",
   "prompt_note": "Parti da questa descrizione, poi adatta strumenti, voci e atmosfera man mano che ascolti.",
-  "projects_title": "Impara, crea, condividi",
-  "why": "Esplora una direzione musicale, impara dagli esempi e interpretala a modo tuo. Le nostre guide raccolgono fonti, istruzioni ed esercizi passo passo per scrivere canzoni e realizzare video musicali.",
+  "projects_title": "Esplora le nostre guide alla creazione",
+  "why": "Un buon esempio offre un punto di partenza. Raccogliamo riferimenti da ascoltare, prompt creativi ed esercizi passo passo per aiutarti a conoscere un metodo, provarlo nei tuoi progetti e condividere ciò che impari. I contributi della community rendono le guide più chiare e utili in tutte le lingue.",
   "projects": [
     "Esplora le demo ufficiali di Suno e gli esempi dei creatori, dal folk e dalla dance al jazz, al pianoforte e alle colonne sonore. Scegli una direzione, prova le istruzioni e segui i tutorial per sviluppare la tua canzone o il tuo arrangiamento.",
     "Trasforma una canzone in un’anteprima di lancio, un video di un’esibizione o un loop visivo. Esplora le demo ufficiali dei modelli e gli esempi dei creatori, poi segui i tutorial sulle scene naturali e sui ritratti che cantano, dalla pianificazione al montaggio."
@@ -88,8 +88,13 @@
   ],
   "affiliate_title": "Accogliamo collaborazioni di affiliazione",
   "affiliate": "Fai conoscere AI Music Maker attraverso tutorial, lezioni di musica o la tua comunità di creatori. Il nostro programma di affiliazione sostiene i partner che aiutano le persone a scoprire strumenti musicali utili e a utilizzarli.",
-  "affiliate_rules": "Il programma attuale prevede il 20% sul primo ordine a pagamento valido di un utente presentato e il 10% sui successivi ordini a pagamento validi entro 60 giorni dalla sua registrazione. Requisiti di idoneità, attribuzione, rimborsi, storni e accordo vigente determinano la commissione pagabile. I guadagni non sono garantiti; dichiara il rapporto di affiliazione quando consigli il servizio.",
-  "affiliate_steps": "Accedi a AI Music Maker, completa il profilo affiliato, accetta l’accordo e crea il tuo link di invito nell’area affiliati.",
+  "affiliate_rules": "La commissione da corrispondere segue l’accordo vigente, comprese le regole sull’idoneità degli ordini, l’attribuzione, i rimborsi e gli storni. Dichiara il tuo rapporto di affiliazione quando consigli AI Music Maker.",
+  "affiliate_steps": [
+    "Accedi a AI Music Maker.",
+    "Completa il profilo affiliato e accetta l’accordo vigente.",
+    "Crea il tuo link di invito nell’area affiliati.",
+    "Condividilo insieme a tutorial, lezioni o risorse utili per la tua community."
+  ],
   "affiliate_actions": [
     "Scopri il programma di affiliazione →",
     "Leggi l’accordo di affiliazione"
@@ -104,5 +109,34 @@
     "Versione mobile",
     "Versione desktop"
   ],
-  "website_button": "Visita il sito ufficiale"
+  "website_button": "Visita il sito ufficiale",
+  "why_title": "Perché condividiamo queste guide",
+  "project_labels": [
+    "Per chi",
+    "Cosa puoi imparare"
+  ],
+  "project_audiences": [
+    "Autori alle prime armi, musicisti che esplorano nuovi arrangiamenti e creativi che compongono musica per un video.",
+    "Musicisti che preparano un’uscita, videomaker e principianti che realizzano il loro primo clip musicale."
+  ],
+  "project_learning": [
+    "Definire un’idea musicale, scrivere prompt e testi, esplorare stili, perfezionare una sezione e risolvere i problemi più comuni della generazione.",
+    "Pianificare le inquadrature in base alla musica, scrivere prompt visivi, esercitarsi con paesaggi e ritratti cantanti e montare i clip in una sequenza completa."
+  ],
+  "language_current": "Lingua attuale",
+  "affiliate_headers": [
+    "Compenso",
+    "Quando si applica"
+  ],
+  "affiliate_rewards": [
+    [
+      "20% di commissione",
+      "Il primo ordine a pagamento valido dell’utente presentato."
+    ],
+    [
+      "10% di commissione",
+      "Gli ordini a pagamento validi successivi, entro 60 giorni dalla registrazione dell’utente presentato."
+    ]
+  ],
+  "affiliate_steps_title": "Come partecipare"
 }

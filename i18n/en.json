@@ -1,6 +1,6 @@
 {
   "tagline": "From a song idea to something worth sharing.",
-  "intro": "AI Music Maker brings songs, lyrics, audio and music visuals into one creative workspace. Explore our guides to write your first song, score a video or try a new sound.",
+  "intro": "AI Music Maker helps songwriters, video creators and music educators turn ideas into songs and music visuals. Create lyrics and songs, work with audio, design a cover, or build a music video. Our GitHub guides bring together examples, prompts and tutorials to help you choose a direction and start creating.",
   "buttons": [
     "Create a song",
     "Explore the guides",
@@ -21,8 +21,8 @@
   ],
   "prompt": "A warm acoustic pop song for a quiet train ride home. Gentle guitar and soft piano, intimate vocals, a restrained verse and a brighter chorus. End softly.",
   "prompt_note": "Start with this description, then adjust the instruments, vocals and mood as you listen.",
-  "projects_title": "Learn, make, share",
-  "why": "Explore a musical direction, learn from the examples and make it your own. Our guides bring together source references, prompts and step-by-step exercises for songwriting and music videos.",
+  "projects_title": "Explore our creation guides",
+  "why": "A useful example gives you somewhere to start. We bring listening references, creative prompts and step-by-step exercises together so you can study an approach, try it in your own work and share what you learn. Contributions help make the guides clearer and more useful across languages.",
   "projects": [
     "Explore Suno’s official demos and creator examples, from folk and dance to jazz, piano and film scores. Choose a direction, try the prompts and follow the tutorials to develop your song or arrangement.",
     "Turn a song into a release teaser, performance clip or visual loop. Explore official model demos and creator examples, then follow the nature-shot and portrait-singing tutorials from planning to editing."
@@ -88,8 +88,13 @@
   ],
   "affiliate_title": "We welcome affiliate partnerships",
   "affiliate": "Share AI Music Maker through tutorials, music lessons or your creator community. Our affiliate program supports partners who help people discover useful music tools and put them to work.",
-  "affiliate_rules": "The current program lists 20% for a referred user's first valid paid order and 10% for subsequent valid paid orders within 60 days of registration. Eligibility, attribution, refunds, chargebacks and the current agreement determine payable commission. Earnings are not guaranteed; disclose your affiliate relationship when recommending the service.",
-  "affiliate_steps": "Sign in to AI Music Maker, complete your affiliate profile, accept the agreement and create your referral link in the affiliate workspace.",
+  "affiliate_rules": "Payable commission follows the current agreement, including order eligibility, attribution, refunds and chargebacks. Disclose your affiliate relationship when recommending AI Music Maker.",
+  "affiliate_steps": [
+    "Sign in to AI Music Maker.",
+    "Complete your affiliate profile and accept the current agreement.",
+    "Create your referral link in the affiliate workspace.",
+    "Share it with useful tutorials, lessons or community resources."
+  ],
   "affiliate_actions": [
     "Explore the affiliate program →",
     "Read the affiliate agreement"
@@ -104,5 +109,34 @@
     "Mobile version",
     "Desktop version"
   ],
-  "website_button": "Visit website"
+  "website_button": "Visit website",
+  "why_title": "Why we share these guides",
+  "project_labels": [
+    "Best for",
+    "What you can learn"
+  ],
+  "project_audiences": [
+    "First-time songwriters, musicians exploring new arrangements, and creators scoring a video.",
+    "Musicians preparing a release, video creators, and beginners making their first music clip."
+  ],
+  "project_learning": [
+    "Shape a musical brief, write prompts and lyrics, explore styles, refine a section, and troubleshoot common generation problems.",
+    "Plan shots around music, write visual prompts, try scenery and portrait-singing exercises, and edit clips into a finished sequence."
+  ],
+  "language_current": "Current language",
+  "affiliate_headers": [
+    "Reward",
+    "When it applies"
+  ],
+  "affiliate_rewards": [
+    [
+      "20% commission",
+      "The referred user’s first valid paid order."
+    ],
+    [
+      "10% commission",
+      "Subsequent valid paid orders within 60 days of the referred user’s registration."
+    ]
+  ],
+  "affiliate_steps_title": "How to join"
 }

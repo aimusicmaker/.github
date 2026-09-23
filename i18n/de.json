@@ -1,6 +1,6 @@
 {
   "tagline": "Von der Songidee zu Musik, die du teilen möchtest.",
-  "intro": "AI Music Maker vereint Songs, Songtexte, Audio und Musikvisuals in einer kreativen Arbeitsumgebung. Entdecke unsere Anleitungen, um deinen ersten Song zu schreiben, ein Video zu vertonen oder einen neuen Sound auszuprobieren.",
+  "intro": "AI Music Maker hilft Songwritern, Videokreativen und Musiklehrenden, Ideen in Songs und Musikvisuals umzusetzen. Schreibe Songtexte, erstelle Songs, bearbeite Audio, gestalte ein Cover oder produziere ein Musikvideo. Unsere GitHub-Anleitungen bündeln Beispiele, Prompts und Tutorials, damit du eine Richtung findest und mit dem Gestalten beginnen kannst.",
   "buttons": [
     "Einen Song erstellen",
     "Anleitungen entdecken",
@@ -21,8 +21,8 @@
   ],
   "prompt": "Ein warmer akustischer Popsong für eine ruhige Zugfahrt nach Hause. Sanfte Gitarre und leises Klavier, nahbarer Gesang, eine zurückhaltende Strophe und ein hellerer Refrain. Sanft ausklingen lassen.",
   "prompt_note": "Beginne mit dieser Beschreibung und passe beim Anhören Instrumente, Gesang und Stimmung an.",
-  "projects_title": "Lernen, gestalten, teilen",
-  "why": "Entdecke eine musikalische Richtung, lerne an Beispielen und entwickle deine eigene Idee daraus. Unsere Anleitungen verbinden Quellen, Prompts und Übungen Schritt für Schritt rund um Songwriting und Musikvideos.",
+  "projects_title": "Entdecke unsere Anleitungen zum kreativen Arbeiten",
+  "why": "Ein gutes Beispiel erleichtert den Einstieg. Wir sammeln Hörbeispiele, kreative Prompts und Schritt-für-Schritt-Übungen, damit du eine Methode kennenlernen, für deine eigenen Projekte ausprobieren und deine Erfahrungen teilen kannst. Beiträge aus der Community helfen, die Anleitungen in allen Sprachen verständlicher und nützlicher zu machen.",
   "projects": [
     "Entdecke offizielle Suno-Demos und Beispiele von Kreativen – von Folk und Dance bis zu Jazz, Klaviermusik und Filmmusik. Wähle eine Richtung, probiere die Prompts aus und entwickle mit den Anleitungen deinen Song oder dein Arrangement.",
     "Mach aus einem Song einen Veröffentlichungsteaser, ein Performance-Video oder eine visuelle Schleife. Entdecke offizielle Modelldemos und Beispiele von Kreativen. Die Anleitungen für Naturaufnahmen und singende Porträts begleiten dich von der Planung bis zum Schnitt."
@@ -88,8 +88,13 @@
   ],
   "affiliate_title": "Wir freuen uns über Affiliate-Partnerschaften",
   "affiliate": "Stelle AI Music Maker in Tutorials, im Musikunterricht oder in deiner Kreativ-Community vor. Unser Partnerprogramm unterstützt Menschen, die anderen nützliche Musikwerkzeuge näherbringen und zeigen, wie sie sich einsetzen lassen.",
-  "affiliate_rules": "Das aktuelle Programm nennt 20% für die erste gültige bezahlte Bestellung eines geworbenen Nutzers und 10% für weitere gültige bezahlte Bestellungen innerhalb von 60 Tagen nach dessen Registrierung. Teilnahmeberechtigung, Zuordnung, Erstattungen, Rückbuchungen und die aktuelle Vereinbarung bestimmen die auszahlbare Provision. Einnahmen sind nicht garantiert; lege bei Empfehlungen deine Affiliate-Beziehung offen.",
-  "affiliate_steps": "Melde dich bei AI Music Maker an, vervollständige dein Affiliate-Profil, akzeptiere die Vereinbarung und erstelle deinen Empfehlungslink im Affiliate-Bereich.",
+  "affiliate_rules": "Die auszahlbare Provision richtet sich nach der aktuellen Vereinbarung, einschließlich der Regeln zu gültigen Bestellungen, Zuordnung, Erstattungen und Rückbuchungen. Weise bei Empfehlungen von AI Music Maker auf deine Affiliate-Partnerschaft hin.",
+  "affiliate_steps": [
+    "Melde dich bei AI Music Maker an.",
+    "Vervollständige dein Affiliate-Profil und akzeptiere die aktuelle Vereinbarung.",
+    "Erstelle deinen Empfehlungslink im Affiliate-Bereich.",
+    "Teile ihn zusammen mit hilfreichen Tutorials, Lektionen oder Materialien für deine Community."
+  ],
   "affiliate_actions": [
     "Affiliate-Programm entdecken →",
     "Affiliate-Vereinbarung lesen"
@@ -104,5 +109,34 @@
     "Mobile Ansicht",
     "Desktop-Ansicht"
   ],
-  "website_button": "Offizielle Website"
+  "website_button": "Offizielle Website",
+  "why_title": "Warum wir diese Anleitungen teilen",
+  "project_labels": [
+    "Geeignet für",
+    "Das kannst du lernen"
+  ],
+  "project_audiences": [
+    "Einsteiger ins Songwriting, Musiker auf der Suche nach neuen Arrangements und Kreative, die ein Video vertonen möchten.",
+    "Musiker, die eine Veröffentlichung vorbereiten, Videokreative und Einsteiger, die ihren ersten Musikclip gestalten."
+  ],
+  "project_learning": [
+    "Eine musikalische Idee konkretisieren, Prompts und Songtexte schreiben, Stile erkunden, einzelne Abschnitte verfeinern und häufige Probleme bei der Generierung lösen.",
+    "Bilder passend zur Musik planen, visuelle Prompts schreiben, Landschaftsszenen und singende Porträts ausprobieren und Clips zu einer fertigen Sequenz schneiden."
+  ],
+  "language_current": "Aktuelle Sprache",
+  "affiliate_headers": [
+    "Vergütung",
+    "Voraussetzung"
+  ],
+  "affiliate_rewards": [
+    [
+      "20 % Provision",
+      "Die erste gültige bezahlte Bestellung des geworbenen Nutzers."
+    ],
+    [
+      "10 % Provision",
+      "Weitere gültige bezahlte Bestellungen innerhalb von 60 Tagen nach der Registrierung des geworbenen Nutzers."
+    ]
+  ],
+  "affiliate_steps_title": "So machst du mit"
 }

@@ -16,7 +16,7 @@
 
 ## 维护方法
 
-- `profile/README.md` 是英文组织首页；其余 14 份 `profile/README_*.md` 是完整语言版本。`profile/mobile/` 提供相同 15 种语言的独立手机版；页首按钮可切换桌面与手机视图，语言切换保持当前视图。根目录 README 同步英文内容，便于仓库访问者阅读。
+- `profile/README.md` 是英文组织首页；其余 14 份 `profile/README_*.md` 是完整语言版本。`profile/mobile/` 提供相同 15 种语言的独立手机版；页首按钮可切换桌面与手机视图，语言徽章切换保持当前视图，并突出显示当前语言。根目录 README 同步英文内容，便于仓库访问者阅读。
 - 修改 `i18n/*.json`，再运行 `python3 scripts/build_profile.py`。不要只改生成文件。
 - 运行 `python3 scripts/build_profile.py --check` 与 `git diff --check`，检查生成内容是否同步及空白错误。
 - 发布前核对 GitHub 仓库链接、官网入口、语言范围和联盟条款；只有实际重新核对后才更新核对日期。

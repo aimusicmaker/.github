@@ -6,7 +6,7 @@
 
 **Dari ide lagu menjadi karya yang layak dibagikan.**
 
-<a href="https://musicmaker.im/id/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-website.svg" height="28" alt="KUNJUNGI SITUS RESMI"></a> <br> <a href="https://github.com/aimusicmaker"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-github.svg" height="28" alt="PANDUAN SUMBER TERBUKA"></a>
+<a href="https://musicmaker.im/id/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-website.svg" alt="KUNJUNGI SITUS RESMI"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-github.svg" alt="PANDUAN SUMBER TERBUKA"></a>
 
 </div>
 
@@ -14,35 +14,23 @@
 
 <p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-desktop.svg" height="40" alt="Versi desktop"></a></p>
 
-[English](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_JA.md) · **Bahasa Indonesia** · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_KO.md) · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_VI.md) · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_AR.md)
+<p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-en.svg" height="28" alt="English"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ja.svg" height="28" alt="日本語"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ID.md" aria-current="page"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-id-active.svg" height="28" alt="Bahasa Indonesia — Bahasa saat ini"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_IT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-it.svg" height="28" alt="Italiano"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-pt.svg" height="28" alt="Português"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ES.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-es.svg" height="28" alt="Español"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_DE.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-de.svg" height="28" alt="Deutsch"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_RU.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ru.svg" height="28" alt="Русский"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_FR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-fr.svg" height="28" alt="Français"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-zh.svg" height="28" alt="简体中文"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TW.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-tw.svg" height="28" alt="繁體中文"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ko.svg" height="28" alt="한국어"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-th.svg" height="28" alt="ไทย"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-vi.svg" height="28" alt="Tiếng Việt"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ar.svg" height="28" alt="العربية"></a></p>
 
 ---
 
-AI Music Maker menyatukan lagu, lirik, audio, dan visual musik dalam satu ruang berkarya. Jelajahi panduan kami untuk membuat lagu pertama, mengisi musik untuk video, atau mencoba warna suara baru.
+AI Music Maker membantu penulis lagu, kreator video, dan pengajar musik mengubah ide menjadi lagu dan visual musik. Buat lirik dan lagu, olah audio, desain sampul, atau buat video musik. Panduan GitHub kami menghimpun contoh, prompt, dan tutorial untuk membantu Anda menentukan arah dan mulai berkarya.
 
-[Mulai di sini](#start) · [Panduan sumber terbuka](#guides) · [Alat kreatif](#tools) · [Tentang materi ini](#about) · [Mitra afiliasi](#affiliate)
+[Panduan sumber terbuka](#guides) · [Mulai di sini](#start) · [Alat kreatif](#tools) · [Tentang materi ini](#about) · [Mitra afiliasi](#affiliate)
 
 <p align="center"><a href="https://musicmaker.im/id/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-0.svg" height="40" alt="Buat lagu"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-1.svg" height="40" alt="Jelajahi panduan"></a> <br> <a href="https://musicmaker.im/id/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-2.svg" height="40" alt="Dengarkan musik"></a></p>
 
-<a id="start"></a>
+## Mengapa kami membagikan panduan ini
 
-## Mulai dari satu ide kecil
-
-1. Tentukan sebuah suasana adegan, nuansa, dan dua instrumen. Buka pembuat lagu, lalu jelaskan musik yang ingin Anda dengar.
-2. Dengarkan drafnya: apakah lirik terdengar jelas, bagian refrain menonjol, dan penutupnya terasa tuntas? Ubah satu instruksi sebelum mencoba lagi.
-3. Setelah menemukan bagian yang ingin dipertahankan, gunakan panduan video musik untuk merencanakan pengambilan gambar dan menyuntingnya mengikuti ketukan.
-
-```text
-Lagu pop akustik yang hangat untuk perjalanan pulang dengan kereta yang tenang. Gitar lembut dan piano halus, vokal yang terasa dekat, bait yang tertahan, serta refrain yang lebih cerah. Akhiri dengan lembut.
-```
-
-> Mulailah dengan deskripsi ini, lalu sesuaikan instrumen, vokal, dan suasananya sambil mendengarkan hasilnya.
+Contoh yang berguna memberi Anda titik awal. Kami menghimpun referensi musik untuk didengarkan, prompt kreatif, dan latihan langkah demi langkah agar Anda dapat mempelajari suatu pendekatan, mencobanya dalam karya sendiri, lalu membagikan hasil pembelajaran. Kontribusi Anda membantu membuat panduan lebih jelas dan bermanfaat dalam berbagai bahasa.
 
 <a id="guides"></a>
 
-## Belajar, berkarya, berbagi
-
-Temukan arah musik yang ingin Anda coba, pelajari contohnya, lalu kembangkan dengan gaya Anda sendiri. Panduan kami memuat sumber rujukan, prompt, dan latihan bertahap untuk penulisan lagu serta pembuatan video musik.
+## Jelajahi panduan berkarya kami
 
 ### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
 
@@ -53,6 +41,10 @@ Jelajahi demo resmi Suno dan karya kreator, mulai dari folk dan dance hingga jaz
 Ide penulisan lagu dari piano, jazz, gitar akustik, dance, dan animasi. Sampul panduan dengan tulisan berbahasa Inggris.
 
 [Lihat gambar ukuran penuh ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
+
+**Cocok untuk:** Penulis lagu pemula, musisi yang mencoba aransemen baru, dan kreator yang membuat musik untuk video.
+
+**Yang dapat Anda pelajari:** Merumuskan konsep musik, menulis prompt dan lirik, menjelajahi gaya, menyempurnakan bagian lagu, serta mengatasi masalah umum saat menghasilkan musik.
 
 **[Buka panduan penulisan lagu →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ID.md)**
 
@@ -68,7 +60,25 @@ Dari musik menjadi video: pilih musik, rencanakan adegan, buat klip, lalu suntin
 
 [Lihat gambar ukuran penuh ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
+**Cocok untuk:** Musisi yang menyiapkan perilisan, kreator video, dan pemula yang membuat klip musik pertama mereka.
+
+**Yang dapat Anda pelajari:** Merencanakan adegan mengikuti musik, menulis prompt visual, mencoba latihan pemandangan dan potret bernyanyi, serta menyunting klip menjadi rangkaian yang utuh.
+
 **[Rencanakan video musik pertama Anda →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ID.md)**
+
+<a id="start"></a>
+
+## Mulai dari satu ide kecil
+
+1. Tentukan sebuah suasana adegan, nuansa, dan dua instrumen. Buka pembuat lagu, lalu jelaskan musik yang ingin Anda dengar.
+2. Dengarkan drafnya: apakah lirik terdengar jelas, bagian refrain menonjol, dan penutupnya terasa tuntas? Ubah satu instruksi sebelum mencoba lagi.
+3. Setelah menemukan bagian yang ingin dipertahankan, gunakan panduan video musik untuk merencanakan pengambilan gambar dan menyuntingnya mengikuti ketukan.
+
+```text
+Lagu pop akustik yang hangat untuk perjalanan pulang dengan kereta yang tenang. Gitar lembut dan piano halus, vokal yang terasa dekat, bait yang tertahan, serta refrain yang lebih cerah. Akhiri dengan lembut.
+```
+
+> Mulailah dengan deskripsi ini, lalu sesuaikan instrumen, vokal, dan suasananya sambil mendengarkan hasilnya.
 
 <a id="tools"></a>
 
@@ -144,9 +154,18 @@ Menemukan langkah yang kurang jelas atau tautan rusak? Buat laporan masalah di r
 
 Perkenalkan AI Music Maker melalui tutorial, pelajaran musik, atau komunitas kreator Anda. Program afiliasi kami mendukung mitra yang membantu orang menemukan dan menggunakan perangkat untuk membuat musik yang bermanfaat.
 
-Program saat ini mencantumkan komisi 20% untuk pesanan berbayar valid pertama dari pengguna yang Anda rujuk, serta 10% untuk pesanan berbayar valid berikutnya dalam 60 hari sejak pendaftaran. Kelayakan, atribusi rujukan, pengembalian dana, sanggahan transaksi, dan perjanjian yang berlaku menentukan komisi yang dapat dibayarkan. Penghasilan tidak dijamin; ungkapkan hubungan afiliasi Anda saat merekomendasikan layanan.
+**Komisi 20%** — Pesanan berbayar pertama yang memenuhi syarat dari pengguna yang Anda referensikan.
 
-Masuk ke AI Music Maker, lengkapi profil afiliasi, setujui perjanjian, lalu buat tautan rujukan di ruang kerja afiliasi.
+**Komisi 10%** — Pesanan berbayar berikutnya yang memenuhi syarat dalam 60 hari sejak pengguna yang Anda referensikan mendaftar.
+
+Komisi yang dibayarkan mengikuti perjanjian yang berlaku, termasuk kelayakan pesanan, atribusi referensi, pengembalian dana, dan pembalikan pembayaran. Ungkapkan hubungan afiliasi Anda saat merekomendasikan AI Music Maker.
+
+### Cara bergabung
+
+1. Masuk ke AI Music Maker.
+2. Lengkapi profil afiliasi dan setujui perjanjian yang berlaku.
+3. Buat tautan referensi di ruang kerja afiliasi.
+4. Bagikan bersama tutorial, materi pelajaran, atau sumber daya komunitas yang bermanfaat.
 
 <a href="https://musicmaker.im/affiliate-program/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-affiliate.svg" height="40" alt="Jelajahi program afiliasi →"></a>
 

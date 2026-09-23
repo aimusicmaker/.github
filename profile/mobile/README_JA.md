@@ -6,7 +6,7 @@
 
 **曲のアイデアを、誰かに届けたくなる作品へ。**
 
-<a href="https://musicmaker.im/ja/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-website.svg" height="28" alt="公式サイトへ"></a> <br> <a href="https://github.com/aimusicmaker"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-github.svg" height="28" alt="オープンソースのガイド"></a>
+<a href="https://musicmaker.im/ja/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-website.svg" alt="公式サイトへ"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-github.svg" alt="オープンソースのガイド"></a>
 
 </div>
 
@@ -14,35 +14,23 @@
 
 <p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-desktop.svg" height="40" alt="デスクトップ版"></a></p>
 
-[English](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README.md) · **日本語** · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_KO.md) · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_VI.md) · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_AR.md)
+<p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-en.svg" height="28" alt="English"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_JA.md" aria-current="page"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ja-active.svg" height="28" alt="日本語 — 現在の言語"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-id.svg" height="28" alt="Bahasa Indonesia"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_IT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-it.svg" height="28" alt="Italiano"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-pt.svg" height="28" alt="Português"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ES.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-es.svg" height="28" alt="Español"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_DE.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-de.svg" height="28" alt="Deutsch"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_RU.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ru.svg" height="28" alt="Русский"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_FR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-fr.svg" height="28" alt="Français"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-zh.svg" height="28" alt="简体中文"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TW.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-tw.svg" height="28" alt="繁體中文"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ko.svg" height="28" alt="한국어"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-th.svg" height="28" alt="ไทย"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-vi.svg" height="28" alt="Tiếng Việt"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ar.svg" height="28" alt="العربية"></a></p>
 
 ---
 
-AI Music Maker は、楽曲、歌詞、音声、音楽に合わせた映像をひとつの制作環境にまとめています。ガイドを参考に、初めての曲を作ったり、動画に音楽を付けたり、新しいサウンドを試したりしてみましょう。
+AI Music Maker は、ソングライター、動画クリエイター、音楽教育に携わる方が、アイデアを曲や音楽映像にするお手伝いをします。歌詞や曲の制作、音声の加工、ジャケットのデザイン、ミュージックビデオの制作に活用できます。GitHub のガイドでは作例、プロンプト、チュートリアルをまとめ、作りたい方向を決めて制作を始められるようにしています。
 
-[はじめに](#start) · [オープンソースのガイド](#guides) · [制作ツール](#tools) · [公開資料について](#about) · [アフィリエイト提携](#affiliate)
+[オープンソースのガイド](#guides) · [はじめに](#start) · [制作ツール](#tools) · [公開資料について](#about) · [アフィリエイト提携](#affiliate)
 
 <p align="center"><a href="https://musicmaker.im/ja/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-0.svg" height="40" alt="曲を作る"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-1.svg" height="40" alt="ガイドを見る"></a> <br> <a href="https://musicmaker.im/ja/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-2.svg" height="40" alt="音楽を聴く"></a></p>
 
-<a id="start"></a>
+## ガイドを公開する理由
 
-## 小さなアイデアから始めよう
-
-1. 場面、雰囲気、楽器を2つ選びます。楽曲生成ツールを開き、聴きたい音楽を言葉で伝えましょう。
-2. 試作を聴いてみましょう。歌詞は聞き取りやすいですか。サビは際立っていますか。終わり方は自然ですか。指示をひとつ変えて、もう一度試します。
-3. 残したい一節ができたら、ミュージックビデオのガイドを使ってカットを考え、拍に合わせて編集しましょう。
-
-```text
-静かな帰りの電車で聴く、温かみのあるアコースティックポップ。優しいギターと柔らかなピアノ、語りかけるような歌声。控えめなヴァースから明るいサビへ。最後は静かに締めくくる。
-```
-
-> この説明を出発点に、聴きながら楽器や歌声、雰囲気を調整してみましょう。
+参考になる作例があれば、最初の一歩を踏み出しやすくなります。聴いて学べる参考曲、制作に使えるプロンプト、段階的な練習をまとめ、手法を学び、自分の作品で試し、気づいたことを共有できるようにしています。皆さんの協力が、各言語のガイドをよりわかりやすく、役立つものにしていきます。
 
 <a id="guides"></a>
 
-## 学ぶ、作る、共有する
-
-気になる音楽の方向性を見つけ、作例から学び、自分らしい作品に育てましょう。ガイドでは、作曲・作詞やミュージックビデオ制作に役立つ参照元、プロンプト、段階的な練習課題を紹介しています。
+## 制作ガイドを見てみよう
 
 ### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
 
@@ -53,6 +41,10 @@ AI Music Maker は、楽曲、歌詞、音声、音楽に合わせた映像を�
 ピアノ、ジャズ、アコースティックギター、ダンス、アニメーションから広がる曲作りのアイデア。英語の文字を使ったガイドの表紙。
 
 [原寸画像を見る ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
+
+**こんな方におすすめ:** 初めて曲を書く方、新しいアレンジを試したいミュージシャン、動画用の音楽を作るクリエイター。
+
+**学べること:** 作りたい音楽のイメージを整理し、プロンプトや歌詞を書き、スタイルを試し、一部分を磨き、生成時によくある問題に対処する方法。
 
 **[作曲・作詞ガイドを開く →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_JA.md)**
 
@@ -68,7 +60,25 @@ AI Music Maker は、楽曲、歌詞、音声、音楽に合わせた映像を�
 
 [原寸画像を見る ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
+**こんな方におすすめ:** リリースを準備中のミュージシャン、動画クリエイター、初めて音楽映像を作る方。
+
+**学べること:** 音楽に合わせたカットの計画、映像用プロンプトの書き方、風景や人物が歌う映像の練習、複数のクリップをひとつの映像に編集する方法。
+
 **[初めてのミュージックビデオを計画する →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_JA.md)**
+
+<a id="start"></a>
+
+## 小さなアイデアから始めよう
+
+1. 場面、雰囲気、楽器を2つ選びます。楽曲生成ツールを開き、聴きたい音楽を言葉で伝えましょう。
+2. 試作を聴いてみましょう。歌詞は聞き取りやすいですか。サビは際立っていますか。終わり方は自然ですか。指示をひとつ変えて、もう一度試します。
+3. 残したい一節ができたら、ミュージックビデオのガイドを使ってカットを考え、拍に合わせて編集しましょう。
+
+```text
+静かな帰りの電車で聴く、温かみのあるアコースティックポップ。優しいギターと柔らかなピアノ、語りかけるような歌声。控えめなヴァースから明るいサビへ。最後は静かに締めくくる。
+```
+
+> この説明を出発点に、聴きながら楽器や歌声、雰囲気を調整してみましょう。
 
 <a id="tools"></a>
 
@@ -144,9 +154,18 @@ AI Music Maker は、楽曲、歌詞、音声、音楽に合わせた映像を�
 
 チュートリアルや音楽レッスン、クリエイターコミュニティを通じて AI Music Maker を紹介しませんか。アフィリエイトプログラムでは、役立つ音楽ツールとの出会いや活用を支えるパートナーを募集しています。
 
-現在のプログラムでは、紹介されたユーザーの最初の有効な有料注文に対して 20%、登録から 60 日以内のその後の有効な有料注文に対して 10% とされています。支払われる報酬は、適用条件、紹介の帰属判定、返金、チャージバック、現行の契約によって決まります。収益を保証するものではありません。サービスを紹介する際は、アフィリエイト関係があることを明示してください。
+**20% の報酬** — 紹介されたユーザーの最初の有効な有料注文。
 
-AI Music Maker にログインし、アフィリエイト用プロフィールを記入して契約に同意した後、アフィリエイト管理画面で紹介リンクを作成します。
+**10% の報酬** — 紹介されたユーザーの登録から 60 日以内に行われた、その後の有効な有料注文。
+
+支払われる報酬には、対象注文、紹介の帰属判定、返金、チャージバックなど、現行の契約条件が適用されます。AI Music Maker を紹介する際は、アフィリエイト関係があることを明示してください。
+
+### 参加方法
+
+1. AI Music Maker にログインします。
+2. アフィリエイト用プロフィールを記入し、現行の契約に同意します。
+3. アフィリエイト管理画面で紹介リンクを作成します。
+4. 役立つチュートリアル、レッスン、コミュニティ向け資料とともに共有します。
 
 <a href="https://musicmaker.im/affiliate-program/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-affiliate.svg" height="40" alt="アフィリエイトプログラムを見る →"></a>
 

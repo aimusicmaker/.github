@@ -1,6 +1,6 @@
 {
   "tagline": "D’une idée de chanson à une musique à partager.",
-  "intro": "AI Music Maker réunit chansons, paroles, audio et visuels musicaux dans un même espace de création. Explorez nos guides pour écrire votre première chanson, mettre une vidéo en musique ou essayer de nouvelles sonorités.",
+  "intro": "AI Music Maker aide les auteurs-compositeurs, les créateurs de vidéos et les enseignants en musique à transformer leurs idées en chansons et en visuels musicaux. Créez des paroles et des chansons, travaillez le son, concevez une pochette ou réalisez un clip. Nos guides GitHub réunissent exemples, prompts et tutoriels pour vous aider à choisir une direction et à vous lancer.",
   "buttons": [
     "Créer une chanson",
     "Explorer les guides",
@@ -21,8 +21,8 @@
   ],
   "prompt": "Une chanson pop acoustique chaleureuse pour un trajet paisible en train vers la maison. Guitare douce et piano discret, voix intimiste, couplet retenu et refrain plus lumineux. Terminer en douceur.",
   "prompt_note": "Partez de cette description, puis ajustez les instruments, le chant et l’ambiance au fil des écoutes.",
-  "projects_title": "Apprendre, créer, partager",
-  "why": "Explorez une direction musicale, inspirez-vous des exemples et donnez-lui votre touche personnelle. Nos guides réunissent des sources, des consignes et des exercices pas à pas pour écrire des chansons et réaliser des clips musicaux.",
+  "projects_title": "Explorez nos guides de création",
+  "why": "Un exemple utile offre un point de départ. Nous réunissons des références à écouter, des prompts créatifs et des exercices pas à pas pour vous permettre de découvrir une méthode, de l’essayer dans vos propres créations et de partager vos apprentissages. Les contributions de la communauté rendent ces guides plus clairs et plus utiles dans toutes les langues.",
   "projects": [
     "Découvrez les démonstrations officielles de Suno et les exemples de créateurs, du folk à la dance, en passant par le jazz, le piano et la musique de film. Choisissez une direction, essayez les consignes et suivez les tutoriels pour développer votre chanson ou votre arrangement.",
     "Transformez une chanson en bande-annonce de sortie, en vidéo de performance ou en boucle visuelle. Découvrez des démonstrations officielles de modèles et des exemples de créateurs, puis suivez les tutoriels de scènes de nature et de portraits chantants, de la préparation au montage."
@@ -88,8 +88,13 @@
   ],
   "affiliate_title": "Nous accueillons les partenariats d’affiliation",
   "affiliate": "Faites découvrir AI Music Maker à travers vos tutoriels, vos cours de musique ou votre communauté de créateurs. Notre programme d’affiliation accompagne les partenaires qui aident leur public à découvrir des outils musicaux utiles et à les utiliser.",
-  "affiliate_rules": "Le programme actuel prévoit 20% pour la première commande payante valide d’un utilisateur parrainé, puis 10% pour ses commandes payantes valides suivantes dans les 60 jours après son inscription. L’éligibilité, l’attribution, les remboursements, les rétrofacturations et l’accord en vigueur déterminent la commission payable. Aucun revenu n’est garanti ; signalez votre relation d’affiliation lorsque vous recommandez le service.",
-  "affiliate_steps": "Connectez-vous à AI Music Maker, complétez votre profil d’affilié, acceptez l’accord et créez votre lien de parrainage dans l’espace d’affiliation.",
+  "affiliate_rules": "La commission payable suit l’accord en vigueur, notamment les règles d’éligibilité des commandes, d’attribution, de remboursement et de rétrofacturation. Mentionnez votre relation d’affiliation lorsque vous recommandez AI Music Maker.",
+  "affiliate_steps": [
+    "Connectez-vous à AI Music Maker.",
+    "Complétez votre profil d’affilié et acceptez l’accord en vigueur.",
+    "Créez votre lien de parrainage dans l’espace d’affiliation.",
+    "Partagez-le avec des tutoriels, des cours ou des ressources utiles à votre communauté."
+  ],
   "affiliate_actions": [
     "Découvrir le programme d’affiliation →",
     "Lire l’accord d’affiliation"
@@ -104,5 +109,34 @@
     "Version mobile",
     "Version ordinateur"
   ],
-  "website_button": "Visiter le site officiel"
+  "website_button": "Visiter le site officiel",
+  "why_title": "Pourquoi nous partageons ces guides",
+  "project_labels": [
+    "Pour qui",
+    "Ce que vous pouvez apprendre"
+  ],
+  "project_audiences": [
+    "Les auteurs-compositeurs débutants, les musiciens qui explorent de nouveaux arrangements et les créateurs qui mettent une vidéo en musique.",
+    "Les musiciens qui préparent une sortie, les créateurs de vidéos et les débutants qui réalisent leur premier clip musical."
+  ],
+  "project_learning": [
+    "Définir une intention musicale, rédiger des prompts et des paroles, explorer des styles, affiner un passage et résoudre les problèmes courants de génération.",
+    "Préparer les plans en fonction de la musique, rédiger des prompts visuels, essayer des exercices de paysages et de portraits chantants, puis assembler les clips en une séquence aboutie."
+  ],
+  "language_current": "Langue actuelle",
+  "affiliate_headers": [
+    "Rémunération",
+    "Conditions d’application"
+  ],
+  "affiliate_rewards": [
+    [
+      "20 % de commission",
+      "La première commande payante valide de l’utilisateur parrainé."
+    ],
+    [
+      "10 % de commission",
+      "Les commandes payantes valides suivantes, dans les 60 jours après l’inscription de l’utilisateur parrainé."
+    ]
+  ],
+  "affiliate_steps_title": "Comment participer"
 }

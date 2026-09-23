@@ -8,7 +8,7 @@
 
 **من فكرة أغنية إلى عمل يستحق المشاركة.**
 
-<a href="https://musicmaker.im/ar/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-website.svg" height="28" alt="زيارة الموقع الرسمي"></a> <a href="https://github.com/aimusicmaker"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-github.svg" height="28" alt="أدلة مفتوحة المصدر"></a>
+<a href="https://musicmaker.im/ar/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-website.svg" alt="زيارة الموقع الرسمي"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-github.svg" alt="أدلة مفتوحة المصدر"></a>
 
 </div>
 
@@ -16,35 +16,23 @@
 
 <p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-mobile.svg" height="40" alt="نسخة الهاتف"></a></p>
 
-[English](https://github.com/aimusicmaker/.github/blob/main/profile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/README_JA.md) · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/README_KO.md) · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md) · **العربية**
+<p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-en.svg" height="28" alt="English"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ja.svg" height="28" alt="日本語"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-id.svg" height="28" alt="Bahasa Indonesia"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_IT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-it.svg" height="28" alt="Italiano"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-pt.svg" height="28" alt="Português"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_ES.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-es.svg" height="28" alt="Español"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_DE.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-de.svg" height="28" alt="Deutsch"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_RU.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ru.svg" height="28" alt="Русский"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_FR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-fr.svg" height="28" alt="Français"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-zh.svg" height="28" alt="简体中文"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_TW.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-tw.svg" height="28" alt="繁體中文"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ko.svg" height="28" alt="한국어"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-th.svg" height="28" alt="ไทย"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-vi.svg" height="28" alt="Tiếng Việt"></a> <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_AR.md" aria-current="page"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/lang-ar-active.svg" height="28" alt="العربية — اللغة الحالية"></a></p>
 
 ---
 
-يجمع AI Music Maker الأغاني والكلمات والصوت والمشاهد المصاحبة للموسيقى في مساحة إبداعية واحدة. استكشف أدلتنا لكتابة أغنيتك الأولى، أو تأليف موسيقى لفيديو، أو تجربة طابع موسيقي جديد.
+يساعد AI Music Maker مؤلفي الأغاني وصنّاع الفيديو ومعلّمي الموسيقى على تحويل أفكارهم إلى أغانٍ ومشاهد موسيقية. يمكنك كتابة الكلمات وإنشاء الأغاني ومعالجة الصوت وتصميم الغلاف أوإنتاج فيديو موسيقي. تجمع أدلتنا على GitHub أمثلة وموجّهات ودروسًا تساعدك على اختيار اتجاه والبدء في الإبداع.
 
-[ابدأ هنا](#start) · [أدلة مفتوحة المصدر](#guides) · [أدوات إبداعية](#tools) · [عن هذه الموارد](#about) · [شركاء التسويق بالعمولة](#affiliate)
+[أدلة مفتوحة المصدر](#guides) · [ابدأ هنا](#start) · [أدوات إبداعية](#tools) · [عن هذه الموارد](#about) · [شركاء التسويق بالعمولة](#affiliate)
 
 <p align="center"><a href="https://musicmaker.im/ar/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-0.svg" height="40" alt="أنشئ أغنية"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-1.svg" height="40" alt="استكشف الأدلة"></a> <a href="https://musicmaker.im/ar/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-2.svg" height="40" alt="استمع إلى الموسيقى"></a></p>
 
-<a id="start"></a>
+## لماذا نشارك هذه الأدلة
 
-## ابدأ بفكرة صغيرة واحدة
-
-1. اختر مشهدًا وأجواءً وآلتين موسيقيتين. افتح أداة إنشاء الأغاني وصِف ما تريد سماعه.
-2. استمع إلى المسودة: هل الكلمات واضحة، وهل تبرز اللازمة، وهل تبدو النهاية مكتملة؟ غيّر توجيهًا واحدًا قبل المحاولة من جديد.
-3. عندما تحصل على مقطع يستحق الاحتفاظ به، استخدم دليل الفيديو الموسيقي لتخطيط اللقطات ومونتاجها على الإيقاع.
-
-```text
-أغنية بوب دافئة بآلات صوتية لرحلة هادئة بالقطار إلى المنزل. غيتار رقيق وبيانو ناعم، وغناء حميم، ومقطع هادئ تتبعه لازمة أكثر إشراقًا. اختم برفق.
-```
-
-> ابدأ بهذا الوصف، ثم عدّل الآلات والغناء والأجواء أثناء الاستماع إلى النتيجة.
+يمنحك المثال المفيد نقطة تبدأ منها. نجمع مراجع للاستماع وموجّهات إبداعية وتمارين تدريجية لتتعرّف على طريقة العمل، وتجرّبها في مشروعك، وتشارك ما تعلّمته. تساعد مساهماتكم على جعل الأدلة أوضح وأكثر فائدة بمختلف اللغات.
 
 <a id="guides"></a>
 
-## تعلّم وابتكر وشارك
-
-استكشف الاتجاه الموسيقي الذي يستهويك، وتعلّم من الأمثلة، ثم أضف لمستك الخاصة. تجمع أدلتنا المراجع والأوصاف النصية وتمارين خطوة بخطوة لكتابة الأغاني وإنتاج الفيديوهات الموسيقية.
+## استكشف أدلتنا الإبداعية
 
 ### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
 
@@ -55,6 +43,10 @@
 أفكار لكتابة الأغاني مستوحاة من البيانو والجاز والغيتار الصوتي وموسيقى الرقص والرسوم المتحركة. غلاف الدليل يتضمن نصًا بالإنجليزية.
 
 [عرض الصورة بالحجم الكامل ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
+
+**مناسب لـ:** من يكتبون أغنيتهم الأولى، والموسيقيين الذين يجرّبون توزيعات جديدة، وصنّاع المحتوى الذين يؤلفون موسيقى لفيديو.
+
+**ما يمكنك تعلّمه:** تحديد فكرة موسيقية واضحة، وكتابة الموجّهات والكلمات، واستكشاف الأنماط، وتحسين مقطع من الأغنية، وحل المشكلات الشائعة أثناء التوليد.
 
 **[افتح دليل تأليف الأغاني →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_AR.md)**
 
@@ -70,7 +62,25 @@
 
 [عرض الصورة بالحجم الكامل ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
+**مناسب لـ:** الموسيقيين الذين يستعدون لإصدار عمل، وصنّاع الفيديو، والمبتدئين الذين يصنعون أول مقطع موسيقي مرئي لهم.
+
+**ما يمكنك تعلّمه:** تخطيط اللقطات وفق الموسيقى، وكتابة موجّهات بصرية، وتجربة تمارين المناظر الطبيعية وصور الأشخاص وهم يغنّون، ومونتاج المقاطع في تسلسل مكتمل.
+
 **[خطّط لأول فيديو موسيقي لك →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_AR.md)**
+
+<a id="start"></a>
+
+## ابدأ بفكرة صغيرة واحدة
+
+1. اختر مشهدًا وأجواءً وآلتين موسيقيتين. افتح أداة إنشاء الأغاني وصِف ما تريد سماعه.
+2. استمع إلى المسودة: هل الكلمات واضحة، وهل تبرز اللازمة، وهل تبدو النهاية مكتملة؟ غيّر توجيهًا واحدًا قبل المحاولة من جديد.
+3. عندما تحصل على مقطع يستحق الاحتفاظ به، استخدم دليل الفيديو الموسيقي لتخطيط اللقطات ومونتاجها على الإيقاع.
+
+```text
+أغنية بوب دافئة بآلات صوتية لرحلة هادئة بالقطار إلى المنزل. غيتار رقيق وبيانو ناعم، وغناء حميم، ومقطع هادئ تتبعه لازمة أكثر إشراقًا. اختم برفق.
+```
+
+> ابدأ بهذا الوصف، ثم عدّل الآلات والغناء والأجواء أثناء الاستماع إلى النتيجة.
 
 <a id="tools"></a>
 
@@ -118,9 +128,19 @@
 
 عرّف الآخرين على AI Music Maker من خلال الدروس والشروحات أو تعليم الموسيقى أو مجتمعك الإبداعي. يدعم برنامج التسويق بالعمولة شركاءنا الذين يساعدون الناس على اكتشاف أدوات موسيقية مفيدة واستخدامها في أعمالهم.
 
-ينص البرنامج الحالي على عمولة 20% لأول طلب مدفوع صالح للمستخدم المُحال، و10% للطلبات المدفوعة الصالحة اللاحقة خلال 60 يومًا من التسجيل. تحدد شروط الأهلية وإسناد الإحالة والمبالغ المستردة وعمليات استرداد المدفوعات عبر جهة الدفع والاتفاقية السارية قيمة العمولة المستحقة للدفع. الأرباح غير مضمونة؛ أفصح عن علاقتك بالتسويق بالعمولة عند التوصية بالخدمة.
+| العمولة | شروط احتسابها |
+| :-- | :-- |
+| عمولة 20% | أول طلب مدفوع مستوفٍ للشروط من المستخدم الذي أحلته. |
+| عمولة 10% | الطلبات المدفوعة اللاحقة المستوفية للشروط خلال 60 يومًا من تسجيل المستخدم الذي أحلته. |
 
-سجّل الدخول إلى AI Music Maker، وأكمل ملفك في برنامج التسويق بالعمولة، واقبل الاتفاقية، ثم أنشئ رابط الإحالة في مساحة عمل البرنامج.
+تخضع العمولة المستحقة للاتفاقية الحالية، بما يشمل أهلية الطلبات وإسناد الإحالات واسترداد الأموال والاعتراضات على المدفوعات. أفصح عن علاقة التسويق بالعمولة عند التوصية بـ AI Music Maker.
+
+### كيفية الانضمام
+
+1. سجّل الدخول إلى AI Music Maker.
+2. أكمل ملفك للتسويق بالعمولة ووافق على الاتفاقية الحالية.
+3. أنشئ رابط الإحالة في مساحة عمل التسويق بالعمولة.
+4. شاركه مع شروحات أو دروس أو موارد مفيدة لمجتمعك.
 
 <a href="https://musicmaker.im/affiliate-program/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-affiliate.svg" height="40" alt="استكشف برنامج التسويق بالعمولة →"></a>
 
