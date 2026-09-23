@@ -44,10 +44,31 @@ AI Music Maker รวมการสร้างเพลง เนื้อเ�
 
 ค้นหาแนวทางดนตรีที่สนใจ เรียนรู้จากตัวอย่าง แล้วนำมาสร้างผลงานในแบบของคุณ คู่มือของเรารวมแหล่งอ้างอิง พรอมต์ และแบบฝึกหัดทีละขั้นตอนสำหรับการแต่งเพลงและทำมิวสิกวิดีโอ
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>สำรวจเดโมทางการของ Suno และผลงานจากครีเอเตอร์ ตั้งแต่โฟล์กและแดนซ์ไปจนถึงแจ๊ส เปียโน และดนตรีประกอบภาพยนตร์ เลือกแนวทางที่ชอบ ทดลองใช้พรอมต์ แล้วทำตามบทสอนเพื่อพัฒนาเพลงหรือการเรียบเรียงของคุณ</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="ไอเดียแต่งเพลงจากเปียโน แจ๊ส กีตาร์อะคูสติก แดนซ์ และแอนิเมชัน ภาพปกคู่มือมีข้อความภาษาอังกฤษ"></a><p>ไอเดียแต่งเพลงจากเปียโน แจ๊ส กีตาร์อะคูสติก แดนซ์ และแอนิเมชัน ภาพปกคู่มือมีข้อความภาษาอังกฤษ</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">ดูภาพขนาดเต็ม ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TH.md"><b>เปิดคู่มือแต่งเพลง →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>เปลี่ยนเพลงให้เป็นวิดีโอโปรโมตก่อนเปิดตัว คลิปการแสดง หรือภาพเคลื่อนไหววนซ้ำ สำรวจเดโมทางการของโมเดลและผลงานจากครีเอเตอร์ แล้วทำตามบทสอนวิดีโอภาพธรรมชาติและภาพบุคคลร้องเพลง ตั้งแต่วางแผนจนถึงตัดต่อ</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="จากเพลงสู่วิดีโอ: เลือกเพลง วางแผนช็อต สร้างคลิป แล้วตัดต่อและส่งออก ภาพแสดงขั้นตอนพร้อมป้ายกำกับภาษาอังกฤษ"></a><p>จากเพลงสู่วิดีโอ: เลือกเพลง วางแผนช็อต สร้างคลิป แล้วตัดต่อและส่งออก ภาพแสดงขั้นตอนพร้อมป้ายกำกับภาษาอังกฤษ</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">ดูภาพขนาดเต็ม ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TH.md"><b>วางแผนมิวสิกวิดีโอแรกของคุณ →</b></a></td>
-</tr></table>
+### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+
+สำรวจเดโมทางการของ Suno และผลงานจากครีเอเตอร์ ตั้งแต่โฟล์กและแดนซ์ไปจนถึงแจ๊ส เปียโน และดนตรีประกอบภาพยนตร์ เลือกแนวทางที่ชอบ ทดลองใช้พรอมต์ แล้วทำตามบทสอนเพื่อพัฒนาเพลงหรือการเรียบเรียงของคุณ
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="ไอเดียแต่งเพลงจากเปียโน แจ๊ส กีตาร์อะคูสติก แดนซ์ และแอนิเมชัน ภาพปกคู่มือมีข้อความภาษาอังกฤษ"></a>
+
+ไอเดียแต่งเพลงจากเปียโน แจ๊ส กีตาร์อะคูสติก แดนซ์ และแอนิเมชัน ภาพปกคู่มือมีข้อความภาษาอังกฤษ
+
+[ดูภาพขนาดเต็ม ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
+
+**[เปิดคู่มือแต่งเพลง →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TH.md)**
+
+---
+
+### ▶ Awesome Music Video Creator Guide
+
+เปลี่ยนเพลงให้เป็นวิดีโอโปรโมตก่อนเปิดตัว คลิปการแสดง หรือภาพเคลื่อนไหววนซ้ำ สำรวจเดโมทางการของโมเดลและผลงานจากครีเอเตอร์ แล้วทำตามบทสอนวิดีโอภาพธรรมชาติและภาพบุคคลร้องเพลง ตั้งแต่วางแผนจนถึงตัดต่อ
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="จากเพลงสู่วิดีโอ: เลือกเพลง วางแผนช็อต สร้างคลิป แล้วตัดต่อและส่งออก ภาพแสดงขั้นตอนพร้อมป้ายกำกับภาษาอังกฤษ"></a>
+
+จากเพลงสู่วิดีโอ: เลือกเพลง วางแผนช็อต สร้างคลิป แล้วตัดต่อและส่งออก ภาพแสดงขั้นตอนพร้อมป้ายกำกับภาษาอังกฤษ
+
+[ดูภาพขนาดเต็ม ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
+
+**[วางแผนมิวสิกวิดีโอแรกของคุณ →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TH.md)**
 
 <a id="tools"></a>
 

@@ -44,10 +44,31 @@ AI Music Maker は、楽曲、歌詞、音声、音楽に合わせた映像を�
 
 気になる音楽の方向性を見つけ、作例から学び、自分らしい作品に育てましょう。ガイドでは、作曲・作詞やミュージックビデオ制作に役立つ参照元、プロンプト、段階的な練習課題を紹介しています。
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>フォークやダンスからジャズ、ピアノ、映画音楽まで、Suno の公式デモとクリエイターの作例を紹介しています。目指す方向を選び、プロンプトを試し、チュートリアルに沿って曲やアレンジを磨いてみましょう。</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="ピアノ、ジャズ、アコースティックギター、ダンス、アニメーションから広がる曲作りのアイデア。英語の文字を使ったガイドの表紙。"></a><p>ピアノ、ジャズ、アコースティックギター、ダンス、アニメーションから広がる曲作りのアイデア。英語の文字を使ったガイドの表紙。</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">原寸画像を見る ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_JA.md"><b>作曲・作詞ガイドを開く →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>曲をリリース予告、パフォーマンス映像、ループ映像に仕上げましょう。モデルの公式デモやクリエイターの作例を見ながら、自然の風景を使う動画と人物が歌う動画のチュートリアルで、企画から編集まで学べます。</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="音楽から動画へ：曲を選び、カットを計画し、映像を生成して、編集・書き出しへ。英語のラベルを使った制作フロー図。"></a><p>音楽から動画へ：曲を選び、カットを計画し、映像を生成して、編集・書き出しへ。英語のラベルを使った制作フロー図。</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">原寸画像を見る ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_JA.md"><b>初めてのミュージックビデオを計画する →</b></a></td>
-</tr></table>
+### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+
+フォークやダンスからジャズ、ピアノ、映画音楽まで、Suno の公式デモとクリエイターの作例を紹介しています。目指す方向を選び、プロンプトを試し、チュートリアルに沿って曲やアレンジを磨いてみましょう。
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="ピアノ、ジャズ、アコースティックギター、ダンス、アニメーションから広がる曲作りのアイデア。英語の文字を使ったガイドの表紙。"></a>
+
+ピアノ、ジャズ、アコースティックギター、ダンス、アニメーションから広がる曲作りのアイデア。英語の文字を使ったガイドの表紙。
+
+[原寸画像を見る ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
+
+**[作曲・作詞ガイドを開く →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_JA.md)**
+
+---
+
+### ▶ Awesome Music Video Creator Guide
+
+曲をリリース予告、パフォーマンス映像、ループ映像に仕上げましょう。モデルの公式デモやクリエイターの作例を見ながら、自然の風景を使う動画と人物が歌う動画のチュートリアルで、企画から編集まで学べます。
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="音楽から動画へ：曲を選び、カットを計画し、映像を生成して、編集・書き出しへ。英語のラベルを使った制作フロー図。"></a>
+
+音楽から動画へ：曲を選び、カットを計画し、映像を生成して、編集・書き出しへ。英語のラベルを使った制作フロー図。
+
+[原寸画像を見る ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
+
+**[初めてのミュージックビデオを計画する →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_JA.md)**
 
 <a id="tools"></a>
 

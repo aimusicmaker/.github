@@ -44,10 +44,31 @@ Uma música pop acústica acolhedora para uma viagem tranquila de trem de volta 
 
 Explore uma direção musical, aprenda com os exemplos e dê seu toque pessoal. Nossos guias reúnem fontes, instruções e exercícios passo a passo para compor músicas e criar videoclipes.
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>Explore as demonstrações oficiais do Suno e os exemplos de criadores, do folk e da dance ao jazz, piano e trilhas de cinema. Escolha uma direção, experimente as instruções e siga os tutoriais para desenvolver sua música ou seu arranjo.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="Ideias de composição com piano, jazz, violão e dance, além de música para animação. Capa do guia com texto em inglês."></a><p>Ideias de composição com piano, jazz, violão e dance, além de música para animação. Capa do guia com texto em inglês.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">Ver imagem em tamanho original ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_PT.md"><b>Abrir o guia de composição →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>Transforme uma música em uma prévia de lançamento, um vídeo de apresentação ou um loop visual. Explore demonstrações oficiais de modelos e exemplos de criadores; depois, siga os tutoriais de cenas da natureza e retratos cantando, do planejamento à edição.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar. Fluxo ilustrado com legendas em inglês."></a><p>Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar. Fluxo ilustrado com legendas em inglês.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">Ver imagem em tamanho original ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_PT.md"><b>Planejar seu primeiro clipe musical →</b></a></td>
-</tr></table>
+### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+
+Explore as demonstrações oficiais do Suno e os exemplos de criadores, do folk e da dance ao jazz, piano e trilhas de cinema. Escolha uma direção, experimente as instruções e siga os tutoriais para desenvolver sua música ou seu arranjo.
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Ideias de composição com piano, jazz, violão e dance, além de música para animação. Capa do guia com texto em inglês."></a>
+
+Ideias de composição com piano, jazz, violão e dance, além de música para animação. Capa do guia com texto em inglês.
+
+[Ver imagem em tamanho original ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
+
+**[Abrir o guia de composição →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_PT.md)**
+
+---
+
+### ▶ Awesome Music Video Creator Guide
+
+Transforme uma música em uma prévia de lançamento, um vídeo de apresentação ou um loop visual. Explore demonstrações oficiais de modelos e exemplos de criadores; depois, siga os tutoriais de cenas da natureza e retratos cantando, do planejamento à edição.
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_PT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar. Fluxo ilustrado com legendas em inglês."></a>
+
+Da música ao vídeo: escolher a música, planejar as cenas, gerar os clipes, editar e exportar. Fluxo ilustrado com legendas em inglês.
+
+[Ver imagem em tamanho original ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
+
+**[Planejar seu primeiro clipe musical →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_PT.md)**
 
 <a id="tools"></a>
 

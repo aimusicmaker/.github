@@ -44,27 +44,29 @@ AI Music Maker 汇集歌曲生成、歌词创作、音频处理和音乐视觉�
 
 找到喜欢的音乐方向，参考案例，再做出自己的作品。我们把参考资料、提示词和分步练习整理成指南，陪你从写歌走到音乐视频制作。
 
-### ♫ Awesome Suno Creator Guide
+### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
 
 从 Suno 官方演示和创作者作品中寻找灵感，探索民谣、舞曲、爵士、钢琴及影视配乐。选一个方向，试用提示词，跟着教程完善歌曲或为已有旋律重新编配。
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="钢琴、爵士、原声吉他、舞蹈与动画：从一个想法探索多种音乐风格。指南封面，图中文字为英文。"></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="钢琴、爵士、原声吉他、舞蹈与动画：从一个想法探索多种音乐风格。指南封面，图中文字为英文。"></a>
 
 钢琴、爵士、原声吉他、舞蹈与动画：从一个想法探索多种音乐风格。指南封面，图中文字为英文。
 
-[查看原图 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
+[查看原图 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
 **[打开歌曲创作指南 →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_ZH.md)**
+
+---
 
 ### ▶ Awesome Music Video Creator Guide
 
 把歌曲做成发行预告、演唱短片或循环播放的音乐画面。先看模型官方演示和创作者案例，再跟着自然风景镜头与人像演唱教程，完成从镜头规划到剪辑的练习。
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="从音乐到视频：选音乐、规划镜头、生成片段，再剪辑导出。流程插画，图中文字为英文。"></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="从音乐到视频：选音乐、规划镜头、生成片段，再剪辑导出。流程插画，图中文字为英文。"></a>
 
 从音乐到视频：选音乐、规划镜头、生成片段，再剪辑导出。流程插画，图中文字为英文。
 
-[查看原图 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
+[查看原图 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
 **[规划你的第一支音乐视频 →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_ZH.md)**
 

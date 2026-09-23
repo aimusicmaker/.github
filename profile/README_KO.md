@@ -44,10 +44,31 @@ AI Music Maker는 노래, 가사, 오디오, 음악 영상을 한곳에서 만�
 
 원하는 음악 방향을 찾고, 예시에서 배운 내용을 나만의 작품에 적용해 보세요. 가이드에는 작곡·작사와 뮤직비디오 제작에 필요한 참고 자료, 프롬프트, 단계별 연습이 담겨 있습니다.
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>포크와 댄스부터 재즈, 피아노, 영화 음악까지 Suno 공식 데모와 크리에이터의 작품을 살펴보세요. 원하는 방향을 정하고 프롬프트를 시도한 다음, 튜토리얼을 따라 곡과 편곡을 발전시킬 수 있습니다.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="피아노, 재즈, 어쿠스틱 기타, 댄스, 애니메이션에서 찾는 곡 만들기 아이디어. 영어 문구가 들어간 가이드 표지."></a><p>피아노, 재즈, 어쿠스틱 기타, 댄스, 애니메이션에서 찾는 곡 만들기 아이디어. 영어 문구가 들어간 가이드 표지.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">원본 이미지 보기 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><b>작곡·작사 가이드 열기 →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>노래를 발매 예고 영상, 공연 영상 또는 반복 재생 영상으로 만들어 보세요. 모델의 공식 데모와 크리에이터의 작품을 살펴보고, 자연 풍경 영상과 인물이 노래하는 영상 튜토리얼을 따라 기획부터 편집까지 진행할 수 있습니다.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="음악에서 영상으로: 음악 선택, 장면 계획, 영상 생성, 편집 및 내보내기. 영어로 표시된 제작 과정 그림."></a><p>음악에서 영상으로: 음악 선택, 장면 계획, 영상 생성, 편집 및 내보내기. 영어로 표시된 제작 과정 그림.</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">원본 이미지 보기 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><b>첫 뮤직비디오 계획하기 →</b></a></td>
-</tr></table>
+### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+
+포크와 댄스부터 재즈, 피아노, 영화 음악까지 Suno 공식 데모와 크리에이터의 작품을 살펴보세요. 원하는 방향을 정하고 프롬프트를 시도한 다음, 튜토리얼을 따라 곡과 편곡을 발전시킬 수 있습니다.
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="피아노, 재즈, 어쿠스틱 기타, 댄스, 애니메이션에서 찾는 곡 만들기 아이디어. 영어 문구가 들어간 가이드 표지."></a>
+
+피아노, 재즈, 어쿠스틱 기타, 댄스, 애니메이션에서 찾는 곡 만들기 아이디어. 영어 문구가 들어간 가이드 표지.
+
+[원본 이미지 보기 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
+
+**[작곡·작사 가이드 열기 →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_KO.md)**
+
+---
+
+### ▶ Awesome Music Video Creator Guide
+
+노래를 발매 예고 영상, 공연 영상 또는 반복 재생 영상으로 만들어 보세요. 모델의 공식 데모와 크리에이터의 작품을 살펴보고, 자연 풍경 영상과 인물이 노래하는 영상 튜토리얼을 따라 기획부터 편집까지 진행할 수 있습니다.
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="음악에서 영상으로: 음악 선택, 장면 계획, 영상 생성, 편집 및 내보내기. 영어로 표시된 제작 과정 그림."></a>
+
+음악에서 영상으로: 음악 선택, 장면 계획, 영상 생성, 편집 및 내보내기. 영어로 표시된 제작 과정 그림.
+
+[원본 이미지 보기 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
+
+**[첫 뮤직비디오 계획하기 →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_KO.md)**
 
 <a id="tools"></a>
 

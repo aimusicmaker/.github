@@ -50,15 +50,12 @@ for code,name in LANGS:
   sections += [f'{i}. {s}' for i,s in enumerate(t['start'],1)]
   sections += [f'\n```text\n{t["prompt"]}\n```\n\n> {t["prompt_note"]}\n',f'<a id="guides"></a>\n\n## {t["projects_title"]}\n\n{t["why"]}\n']
   cards=[]
-  for i,(slug,title,icon) in enumerate([('awesome-suno-creator-guide','Awesome Suno Creator Guide','♫'),('awesome-music-video-creator-guide','Awesome Music Video Creator Guide','▶')]):
+  for i,(slug,title,icon) in enumerate([('awesome-suno-creator-guide','Suno Music Creation Guide: Prompts, Examples & Tutorials','♫'),('awesome-music-video-creator-guide','Awesome Music Video Creator Guide','▶')]):
    url=f'https://github.com/aimusicmaker/{slug}/blob/main/{"mobile/" if mobile else ""}{file(code)}'
-   asset = ['songwriting-guide.png', 'music-video-workflow.png'][i]
+   asset = ['songwriting-guide.jpg', 'music-video-workflow.jpg'][i]
    caption = html.escape(t['project_image_captions'][i], quote=True)
-   if mobile:
-    cards.append(f'### {icon} {title}\n\n{t["projects"][i]}\n\n<a href="{url}"><img src="{RAW}/assets/{asset}" width="900" alt="{caption}"></a>\n\n{t["project_image_captions"][i]}\n\n[{t["image_zoom"]}]({RAW}/assets/{asset})\n\n**[{t["project_actions"][i]}]({url})**\n')
-   else:
-    cards.append(f'<td width="50%" valign="top"><h3>{icon} {title}</h3><p>{html.escape(t["projects"][i])}</p><a href="{url}"><img src="{RAW}/assets/{asset}" width="440" alt="{caption}"></a><p>{html.escape(t["project_image_captions"][i])}</p><p><a href="{RAW}/assets/{asset}">{html.escape(t["image_zoom"])}</a></p><a href="{url}"><b>{html.escape(t["project_actions"][i])}</b></a></td>')
-  sections += ['\n'.join(cards) if mobile else '<table><tr>\n'+'\n'.join(cards)+'\n</tr></table>\n', f'<a id="tools"></a>\n\n## {t["tools_title"]}\n\n{t["links_note"]}\n']
+   cards.append(f'### {icon} {title}\n\n{t["projects"][i]}\n\n<a href="{url}"><img src="{RAW}/assets/{asset}" width="100%" alt="{caption}"></a>\n\n{t["project_image_captions"][i]}\n\n[{t["image_zoom"]}]({RAW}/assets/{asset})\n\n**[{t["project_actions"][i]}]({url})**\n')
+  sections += ['\n---\n\n'.join(cards), f'<a id="tools"></a>\n\n## {t["tools_title"]}\n\n{t["links_note"]}\n']
   if mobile:
    for row,route in zip(t['tools'],ROUTES):
     sections.append(f'### {row[0]}\n\n[{row[1]}](https://musicmaker.im/{route}/) ↗\n\n{row[2]}\n')

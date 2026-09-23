@@ -44,27 +44,29 @@ AI Music Maker объединяет песни, тексты, работу со 
 
 Выберите музыкальное направление, изучите примеры и создайте что-то своё. В наших руководствах собраны ссылки на источники, запросы для генерации и пошаговые упражнения по написанию песен и созданию музыкальных видео.
 
-### ♫ Awesome Suno Creator Guide
+### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
 
 Изучите официальные демо Suno и работы авторов: от фолка и танцевальной музыки до джаза, фортепианных композиций и музыки для кино. Выберите направление, попробуйте запросы и следуйте урокам, чтобы развить свою песню или аранжировку.
 
-<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_RU.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Идеи для песен: фортепиано, джаз, акустическая гитара, танцевальная музыка и анимация. Обложка руководства с надписями на английском языке."></a>
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_RU.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="Идеи для песен: фортепиано, джаз, акустическая гитара, танцевальная музыка и анимация. Обложка руководства с надписями на английском языке."></a>
 
 Идеи для песен: фортепиано, джаз, акустическая гитара, танцевальная музыка и анимация. Обложка руководства с надписями на английском языке.
 
-[Открыть изображение в полном размере ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
+[Открыть изображение в полном размере ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
 
 **[Открыть руководство по созданию песен →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/mobile/README_RU.md)**
+
+---
 
 ### ▶ Awesome Music Video Creator Guide
 
 Превратите песню в анонс релиза, видео с исполнением или зацикленный видеоряд. Изучите официальные демонстрации моделей и работы авторов, затем пройдите уроки по созданию сцен природы и поющих портретов — от планирования до монтажа.
 
-<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_RU.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="От музыки к видео: выбрать музыку, спланировать кадры, сгенерировать фрагменты, смонтировать и экспортировать. Иллюстрированная схема с подписями на английском языке."></a>
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_RU.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="От музыки к видео: выбрать музыку, спланировать кадры, сгенерировать фрагменты, смонтировать и экспортировать. Иллюстрированная схема с подписями на английском языке."></a>
 
 От музыки к видео: выбрать музыку, спланировать кадры, сгенерировать фрагменты, смонтировать и экспортировать. Иллюстрированная схема с подписями на английском языке.
 
-[Открыть изображение в полном размере ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
+[Открыть изображение в полном размере ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
 
 **[Спланировать первое музыкальное видео →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/mobile/README_RU.md)**
 

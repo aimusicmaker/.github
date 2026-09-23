@@ -44,10 +44,31 @@ AI Music Maker 集合歌曲生成、歌詞創作、音訊處理和音樂視覺�
 
 找到喜歡的音樂方向，參考案例，再做出自己的作品。我們把參考資料、提示詞和分步練習整理成指南，陪你從寫歌走到音樂影片製作。
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>從 Suno 官方示範和創作者作品中尋找靈感，探索民謠、舞曲、爵士、鋼琴及影視配樂。選一個方向，試用提示詞，跟著教學完善歌曲或為既有旋律重新編曲。</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TW.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="440" alt="鋼琴、爵士、原聲吉他、舞蹈與動畫：從一個想法探索多種音樂風格。指南封面，圖中文字為英文。"></a><p>鋼琴、爵士、原聲吉他、舞蹈與動畫：從一個想法探索多種音樂風格。指南封面，圖中文字為英文。</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png">查看原圖 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TW.md"><b>開啟歌曲創作指南 →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>把歌曲做成發行預告、演唱短片或循環播放的音樂畫面。先看模型官方示範和創作者案例，再跟著自然風景鏡頭與人像演唱教學，完成從鏡頭規劃到剪輯的練習。</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TW.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="440" alt="從音樂到影片：選音樂、規劃鏡頭、生成片段，再剪輯匯出。流程插畫，圖中文字為英文。"></a><p>從音樂到影片：選音樂、規劃鏡頭、生成片段，再剪輯匯出。流程插畫，圖中文字為英文。</p><p><a href="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png">查看原圖 ↗</a></p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TW.md"><b>規劃你的第一支音樂影片 →</b></a></td>
-</tr></table>
+### ♫ Suno Music Creation Guide: Prompts, Examples & Tutorials
+
+從 Suno 官方示範和創作者作品中尋找靈感，探索民謠、舞曲、爵士、鋼琴及影視配樂。選一個方向，試用提示詞，跟著教學完善歌曲或為既有旋律重新編曲。
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TW.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg" width="100%" alt="鋼琴、爵士、原聲吉他、舞蹈與動畫：從一個想法探索多種音樂風格。指南封面，圖中文字為英文。"></a>
+
+鋼琴、爵士、原聲吉他、舞蹈與動畫：從一個想法探索多種音樂風格。指南封面，圖中文字為英文。
+
+[查看原圖 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.jpg)
+
+**[開啟歌曲創作指南 →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_TW.md)**
+
+---
+
+### ▶ Awesome Music Video Creator Guide
+
+把歌曲做成發行預告、演唱短片或循環播放的音樂畫面。先看模型官方示範和創作者案例，再跟著自然風景鏡頭與人像演唱教學，完成從鏡頭規劃到剪輯的練習。
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TW.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg" width="100%" alt="從音樂到影片：選音樂、規劃鏡頭、生成片段，再剪輯匯出。流程插畫，圖中文字為英文。"></a>
+
+從音樂到影片：選音樂、規劃鏡頭、生成片段，再剪輯匯出。流程插畫，圖中文字為英文。
+
+[查看原圖 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.jpg)
+
+**[規劃你的第一支音樂影片 →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_TW.md)**
 
 <a id="tools"></a>
 
