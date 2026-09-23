@@ -1,0 +1,98 @@
+{
+  "tagline": "De uma ideia de música a algo que vale a pena compartilhar.",
+  "intro": "O MusicMaker reúne criação de músicas, letras, ferramentas de áudio e recursos visuais para música em um único espaço criativo. Esta é nossa página oficial no GitHub para guias públicos: um lugar onde compositores iniciantes, criadores de vídeos e educadores musicais podem aprender, adaptar materiais e contribuir.",
+  "buttons": [
+    "Criar uma música",
+    "Explorar os guias",
+    "Ouvir músicas"
+  ],
+  "nav": [
+    "Comece aqui",
+    "Guias de código aberto",
+    "Ferramentas criativas",
+    "Sobre estes recursos",
+    "Parceiros afiliados"
+  ],
+  "start_title": "Comece com uma ideia simples",
+  "start": [
+    "Escolha uma cena, um clima e dois instrumentos. Abra o gerador de músicas e descreva o que quer ouvir.",
+    "Ouça a primeira versão: a letra está clara, o refrão se destaca e o final parece completo? Mude uma instrução antes de tentar novamente.",
+    "Quando tiver um trecho que queira guardar, use o guia de clipes musicais para planejar as cenas e editar no ritmo da música."
+  ],
+  "prompt": "Uma música pop acústica acolhedora para uma viagem tranquila de trem de volta para casa. Violão suave e piano delicado, voz intimista, uma estrofe contida e um refrão mais luminoso. Termine suavemente.",
+  "prompt_note": "Uma sugestão inicial escrita para esta página, não uma receita de geração testada. Os resultados variam conforme a ferramenta, o modelo e as configurações escolhidas.",
+  "projects_title": "Aprenda, crie e compartilhe",
+  "why": "Uma faixa pronta não mostra todas as decisões por trás dela. Publicamos instruções, fontes e exercícios passo a passo para você estudar essas escolhas, adaptá-las ao seu trabalho e ajudar a melhorar os guias. Os repositórios compartilham materiais de aprendizagem; o serviço online do MusicMaker é um produto separado.",
+  "projects": [
+    "Para compositores: explore referências oficiais do Suno, exemplos para ouvir, instruções, letras originais e soluções práticas. Este guia organizado de forma independente não é a documentação oficial do Suno.",
+    "Para criadores de vídeos: transforme uma música em um plano de cenas, com exemplos vinculados às fontes, instruções que você pode copiar e exercícios de edição. Os exemplos de criadores e os exercícios novos são identificados separadamente."
+  ],
+  "project_actions": [
+    "Abrir o guia de composição →",
+    "Planejar seu primeiro clipe musical →"
+  ],
+  "tools_title": "Escolha o próximo passo do seu projeto",
+  "table_headers": [
+    "Seu próximo passo",
+    "Abrir uma ferramenta",
+    "O que preparar"
+  ],
+  "tools": [
+    [
+      "Escrever uma música",
+      "Gerador de músicas",
+      "Um clima, instrumentos e sua própria letra, se tiver."
+    ],
+    [
+      "Encontrar as palavras",
+      "Gerador de letras",
+      "Um tema, um ponto de vista e uma ideia para o refrão."
+    ],
+    [
+      "Criar os visuais",
+      "Gerador de clipes musicais",
+      "Música que você tenha permissão para usar e uma breve descrição da cena."
+    ],
+    [
+      "Criar uma capa",
+      "Criador de capas de álbuns",
+      "Uma direção visual e, se necessário, imagens de referência com uso autorizado."
+    ],
+    [
+      "Trabalhar com notas",
+      "Áudio para MIDI (notas editáveis)",
+      "Um arquivo de áudio para converter em notas editáveis; confira a transcrição."
+    ],
+    [
+      "Testar um clipe curto",
+      "Ferramenta de clipes musicais curtos",
+      "Uma cena simples; confira os limites atuais da ferramenta antes de gerar."
+    ]
+  ],
+  "terms": "Os modelos disponíveis, os créditos, os downloads e as permissões de uso comercial dependem do produto e do plano atuais. Confira os preços e a licença comercial antes de publicar uma faixa ou usá-la para um cliente.",
+  "policy_links": [
+    "Planos e preços",
+    "Licença comercial",
+    "Termos de serviço"
+  ],
+  "trust_title": "Quem mantém esta página?",
+  "trust": "Esta página é mantida pela equipe MusicMaker. O site da marca identifica FLAQ TECH PTE. LTD. como sua operadora. Os links de produtos levam ao nosso próprio serviço; não são avaliações independentes nem recomendações dos fornecedores de modelos. Os exemplos públicos nos guias mantêm os links para suas fontes e não comprovam que reproduzimos os resultados.",
+  "reviewed": "A navegação do produto, os idiomas do site e os termos de afiliação foram verificados em 2026-09-23. Consulte as fontes e as notas de manutenção.",
+  "source_link": "Fontes e manutenção",
+  "contribute_title": "Ajude a melhorar o próximo guia",
+  "contribute": "Encontrou uma etapa pouco clara ou um link quebrado? Abra uma issue no repositório correspondente, informando a página, o problema e uma fonte ou as etapas para reproduzi-lo. Correções de tradução, exemplos documentados e melhorias práticas são bem-vindos. Antes de reutilizar materiais, confira a licença de cada repositório e os créditos específicos dos arquivos de mídia.",
+  "contribute_links": [
+    "Informar um problema no perfil",
+    "Ver todos os repositórios",
+    "Comunidade MusicMaker"
+  ],
+  "affiliate_title": "Estamos abertos a parcerias de afiliação",
+  "affiliate": "Você cria tutoriais, ensina criação musical ou administra uma comunidade de criadores? Pode recomendar o MusicMaker pelo nosso programa de afiliados. Comece com uma explicação útil sobre como uma ferramenta atende ao seu público.",
+  "affiliate_rules": "O programa atual informa 20% para o primeiro pedido pago válido de um usuário indicado e 10% para os pedidos pagos válidos seguintes, dentro de 60 dias após o cadastro desse usuário. A elegibilidade, a atribuição, os reembolsos, as contestações de pagamento e o acordo vigente determinam a comissão a pagar. Não há garantia de ganhos; informe sua relação de afiliado ao recomendar o serviço.",
+  "affiliate_steps": "Entre no MusicMaker, preencha seu perfil de afiliado, aceite o acordo e crie seu link de indicação na área de afiliados.",
+  "affiliate_actions": [
+    "Conhecer o programa de afiliados →",
+    "Ler o acordo de afiliação"
+  ],
+  "links_note": "Os links de ferramentas, políticas e afiliação abaixo abrem as páginas em inglês do site oficial."
+}

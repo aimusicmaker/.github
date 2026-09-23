@@ -1,0 +1,98 @@
+{
+  "tagline": "Von der Songidee zu Musik, die du teilen möchtest.",
+  "intro": "MusicMaker vereint Songerstellung, Songtexte, Audiowerkzeuge und Musikvisuals in einem kreativen Arbeitsbereich. Dies ist unsere offizielle GitHub-Seite für öffentlich zugängliche Anleitungen: Hier können angehende Songwriter, Videokreative und Musikpädagogen lernen, Inhalte anpassen und mitwirken.",
+  "buttons": [
+    "Einen Song erstellen",
+    "Anleitungen entdecken",
+    "Musik hören"
+  ],
+  "nav": [
+    "Hier beginnen",
+    "Open-Source-Anleitungen",
+    "Kreative Werkzeuge",
+    "Über diese Materialien",
+    "Affiliate-Partner"
+  ],
+  "start_title": "Beginne mit einer kleinen Idee",
+  "start": [
+    "Wähle eine Szene, eine Stimmung und zwei Instrumente. Öffne den Songgenerator und beschreibe, was du hören möchtest.",
+    "Höre dir den Entwurf an: Ist der Text verständlich, hebt sich der Refrain ab und wirkt der Schluss vollständig? Ändere vor dem nächsten Versuch eine Anweisung.",
+    "Wenn dir eine Passage gefällt, plane mit der Musikvideo-Anleitung passende Aufnahmen und schneide sie zum Takt."
+  ],
+  "prompt": "Ein warmer akustischer Popsong für eine ruhige Zugfahrt nach Hause. Sanfte Gitarre und leises Klavier, nahbarer Gesang, eine zurückhaltende Strophe und ein hellerer Refrain. Sanft ausklingen lassen.",
+  "prompt_note": "Ein für diese Seite geschriebener Einstiegstext, keine getestete Anleitung zur Generierung. Die Ergebnisse hängen vom gewählten Werkzeug, Modell und den Einstellungen ab.",
+  "projects_title": "Lernen, gestalten, teilen",
+  "why": "Ein fertiger Track zeigt nicht alle Entscheidungen, die dahinterstehen. Wir veröffentlichen Prompts, Quellen und schrittweise Übungen, damit du diese Entscheidungen nachvollziehen, auf deine Arbeit übertragen und die Anleitungen verbessern kannst. Die Repositories enthalten Lernmaterialien; der online angebotene MusicMaker-Dienst ist ein separates Produkt.",
+  "projects": [
+    "Für Songwriter: Entdecke offizielle Suno-Quellen, Hörbeispiele, Prompts, eigene Songtexte und praktische Lösungswege. Diese unabhängig zusammengestellte Anleitung ist keine offizielle Suno-Dokumentation.",
+    "Für Videokreative: Entwickle aus einem Song einen Aufnahmeplan, mit Beispielen samt Quellenlinks, kopierbaren Prompts und Schnittübungen. Beispiele von Kreativen und neu verfasste Übungen sind getrennt gekennzeichnet."
+  ],
+  "project_actions": [
+    "Songwriting-Anleitung öffnen →",
+    "Dein erstes Musikvideo planen →"
+  ],
+  "tools_title": "Wähle den nächsten Schritt für dein Projekt",
+  "table_headers": [
+    "Dein nächster Schritt",
+    "Werkzeug öffnen",
+    "Das brauchst du"
+  ],
+  "tools": [
+    [
+      "Einen Song schreiben",
+      "Songgenerator",
+      "Eine Stimmung, Instrumente und eigene Songtexte, falls vorhanden."
+    ],
+    [
+      "Die richtigen Worte finden",
+      "Songtextgenerator",
+      "Ein Thema, eine Erzählperspektive und eine Idee für den Refrain."
+    ],
+    [
+      "Bilder zur Musik gestalten",
+      "Musikvideo-Generator",
+      "Musik, die du verwenden darfst, und eine kurze Szenenbeschreibung."
+    ],
+    [
+      "Ein Cover gestalten",
+      "Albumcover-Generator",
+      "Eine visuelle Richtung und gegebenenfalls Referenzbilder mit entsprechender Nutzungserlaubnis."
+    ],
+    [
+      "Mit Noten arbeiten",
+      "Audio zu MIDI (bearbeitbare Notendaten)",
+      "Eine Audiodatei, die in bearbeitbare Notendaten umgewandelt werden soll; prüfe die Transkription."
+    ],
+    [
+      "Einen kurzen Clip ausprobieren",
+      "Werkzeug für kurze Musikvideos",
+      "Eine einfache Einstellung; prüfe vor der Generierung die aktuellen Einschränkungen des Werkzeugs."
+    ]
+  ],
+  "terms": "Verfügbare Modelle, Guthaben, Downloads und Rechte zur kommerziellen Nutzung hängen vom aktuellen Produkt und Tarif ab. Prüfe Preise und kommerzielle Lizenz, bevor du einen Track veröffentlichst oder für einen Kunden verwendest.",
+  "policy_links": [
+    "Tarife und Preise",
+    "Kommerzielle Lizenz",
+    "Nutzungsbedingungen"
+  ],
+  "trust_title": "Wer pflegt diese Seite?",
+  "trust": "Diese Seite wird vom MusicMaker-Team gepflegt. Die Markenwebsite nennt FLAQ TECH PTE. LTD. als Betreiber. Die Produktlinks führen zu unserem eigenen Dienst; sie sind weder unabhängige Bewertungen noch Empfehlungen der Modellanbieter. Öffentliche Beispiele in den Anleitungen behalten ihre Quellenlinks. Sie belegen nicht, dass wir die Ergebnisse reproduziert haben.",
+  "reviewed": "Produktnavigation, Website-Sprachen und Affiliate-Bedingungen wurden am 2026-09-23 geprüft. Weitere Informationen stehen in den Quellen- und Pflegehinweisen.",
+  "source_link": "Quellen und Pflege",
+  "contribute_title": "Hilf mit, die nächste Anleitung zu verbessern",
+  "contribute": "Ein Schritt ist unklar oder ein Link funktioniert nicht? Erstelle im betreffenden Repository ein Issue mit der Seite, einer Problembeschreibung sowie einer Quelle oder Schritten zur Reproduktion. Übersetzungskorrekturen, dokumentierte Beispiele und praktische Verbesserungen sind willkommen. Prüfe vor einer Weiterverwendung die Lizenz des jeweiligen Repositorys und etwaige gesonderte Mediennachweise.",
+  "contribute_links": [
+    "Ein Problem mit der Profilseite melden",
+    "Alle Repositories ansehen",
+    "MusicMaker-Community"
+  ],
+  "affiliate_title": "Wir freuen uns über Affiliate-Partnerschaften",
+  "affiliate": "Du erstellst Tutorials, unterrichtest Musikproduktion oder betreibst eine Kreativ-Community? Über unser Affiliate-Programm kannst du MusicMaker empfehlen. Erkläre zunächst hilfreich und konkret, wie ein Werkzeug zu deinem Publikum passt.",
+  "affiliate_rules": "Das aktuelle Programm nennt 20% für die erste gültige bezahlte Bestellung eines geworbenen Nutzers und 10% für weitere gültige bezahlte Bestellungen innerhalb von 60 Tagen nach dessen Registrierung. Teilnahmeberechtigung, Zuordnung, Erstattungen, Rückbuchungen und die aktuelle Vereinbarung bestimmen die auszahlbare Provision. Einnahmen sind nicht garantiert; lege bei Empfehlungen deine Affiliate-Beziehung offen.",
+  "affiliate_steps": "Melde dich bei MusicMaker an, vervollständige dein Affiliate-Profil, akzeptiere die Vereinbarung und erstelle deinen Empfehlungslink im Affiliate-Bereich.",
+  "affiliate_actions": [
+    "Affiliate-Programm entdecken →",
+    "Affiliate-Vereinbarung lesen"
+  ],
+  "links_note": "Die folgenden Links zu Werkzeugen, Richtlinien und zum Partnerprogramm öffnen die englischen Seiten der offiziellen Website."
+}

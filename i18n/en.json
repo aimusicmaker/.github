@@ -1,0 +1,98 @@
+{
+  "tagline": "From a song idea to something worth sharing.",
+  "intro": "MusicMaker brings song generation, lyrics, audio tools and music visuals into one creative workspace. This is our official GitHub home for public guides: a place for first-time songwriters, video creators and music educators to learn, adapt and contribute.",
+  "buttons": [
+    "Create a song",
+    "Explore the guides",
+    "Listen to music"
+  ],
+  "nav": [
+    "Start here",
+    "Open-source guides",
+    "Creative tools",
+    "About these resources",
+    "Affiliate partners"
+  ],
+  "start_title": "Start with one small idea",
+  "start": [
+    "Choose a scene, a mood and two instruments. Open the song generator and describe what you want to hear.",
+    "Listen to the draft: can you hear the words clearly, does the chorus stand out, and does the ending feel complete? Change one instruction before trying again.",
+    "When you have a passage worth keeping, use the music-video guide to plan shots and edit them to the beat."
+  ],
+  "prompt": "A warm acoustic pop song for a quiet train ride home. Gentle guitar and soft piano, intimate vocals, a restrained verse and a brighter chorus. End softly.",
+  "prompt_note": "A starter brief written for this page, not a tested generation recipe. Results vary with the selected tool, model and settings.",
+  "projects_title": "Learn, make, share",
+  "why": "A finished track does not show every decision behind it. We publish prompts, source references and step-by-step exercises so you can study the choices, adapt them to your own work and help improve the guides. The repositories share learning materials; the hosted MusicMaker service is a separate product.",
+  "projects": [
+    "For songwriters: explore official Suno references, listening examples, prompts, original lyrics and practical fixes. This independently curated guide is not official Suno documentation.",
+    "For video creators: move from a song to a shot plan, with source-linked examples, copyable prompts and editing exercises. Creator examples and newly written exercises are identified separately."
+  ],
+  "project_actions": [
+    "Open the songwriting guide →",
+    "Plan your first music video →"
+  ],
+  "tools_title": "Choose the next step in your project",
+  "table_headers": [
+    "Your next step",
+    "Open a tool",
+    "What to prepare"
+  ],
+  "tools": [
+    [
+      "Write a song",
+      "Song generator",
+      "A mood, instruments and your own lyrics, if you have them."
+    ],
+    [
+      "Find the words",
+      "Lyrics generator",
+      "A subject, a point of view and a chorus idea."
+    ],
+    [
+      "Make the visuals",
+      "Music video generator",
+      "Music you may use and a short scene description."
+    ],
+    [
+      "Design a release cover",
+      "Album cover maker",
+      "A visual direction and any authorized reference images."
+    ],
+    [
+      "Work with notes",
+      "Audio to MIDI",
+      "An audio file to turn into editable note data; check the transcription."
+    ],
+    [
+      "Try a short clip",
+      "Short music video tool",
+      "One simple shot; check the tool's current limits before generating."
+    ]
+  ],
+  "terms": "Available models, credits, downloads and commercial-use permissions depend on the current product and plan. Check pricing and the commercial license before publishing or using a track for a client.",
+  "policy_links": [
+    "Plans and pricing",
+    "Commercial license",
+    "Terms of service"
+  ],
+  "trust_title": "Who maintains this page?",
+  "trust": "Maintained by the MusicMaker team. The brand website identifies its operator as FLAQ TECH PTE. LTD. Product links here lead to our own service; they are not independent reviews or endorsements by model providers. Public examples in the guides retain their source links and do not establish that we reproduced the results.",
+  "reviewed": "Product navigation, website languages and affiliate terms checked on 2026-09-23. See the source and maintenance notes.",
+  "source_link": "Sources and maintenance",
+  "contribute_title": "Help make the next guide better",
+  "contribute": "Found an unclear step or a broken link? Open an issue in the relevant repository with the page, the problem and a source or reproduction steps. Translation corrections, documented examples and practical improvements are welcome. Check each repository's license and any separate media credits before reuse.",
+  "contribute_links": [
+    "Report a profile issue",
+    "Browse all repositories",
+    "MusicMaker community"
+  ],
+  "affiliate_title": "We welcome affiliate partnerships",
+  "affiliate": "Make tutorials, teach music creation or run a creator community? You can recommend MusicMaker through our affiliate program. Start with a useful explanation of how a tool fits your audience.",
+  "affiliate_rules": "The current program lists 20% for a referred user's first valid paid order and 10% for subsequent valid paid orders within 60 days of registration. Eligibility, attribution, refunds, chargebacks and the current agreement determine payable commission. Earnings are not guaranteed; disclose your affiliate relationship when recommending the service.",
+  "affiliate_steps": "Sign in to MusicMaker, complete your affiliate profile, accept the agreement and create your referral link in the affiliate workspace.",
+  "affiliate_actions": [
+    "Explore the affiliate program →",
+    "Read the affiliate agreement"
+  ],
+  "links_note": "Tool, policy and affiliate links below open the English website pages."
+}

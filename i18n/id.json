@@ -1,0 +1,98 @@
+{
+  "tagline": "Dari ide lagu menjadi karya yang layak dibagikan.",
+  "intro": "MusicMaker menyatukan pembuatan lagu, lirik, alat audio, dan visual musik dalam satu ruang berkarya. Inilah halaman resmi GitHub kami untuk panduan publik: tempat penulis lagu pemula, kreator video, dan pengajar musik belajar, menyesuaikan materi, serta berkontribusi.",
+  "buttons": [
+    "Buat lagu",
+    "Jelajahi panduan",
+    "Dengarkan musik"
+  ],
+  "nav": [
+    "Mulai di sini",
+    "Panduan sumber terbuka",
+    "Alat kreatif",
+    "Tentang materi ini",
+    "Mitra afiliasi"
+  ],
+  "start_title": "Mulai dari satu ide kecil",
+  "start": [
+    "Tentukan sebuah suasana adegan, nuansa, dan dua instrumen. Buka pembuat lagu, lalu jelaskan musik yang ingin Anda dengar.",
+    "Dengarkan drafnya: apakah lirik terdengar jelas, bagian refrain menonjol, dan penutupnya terasa tuntas? Ubah satu instruksi sebelum mencoba lagi.",
+    "Setelah menemukan bagian yang ingin dipertahankan, gunakan panduan video musik untuk merencanakan pengambilan gambar dan menyuntingnya mengikuti ketukan."
+  ],
+  "prompt": "Lagu pop akustik yang hangat untuk perjalanan pulang dengan kereta yang tenang. Gitar lembut dan piano halus, vokal yang terasa dekat, bait yang tertahan, serta refrain yang lebih cerah. Akhiri dengan lembut.",
+  "prompt_note": "Contoh arahan awal yang ditulis untuk halaman ini, bukan resep pembuatan yang sudah diuji. Hasil bergantung pada alat, model, dan pengaturan yang dipilih.",
+  "projects_title": "Belajar, berkarya, berbagi",
+  "why": "Lagu yang sudah jadi tidak memperlihatkan setiap keputusan di baliknya. Kami membagikan perintah, referensi sumber, dan latihan bertahap agar Anda dapat mempelajari pilihan tersebut, menerapkannya pada karya sendiri, serta membantu memperbaiki panduan. Repositori ini membagikan materi pembelajaran; layanan daring MusicMaker merupakan produk tersendiri.",
+  "projects": [
+    "Untuk penulis lagu: jelajahi referensi resmi Suno, contoh untuk didengarkan, perintah, lirik orisinal, dan solusi praktis. Panduan ini disusun secara independen dan bukan dokumentasi resmi Suno.",
+    "Untuk kreator video: kembangkan lagu menjadi rencana pengambilan gambar dengan contoh bertautan sumber, perintah yang bisa disalin, dan latihan penyuntingan. Contoh karya kreator dan latihan yang baru ditulis diberi penanda terpisah."
+  ],
+  "project_actions": [
+    "Buka panduan penulisan lagu →",
+    "Rencanakan video musik pertama Anda →"
+  ],
+  "tools_title": "Pilih langkah berikutnya untuk proyek Anda",
+  "table_headers": [
+    "Langkah berikutnya",
+    "Buka alat",
+    "Yang perlu disiapkan"
+  ],
+  "tools": [
+    [
+      "Tulis lagu",
+      "Pembuat lagu",
+      "Nuansa, instrumen, dan lirik buatan sendiri jika ada."
+    ],
+    [
+      "Temukan kata-katanya",
+      "Pembuat lirik",
+      "Tema, sudut pandang, dan ide refrain."
+    ],
+    [
+      "Buat visual",
+      "Pembuat video musik",
+      "Musik yang berhak Anda gunakan dan deskripsi adegan singkat."
+    ],
+    [
+      "Rancang sampul rilisan",
+      "Pembuat sampul album",
+      "Arah visual dan gambar referensi yang telah diizinkan penggunaannya."
+    ],
+    [
+      "Olah not musik",
+      "Audio ke MIDI",
+      "Berkas audio untuk diubah menjadi data not yang dapat disunting; periksa hasil transkripsinya."
+    ],
+    [
+      "Coba klip pendek",
+      "Alat video musik pendek",
+      "Satu pengambilan gambar sederhana; periksa batasan alat saat ini sebelum membuatnya."
+    ]
+  ],
+  "terms": "Model, kredit, unduhan, dan izin penggunaan komersial bergantung pada produk dan paket yang berlaku. Periksa harga dan lisensi komersial sebelum menerbitkan lagu atau menggunakannya untuk klien.",
+  "policy_links": [
+    "Paket dan harga",
+    "Lisensi komersial",
+    "Ketentuan layanan"
+  ],
+  "trust_title": "Siapa yang mengelola halaman ini?",
+  "trust": "Dikelola oleh tim MusicMaker. Situs merek mencantumkan FLAQ TECH PTE. LTD. sebagai operatornya. Tautan produk di sini menuju layanan kami sendiri; bukan ulasan independen atau dukungan dari penyedia model. Contoh publik dalam panduan tetap menyertakan tautan sumbernya dan tidak membuktikan bahwa kami telah mereproduksi hasil tersebut.",
+  "reviewed": "Navigasi produk, bahasa situs, dan ketentuan afiliasi diperiksa pada 2026-09-23. Lihat catatan sumber dan pemeliharaan.",
+  "source_link": "Sumber dan pemeliharaan",
+  "contribute_title": "Bantu menyempurnakan panduan berikutnya",
+  "contribute": "Menemukan langkah yang kurang jelas atau tautan rusak? Buat laporan masalah di repositori terkait dengan menyertakan halaman, masalah, serta sumber atau langkah untuk mereproduksinya. Koreksi terjemahan, contoh terdokumentasi, dan perbaikan praktis sangat kami terima. Periksa lisensi setiap repositori dan keterangan hak media yang terpisah sebelum menggunakan ulang materi.",
+  "contribute_links": [
+    "Laporkan masalah halaman profil",
+    "Lihat semua repositori",
+    "Komunitas MusicMaker"
+  ],
+  "affiliate_title": "Kami terbuka untuk kerja sama afiliasi",
+  "affiliate": "Anda membuat tutorial, mengajar pembuatan musik, atau mengelola komunitas kreator? Anda dapat merekomendasikan MusicMaker melalui program afiliasi kami. Mulailah dengan penjelasan bermanfaat tentang kesesuaian alat dengan kebutuhan audiens Anda.",
+  "affiliate_rules": "Program saat ini mencantumkan komisi 20% untuk pesanan berbayar valid pertama dari pengguna yang Anda rujuk, serta 10% untuk pesanan berbayar valid berikutnya dalam 60 hari sejak pendaftaran. Kelayakan, atribusi rujukan, pengembalian dana, sanggahan transaksi, dan perjanjian yang berlaku menentukan komisi yang dapat dibayarkan. Penghasilan tidak dijamin; ungkapkan hubungan afiliasi Anda saat merekomendasikan layanan.",
+  "affiliate_steps": "Masuk ke MusicMaker, lengkapi profil afiliasi, setujui perjanjian, lalu buat tautan rujukan di ruang kerja afiliasi.",
+  "affiliate_actions": [
+    "Jelajahi program afiliasi →",
+    "Baca perjanjian afiliasi"
+  ],
+  "links_note": "Tautan alat, kebijakan, dan afiliasi di bawah membuka halaman situs resmi dalam bahasa Inggris."
+}

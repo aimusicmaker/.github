@@ -1,0 +1,98 @@
+{
+  "tagline": "D’une idée de chanson à une musique à partager.",
+  "intro": "MusicMaker réunit la création de chansons, les paroles, les outils audio et les visuels musicaux dans un même espace de création. Voici notre page GitHub officielle consacrée aux guides publics : un lieu où auteurs débutants, vidéastes et enseignants en musique peuvent apprendre, adapter les ressources et contribuer.",
+  "buttons": [
+    "Créer une chanson",
+    "Explorer les guides",
+    "Écouter de la musique"
+  ],
+  "nav": [
+    "Commencer ici",
+    "Guides open source",
+    "Outils créatifs",
+    "À propos des ressources",
+    "Partenaires affiliés"
+  ],
+  "start_title": "Commencez par une idée simple",
+  "start": [
+    "Choisissez une scène, une ambiance et deux instruments. Ouvrez le générateur de chansons et décrivez ce que vous souhaitez entendre.",
+    "Écoutez la première version : les paroles sont-elles intelligibles, le refrain se distingue-t-il et la fin semble-t-elle aboutie ? Modifiez une consigne avant de réessayer.",
+    "Quand un passage vous plaît, utilisez le guide du clip musical pour préparer les plans et les monter au rythme de la musique."
+  ],
+  "prompt": "Une chanson pop acoustique chaleureuse pour un trajet paisible en train vers la maison. Guitare douce et piano discret, voix intimiste, couplet retenu et refrain plus lumineux. Terminer en douceur.",
+  "prompt_note": "Un exemple de consigne rédigé pour cette page, et non une recette de génération testée. Les résultats varient selon l’outil, le modèle et les réglages choisis.",
+  "projects_title": "Apprendre, créer, partager",
+  "why": "Un morceau terminé ne révèle pas toutes les décisions qui l’ont façonné. Nous publions des consignes, des sources et des exercices pas à pas pour vous permettre d’étudier ces choix, de les adapter à vos créations et d’améliorer les guides. Les dépôts proposent des ressources pédagogiques ; le service MusicMaker en ligne est un produit distinct.",
+  "projects": [
+    "Pour les auteurs de chansons : découvrez des références officielles Suno, des exemples à écouter, des consignes, des paroles originales et des solutions pratiques. Ce guide constitué de manière indépendante n’est pas la documentation officielle de Suno.",
+    "Pour les vidéastes : passez d’une chanson à un découpage en plans, avec des exemples accompagnés de leurs sources, des consignes à copier et des exercices de montage. Les exemples de créateurs et les nouveaux exercices sont identifiés séparément."
+  ],
+  "project_actions": [
+    "Ouvrir le guide d’écriture de chansons →",
+    "Préparer votre premier clip musical →"
+  ],
+  "tools_title": "Choisissez la prochaine étape de votre projet",
+  "table_headers": [
+    "Votre prochaine étape",
+    "Ouvrir un outil",
+    "À préparer"
+  ],
+  "tools": [
+    [
+      "Écrire une chanson",
+      "Générateur de chansons",
+      "Une ambiance, des instruments et vos propres paroles, si vous en avez."
+    ],
+    [
+      "Trouver les mots",
+      "Générateur de paroles",
+      "Un sujet, un point de vue et une idée de refrain."
+    ],
+    [
+      "Créer les images",
+      "Générateur de clips musicaux",
+      "Une musique que vous avez le droit d’utiliser et une brève description de scène."
+    ],
+    [
+      "Concevoir une pochette",
+      "Créateur de pochettes d’album",
+      "Une direction visuelle et, si nécessaire, des images de référence dont l’utilisation est autorisée."
+    ],
+    [
+      "Travailler les notes",
+      "Audio vers MIDI (notes modifiables)",
+      "Un fichier audio à convertir en notes modifiables ; vérifiez la transcription."
+    ],
+    [
+      "Essayer un clip court",
+      "Outil de clips musicaux courts",
+      "Un plan simple ; vérifiez les limites actuelles de l’outil avant de lancer la génération."
+    ]
+  ],
+  "terms": "Les modèles disponibles, les crédits, les téléchargements et les droits d’utilisation commerciale dépendent du produit et de l’offre en vigueur. Consultez les tarifs et la licence commerciale avant de publier un morceau ou de l’utiliser pour un client.",
+  "policy_links": [
+    "Offres et tarifs",
+    "Licence commerciale",
+    "Conditions d’utilisation"
+  ],
+  "trust_title": "Qui entretient cette page ?",
+  "trust": "Cette page est tenue à jour par l’équipe MusicMaker. Le site de la marque désigne FLAQ TECH PTE. LTD. comme exploitant. Les liens produits renvoient à notre propre service ; ce ne sont ni des avis indépendants ni des recommandations des fournisseurs de modèles. Les exemples publics des guides conservent leurs liens sources et ne prouvent pas que nous en avons reproduit les résultats.",
+  "reviewed": "Navigation produit, langues du site et conditions d’affiliation vérifiées le 2026-09-23. Consultez les sources et les notes de maintenance.",
+  "source_link": "Sources et maintenance",
+  "contribute_title": "Aidez-nous à améliorer le prochain guide",
+  "contribute": "Une étape manque de clarté ou un lien ne fonctionne plus ? Ouvrez un ticket dans le dépôt concerné en indiquant la page, le problème et une source ou les étapes pour le reproduire. Les corrections de traduction, les exemples documentés et les améliorations pratiques sont les bienvenus. Avant toute réutilisation, vérifiez la licence du dépôt et les éventuels crédits propres aux médias.",
+  "contribute_links": [
+    "Signaler un problème sur le profil",
+    "Parcourir tous les dépôts",
+    "Communauté MusicMaker"
+  ],
+  "affiliate_title": "Nous accueillons les partenariats d’affiliation",
+  "affiliate": "Vous réalisez des tutoriels, enseignez la création musicale ou animez une communauté de créateurs ? Vous pouvez recommander MusicMaker grâce à notre programme d’affiliation. Commencez par expliquer concrètement comment un outil peut servir votre public.",
+  "affiliate_rules": "Le programme actuel prévoit 20% pour la première commande payante valide d’un utilisateur parrainé, puis 10% pour ses commandes payantes valides suivantes dans les 60 jours après son inscription. L’éligibilité, l’attribution, les remboursements, les rétrofacturations et l’accord en vigueur déterminent la commission payable. Aucun revenu n’est garanti ; signalez votre relation d’affiliation lorsque vous recommandez le service.",
+  "affiliate_steps": "Connectez-vous à MusicMaker, complétez votre profil d’affilié, acceptez l’accord et créez votre lien de parrainage dans l’espace d’affiliation.",
+  "affiliate_actions": [
+    "Découvrir le programme d’affiliation →",
+    "Lire l’accord d’affiliation"
+  ],
+  "links_note": "Les liens vers les outils, les conditions et le programme d’affiliation ci-dessous ouvrent les pages en anglais du site officiel."
+}
