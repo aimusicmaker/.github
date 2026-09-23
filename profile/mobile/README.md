@@ -1,22 +1,28 @@
-<div  align="center">
+<div align="center">
 
-<h1><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</h1>
+<img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="88" height="88" alt="AI Music Maker">
+
+# AI Music Maker
 
 **From a song idea to something worth sharing.**
 
-<a href="https://musicmaker.im/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-website.svg" height="40" alt="Visit website"></a>
+<a href="https://musicmaker.im/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-website.svg" height="28" alt="VISIT WEBSITE"></a> <br> <a href="https://github.com/aimusicmaker"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-github.svg" height="28" alt="OPEN-SOURCE GUIDES"></a>
 
-<a href="https://musicmaker.im/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-0.svg" height="40" alt="Create a song"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-1.svg" height="40" alt="Explore the guides"></a> <br> <a href="https://musicmaker.im/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-2.svg" height="40" alt="Listen to music"></a>
+</div>
 
-<a href="https://github.com/aimusicmaker/.github/blob/main/profile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-desktop.svg" height="40" alt="Desktop version"></a>
+---
+
+<p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-desktop.svg" height="40" alt="Desktop version"></a></p>
 
 **English** · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_JA.md) · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_KO.md) · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_VI.md) · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_AR.md)
 
-</div>
+---
 
 AI Music Maker brings song generation, lyrics, audio tools and music visuals into one creative workspace. This is our official GitHub home for public guides: a place for first-time songwriters, video creators and music educators to learn, adapt and contribute.
 
 [Start here](#start) · [Open-source guides](#guides) · [Creative tools](#tools) · [About these resources](#about) · [Affiliate partners](#affiliate)
+
+<p align="center"><a href="https://musicmaker.im/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-0.svg" height="40" alt="Create a song"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-1.svg" height="40" alt="Explore the guides"></a> <br> <a href="https://musicmaker.im/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-2.svg" height="40" alt="Listen to music"></a></p>
 
 <a id="start"></a>
 

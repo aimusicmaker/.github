@@ -21,6 +21,15 @@ def badge(text,color,outline=False):
 def button(code,i,label,url,color,outline=False):
  asset=f'assets/{code}-{i}.svg';write(asset,badge(label,color,outline))
  return f'<a href="{url}"><img src="{RAW}/{asset}" height="40" alt="{html.escape(label,quote=True)}"></a>'
+def header_badge(code, key, label, text, url, color):
+ def measure(value):
+  return max(65, round(sum(12 if ord(c)>255 else 7.3 for c in value)+24))
+ left, right = measure(label), measure(text)
+ width = left + right
+ svg = f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="28" viewBox="0 0 {width} 28"><rect width="{left}" height="28" fill="#555"/><rect x="{left}" width="{right}" height="28" fill="{color}"/><g fill="white" font-family="Arial,sans-serif" font-size="11" text-anchor="middle"><text x="{left/2}" y="18">{html.escape(label)}</text><text x="{left+right/2}" y="18" font-weight="700">{html.escape(text)}</text></g></svg>\n'
+ asset = f'assets/{code}-{key}.svg'
+ write(asset, svg)
+ return f'<a href="{url}"><img src="{RAW}/{asset}" height="28" alt="{html.escape(text, quote=True)}"></a>'
 for code,name in LANGS:
  for mobile in (False, True):
   t=json.loads((ROOT/f'i18n/{code}.json').read_text())
@@ -34,8 +43,10 @@ for code,name in LANGS:
   lang=' · '.join(f'**{n}**' if c==code else f'[{n}]({REPO}/blob/main/{folder}/{file(c)})' for c,n in LANGS)
   nav=' · '.join(f'[{label}](#{anchor})' for label,anchor in zip(t['nav'],['start','guides','tools','about','affiliate']))
   buttons=(' <br> ' if mobile else ' ').join(button(code,i,label,url,color,i==2) for i,(label,url,color) in enumerate(zip(t['buttons'],[site+'ai-song-generator/','#guides',site+'discover/'],['#6d28d9','#0f766e','#9a3412'])))
-  website_button = button(code, 'website', t['website_button'], site, '#6d28d9', True)
-  sections=[f'<div {"dir="+chr(34)+"rtl"+chr(34) if code=="ar" else ""} align="center">\n\n<h1><img src="{RAW}/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</h1>\n\n**{t["tagline"]}**\n\n{website_button}\n\n{buttons}\n\n{switch}\n\n{lang}\n\n</div>\n', f'{t["intro"]}\n\n{nav}\n',f'<a id="start"></a>\n\n## {t["start_title"]}\n']
+  website_button = header_badge(code, 'website', 'AI MUSIC MAKER', t['website_button'].upper(), site, '#7c3aed')
+  github_button = header_badge(code, 'github', 'GITHUB', t['nav'][1].upper(), 'https://github.com/aimusicmaker', '#181717')
+  header_buttons = website_button + (' <br> ' if mobile else ' ') + github_button
+  sections=[f'<div align="center">\n\n<img src="{RAW}/assets/musicmaker-logo.svg" width="88" height="88" alt="AI Music Maker">\n\n# AI Music Maker\n\n**{t["tagline"]}**\n\n{header_buttons}\n\n</div>\n\n---\n\n<p align="center">{switch}</p>\n\n{lang}\n\n---\n', f'{t["intro"]}\n\n{nav}\n\n<p align="center">{buttons}</p>\n',f'<a id="start"></a>\n\n## {t["start_title"]}\n']
   sections += [f'{i}. {s}' for i,s in enumerate(t['start'],1)]
   sections += [f'\n```text\n{t["prompt"]}\n```\n\n> {t["prompt_note"]}\n',f'<a id="guides"></a>\n\n## {t["projects_title"]}\n\n{t["why"]}\n']
   cards=[]

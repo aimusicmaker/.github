@@ -1,24 +1,30 @@
 <div dir="rtl">
 
-<div dir="rtl" align="center">
+<div align="center">
 
-<h1><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</h1>
+<img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="88" height="88" alt="AI Music Maker">
+
+# AI Music Maker
 
 **من فكرة أغنية إلى عمل يستحق المشاركة.**
 
-<a href="https://musicmaker.im/ar/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-website.svg" height="40" alt="زيارة الموقع الرسمي"></a>
+<a href="https://musicmaker.im/ar/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-website.svg" height="28" alt="زيارة الموقع الرسمي"></a> <br> <a href="https://github.com/aimusicmaker"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-github.svg" height="28" alt="أدلة مفتوحة المصدر"></a>
 
-<a href="https://musicmaker.im/ar/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-0.svg" height="40" alt="أنشئ أغنية"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-1.svg" height="40" alt="استكشف الأدلة"></a> <br> <a href="https://musicmaker.im/ar/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-2.svg" height="40" alt="استمع إلى الموسيقى"></a>
+</div>
 
-<a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-desktop.svg" height="40" alt="نسخة سطح المكتب"></a>
+---
+
+<p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-desktop.svg" height="40" alt="نسخة سطح المكتب"></a></p>
 
 [English](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_JA.md) · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_KO.md) · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_VI.md) · **العربية**
 
-</div>
+---
 
 يجمع AI Music Maker إنشاء الأغاني وكتابة الكلمات وأدوات الصوت والمحتوى المرئي للموسيقى في مساحة إبداعية واحدة. هذه صفحتنا الرسمية على GitHub للأدلة المتاحة للجميع، وهي مساحة يتعلم فيها مؤلفو الأغاني المبتدئون وصنّاع الفيديو ومدرّسو الموسيقى، ويكيّفون المواد مع أعمالهم ويساهمون في تطويرها.
 
 [ابدأ هنا](#start) · [أدلة مفتوحة المصدر](#guides) · [أدوات إبداعية](#tools) · [عن هذه الموارد](#about) · [شركاء التسويق بالعمولة](#affiliate)
+
+<p align="center"><a href="https://musicmaker.im/ar/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-0.svg" height="40" alt="أنشئ أغنية"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-1.svg" height="40" alt="استكشف الأدلة"></a> <br> <a href="https://musicmaker.im/ar/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-2.svg" height="40" alt="استمع إلى الموسيقى"></a></p>
 
 <a id="start"></a>
 

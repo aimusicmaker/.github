@@ -1,22 +1,28 @@
-<div  align="center">
+<div align="center">
 
-<h1><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</h1>
+<img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="88" height="88" alt="AI Music Maker">
+
+# AI Music Maker
 
 **Dari ide lagu menjadi karya yang layak dibagikan.**
 
-<a href="https://musicmaker.im/id/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-website.svg" height="40" alt="Kunjungi situs resmi"></a>
+<a href="https://musicmaker.im/id/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-website.svg" height="28" alt="KUNJUNGI SITUS RESMI"></a> <a href="https://github.com/aimusicmaker"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-github.svg" height="28" alt="PANDUAN SUMBER TERBUKA"></a>
 
-<a href="https://musicmaker.im/id/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-0.svg" height="40" alt="Buat lagu"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-1.svg" height="40" alt="Jelajahi panduan"></a> <a href="https://musicmaker.im/id/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-2.svg" height="40" alt="Dengarkan musik"></a>
+</div>
 
-<a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-mobile.svg" height="40" alt="Versi seluler"></a>
+---
+
+<p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-mobile.svg" height="40" alt="Versi seluler"></a></p>
 
 [English](https://github.com/aimusicmaker/.github/blob/main/profile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/README_JA.md) · **Bahasa Indonesia** · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/README_KO.md) · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md) · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/README_AR.md)
 
-</div>
+---
 
 AI Music Maker menyatukan pembuatan lagu, lirik, alat audio, dan visual musik dalam satu ruang berkarya. Inilah halaman resmi GitHub kami untuk panduan publik: tempat penulis lagu pemula, kreator video, dan pengajar musik belajar, menyesuaikan materi, serta berkontribusi.
 
 [Mulai di sini](#start) · [Panduan sumber terbuka](#guides) · [Alat kreatif](#tools) · [Tentang materi ini](#about) · [Mitra afiliasi](#affiliate)
+
+<p align="center"><a href="https://musicmaker.im/id/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-0.svg" height="40" alt="Buat lagu"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-1.svg" height="40" alt="Jelajahi panduan"></a> <a href="https://musicmaker.im/id/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-2.svg" height="40" alt="Dengarkan musik"></a></p>
 
 <a id="start"></a>
 

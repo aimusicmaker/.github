@@ -1,22 +1,28 @@
-<div  align="center">
+<div align="center">
 
-<h1><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</h1>
+<img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="88" height="88" alt="AI Music Maker">
+
+# AI Music Maker
 
 **Từ ý tưởng bài hát đến tác phẩm đáng chia sẻ.**
 
-<a href="https://musicmaker.im/vi/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-website.svg" height="40" alt="Truy cập website chính thức"></a>
+<a href="https://musicmaker.im/vi/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-website.svg" height="28" alt="TRUY CẬP WEBSITE CHÍNH THỨC"></a> <br> <a href="https://github.com/aimusicmaker"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-github.svg" height="28" alt="HƯỚNG DẪN MÃ NGUỒN MỞ"></a>
 
-<a href="https://musicmaker.im/vi/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-0.svg" height="40" alt="Tạo bài hát"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-1.svg" height="40" alt="Khám phá hướng dẫn"></a> <br> <a href="https://musicmaker.im/vi/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-2.svg" height="40" alt="Nghe nhạc"></a>
+</div>
 
-<a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-desktop.svg" height="40" alt="Phiên bản máy tính"></a>
+---
+
+<p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-desktop.svg" height="40" alt="Phiên bản máy tính"></a></p>
 
 [English](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_JA.md) · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_KO.md) · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md) · **Tiếng Việt** · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_AR.md)
 
-</div>
+---
 
 AI Music Maker tập hợp công cụ tạo bài hát, viết lời, xử lý âm thanh và làm hình ảnh cho âm nhạc trong cùng một không gian sáng tạo. Đây là trang GitHub chính thức của chúng tôi dành cho các hướng dẫn công khai, nơi người mới viết nhạc, người làm video và giáo viên âm nhạc có thể học hỏi, vận dụng và đóng góp.
 
 [Bắt đầu tại đây](#start) · [Hướng dẫn mã nguồn mở](#guides) · [Công cụ sáng tạo](#tools) · [Về các tài liệu này](#about) · [Đối tác tiếp thị liên kết](#affiliate)
+
+<p align="center"><a href="https://musicmaker.im/vi/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-0.svg" height="40" alt="Tạo bài hát"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-1.svg" height="40" alt="Khám phá hướng dẫn"></a> <br> <a href="https://musicmaker.im/vi/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-2.svg" height="40" alt="Nghe nhạc"></a></p>
 
 <a id="start"></a>
 

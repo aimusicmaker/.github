@@ -1,22 +1,28 @@
-<div  align="center">
+<div align="center">
 
-<h1><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</h1>
+<img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="88" height="88" alt="AI Music Maker">
+
+# AI Music Maker
 
 **จากไอเดียเพลง สู่ผลงานที่อยากแบ่งปัน**
 
-<a href="https://musicmaker.im/th/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-website.svg" height="40" alt="เยี่ยมชมเว็บไซต์ทางการ"></a>
+<a href="https://musicmaker.im/th/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-website.svg" height="28" alt="เยี่ยมชมเว็บไซต์ทางการ"></a> <a href="https://github.com/aimusicmaker"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-github.svg" height="28" alt="คู่มือโอเพนซอร์ส"></a>
 
-<a href="https://musicmaker.im/th/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-0.svg" height="40" alt="สร้างเพลง"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-1.svg" height="40" alt="ดูคู่มือ"></a> <a href="https://musicmaker.im/th/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-2.svg" height="40" alt="ฟังเพลง"></a>
+</div>
 
-<a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-mobile.svg" height="40" alt="เวอร์ชันมือถือ"></a>
+---
+
+<p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-mobile.svg" height="40" alt="เวอร์ชันมือถือ"></a></p>
 
 [English](https://github.com/aimusicmaker/.github/blob/main/profile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/README_JA.md) · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/README_TW.md) · [한국어](https://github.com/aimusicmaker/.github/blob/main/profile/README_KO.md) · **ไทย** · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/README_VI.md) · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/README_AR.md)
 
-</div>
+---
 
 AI Music Maker รวมการสร้างเพลง การเขียนเนื้อเพลง เครื่องมือเสียง และภาพประกอบดนตรีไว้ในพื้นที่สร้างสรรค์เดียวกัน นี่คือหน้า GitHub อย่างเป็นทางการของเราสำหรับคู่มือสาธารณะ เป็นพื้นที่ให้นักแต่งเพลงมือใหม่ ผู้สร้างวิดีโอ และผู้สอนดนตรีได้เรียนรู้ นำไปปรับใช้ และร่วมพัฒนาคู่มือ
 
 [เริ่มที่นี่](#start) · [คู่มือโอเพนซอร์ส](#guides) · [เครื่องมือสร้างสรรค์](#tools) · [เกี่ยวกับแหล่งเรียนรู้นี้](#about) · [พันธมิตรแนะนำบริการ](#affiliate)
+
+<p align="center"><a href="https://musicmaker.im/th/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-0.svg" height="40" alt="สร้างเพลง"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-1.svg" height="40" alt="ดูคู่มือ"></a> <a href="https://musicmaker.im/th/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-2.svg" height="40" alt="ฟังเพลง"></a></p>
 
 <a id="start"></a>
 

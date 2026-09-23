@@ -1,22 +1,28 @@
-<div  align="center">
+<div align="center">
 
-<h1><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</h1>
+<img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="88" height="88" alt="AI Music Maker">
+
+# AI Music Maker
 
 **노래 아이디어를 함께 나누고 싶은 작품으로.**
 
-<a href="https://musicmaker.im/ko/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-website.svg" height="40" alt="공식 웹사이트 방문"></a>
+<a href="https://musicmaker.im/ko/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-website.svg" height="28" alt="공식 웹사이트 방문"></a> <br> <a href="https://github.com/aimusicmaker"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-github.svg" height="28" alt="오픈 소스 가이드"></a>
 
-<a href="https://musicmaker.im/ko/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-0.svg" height="40" alt="노래 만들기"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-1.svg" height="40" alt="가이드 둘러보기"></a> <br> <a href="https://musicmaker.im/ko/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-2.svg" height="40" alt="음악 듣기"></a>
+</div>
 
-<a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-desktop.svg" height="40" alt="데스크톱 버전"></a>
+---
+
+<p align="center"><a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_KO.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-desktop.svg" height="40" alt="데스크톱 버전"></a></p>
 
 [English](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README.md) · [日本語](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_JA.md) · [Bahasa Indonesia](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ID.md) · [Italiano](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_IT.md) · [Português](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_PT.md) · [Español](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ES.md) · [Deutsch](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_DE.md) · [Русский](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_RU.md) · [Français](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_FR.md) · [简体中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_ZH.md) · [繁體中文](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TW.md) · **한국어** · [ไทย](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TH.md) · [Tiếng Việt](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_VI.md) · [العربية](https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_AR.md)
 
-</div>
+---
 
 AI Music Maker는 노래 생성, 작사, 오디오 도구, 음악 영상 제작을 하나의 작업 공간에 모았습니다. 이곳은 공개 가이드를 제공하는 공식 GitHub 페이지입니다. 처음 곡을 쓰는 분, 영상 제작자, 음악 교육자가 배우고 자신의 작업에 적용하며 개선에 참여할 수 있습니다.
 
 [시작하기](#start) · [오픈 소스 가이드](#guides) · [창작 도구](#tools) · [자료 소개](#about) · [제휴 파트너](#affiliate)
+
+<p align="center"><a href="https://musicmaker.im/ko/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-0.svg" height="40" alt="노래 만들기"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-1.svg" height="40" alt="가이드 둘러보기"></a> <br> <a href="https://musicmaker.im/ko/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ko-2.svg" height="40" alt="음악 듣기"></a></p>
 
 <a id="start"></a>
 
