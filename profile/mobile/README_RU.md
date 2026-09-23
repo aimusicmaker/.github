@@ -4,6 +4,8 @@
 
 **От идеи песни до музыки, которой хочется поделиться.**
 
+<a href="https://musicmaker.im/ru/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ru-website.svg" height="40" alt="Официальный сайт"></a>
+
 <a href="https://musicmaker.im/ru/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ru-0.svg" height="40" alt="Создать песню"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ru-1.svg" height="40" alt="Изучить руководства"></a> <br> <a href="https://musicmaker.im/ru/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ru-2.svg" height="40" alt="Послушать музыку"></a>
 
 <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_RU.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ru-desktop.svg" height="40" alt="Версия для компьютера"></a>

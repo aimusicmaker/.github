@@ -34,7 +34,8 @@ for code,name in LANGS:
   lang=' · '.join(f'**{n}**' if c==code else f'[{n}]({REPO}/blob/main/{folder}/{file(c)})' for c,n in LANGS)
   nav=' · '.join(f'[{label}](#{anchor})' for label,anchor in zip(t['nav'],['start','guides','tools','about','affiliate']))
   buttons=(' <br> ' if mobile else ' ').join(button(code,i,label,url,color,i==2) for i,(label,url,color) in enumerate(zip(t['buttons'],[site+'ai-song-generator/','#guides',site+'discover/'],['#6d28d9','#0f766e','#9a3412'])))
-  sections=[f'<div {"dir="+chr(34)+"rtl"+chr(34) if code=="ar" else ""} align="center">\n\n<h1><img src="{RAW}/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</h1>\n\n**{t["tagline"]}**\n\n{buttons}\n\n{switch}\n\n{lang}\n\n</div>\n', f'{t["intro"]}\n\n{nav}\n',f'<a id="start"></a>\n\n## {t["start_title"]}\n']
+  website_button = button(code, 'website', t['website_button'], site, '#6d28d9', True)
+  sections=[f'<div {"dir="+chr(34)+"rtl"+chr(34) if code=="ar" else ""} align="center">\n\n<h1><img src="{RAW}/assets/musicmaker-logo.svg" width="48" height="48" alt="AI Music Maker"> AI Music Maker</h1>\n\n**{t["tagline"]}**\n\n{website_button}\n\n{buttons}\n\n{switch}\n\n{lang}\n\n</div>\n', f'{t["intro"]}\n\n{nav}\n',f'<a id="start"></a>\n\n## {t["start_title"]}\n']
   sections += [f'{i}. {s}' for i,s in enumerate(t['start'],1)]
   sections += [f'\n```text\n{t["prompt"]}\n```\n\n> {t["prompt_note"]}\n',f'<a id="guides"></a>\n\n## {t["projects_title"]}\n\n{t["why"]}\n']
   cards=[]

@@ -4,6 +4,8 @@
 
 **Dari ide lagu menjadi karya yang layak dibagikan.**
 
+<a href="https://musicmaker.im/id/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-website.svg" height="40" alt="Kunjungi situs resmi"></a>
+
 <a href="https://musicmaker.im/id/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-0.svg" height="40" alt="Buat lagu"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-1.svg" height="40" alt="Jelajahi panduan"></a> <br> <a href="https://musicmaker.im/id/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-2.svg" height="40" alt="Dengarkan musik"></a>
 
 <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/id-desktop.svg" height="40" alt="Versi desktop"></a>

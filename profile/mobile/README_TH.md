@@ -4,6 +4,8 @@
 
 **จากไอเดียเพลง สู่ผลงานที่อยากแบ่งปัน**
 
+<a href="https://musicmaker.im/th/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-website.svg" height="40" alt="เยี่ยมชมเว็บไซต์ทางการ"></a>
+
 <a href="https://musicmaker.im/th/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-0.svg" height="40" alt="สร้างเพลง"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-1.svg" height="40" alt="ดูคู่มือ"></a> <br> <a href="https://musicmaker.im/th/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-2.svg" height="40" alt="ฟังเพลง"></a>
 
 <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_TH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/th-desktop.svg" height="40" alt="เวอร์ชันเดสก์ท็อป"></a>

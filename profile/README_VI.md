@@ -4,6 +4,8 @@
 
 **Từ ý tưởng bài hát đến tác phẩm đáng chia sẻ.**
 
+<a href="https://musicmaker.im/vi/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-website.svg" height="40" alt="Truy cập website chính thức"></a>
+
 <a href="https://musicmaker.im/vi/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-0.svg" height="40" alt="Tạo bài hát"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-1.svg" height="40" alt="Khám phá hướng dẫn"></a> <a href="https://musicmaker.im/vi/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-2.svg" height="40" alt="Nghe nhạc"></a>
 
 <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_VI.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/vi-mobile.svg" height="40" alt="Phiên bản di động"></a>

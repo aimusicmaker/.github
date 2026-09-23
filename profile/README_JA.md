@@ -4,6 +4,8 @@
 
 **曲のアイデアを、誰かに届けたくなる作品へ。**
 
+<a href="https://musicmaker.im/ja/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-website.svg" height="40" alt="公式サイトへ"></a>
+
 <a href="https://musicmaker.im/ja/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-0.svg" height="40" alt="曲を作る"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-1.svg" height="40" alt="ガイドを見る"></a> <a href="https://musicmaker.im/ja/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-2.svg" height="40" alt="音楽を聴く"></a>
 
 <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ja-mobile.svg" height="40" alt="モバイル版"></a>

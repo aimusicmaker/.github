@@ -4,6 +4,8 @@
 
 **Da un’idea musicale a una canzone da condividere.**
 
+<a href="https://musicmaker.im/it/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/it-website.svg" height="40" alt="Visita il sito ufficiale"></a>
+
 <a href="https://musicmaker.im/it/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/it-0.svg" height="40" alt="Crea una canzone"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/it-1.svg" height="40" alt="Esplora le guide"></a> <br> <a href="https://musicmaker.im/it/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/it-2.svg" height="40" alt="Ascolta la musica"></a>
 
 <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_IT.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/it-desktop.svg" height="40" alt="Versione desktop"></a>

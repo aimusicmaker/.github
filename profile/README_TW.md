@@ -4,6 +4,8 @@
 
 **把一個音樂靈感，做成值得分享的作品。**
 
+<a href="https://musicmaker.im/tw/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/tw-website.svg" height="40" alt="造訪官網"></a>
+
 <a href="https://musicmaker.im/tw/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/tw-0.svg" height="40" alt="開始寫歌"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/tw-1.svg" height="40" alt="閱讀創作指南"></a> <a href="https://musicmaker.im/tw/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/tw-2.svg" height="40" alt="試聽音樂"></a>
 
 <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README_TW.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/tw-mobile.svg" height="40" alt="手機版首頁"></a>

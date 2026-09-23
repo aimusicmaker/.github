@@ -6,6 +6,8 @@
 
 **من فكرة أغنية إلى عمل يستحق المشاركة.**
 
+<a href="https://musicmaker.im/ar/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-website.svg" height="40" alt="زيارة الموقع الرسمي"></a>
+
 <a href="https://musicmaker.im/ar/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-0.svg" height="40" alt="أنشئ أغنية"></a> <br> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-1.svg" height="40" alt="استكشف الأدلة"></a> <br> <a href="https://musicmaker.im/ar/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-2.svg" height="40" alt="استمع إلى الموسيقى"></a>
 
 <a href="https://github.com/aimusicmaker/.github/blob/main/profile/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/ar-desktop.svg" height="40" alt="نسخة سطح المكتب"></a>

@@ -4,6 +4,8 @@
 
 **From a song idea to something worth sharing.**
 
+<a href="https://musicmaker.im/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-website.svg" height="40" alt="Visit website"></a>
+
 <a href="https://musicmaker.im/ai-song-generator/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-0.svg" height="40" alt="Create a song"></a> <a href="#guides"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-1.svg" height="40" alt="Explore the guides"></a> <a href="https://musicmaker.im/discover/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-2.svg" height="40" alt="Listen to music"></a>
 
 <a href="https://github.com/aimusicmaker/.github/blob/main/profile/mobile/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/en-mobile.svg" height="40" alt="Mobile version"></a>
