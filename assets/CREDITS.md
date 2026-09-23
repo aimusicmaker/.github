@@ -12,3 +12,7 @@
 Copyright (c) 2026 AI Music Maker。源仓库在可授予权利范围内采用 MIT 许可，完整许可保留在 [ILLUSTRATIONS-LICENSE.txt](ILLUSTRATIONS-LICENSE.txt)。
 
 图片内文字为英文；所有 15 种语言首页均有对应语言图注和替代文本，视频图注解释四步流程。这些是编辑插画，不是产品界面截图、模型效果证据或生成实测成果。桌面版使用并排图文卡片，独立手机版使用纵排图文块；两版均保留原始比例，提供原图入口。
+
+## 品牌 LOGO
+
+`musicmaker-logo.svg` 来自 [MusicMaker 官网 LOGO](https://musicmaker.im/images/logo.svg)，原样保存，用于所有语言的桌面与手机版品牌标题。它是品牌标识，不纳入插画 MIT 授权。`musicmaker-avatar.png` 是同一 LOGO 的 PNG 格式副本，供组织管理员上传为头像。

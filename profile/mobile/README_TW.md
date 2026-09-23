@@ -1,6 +1,6 @@
 <div  align="center">
 
-# [MusicMaker](https://musicmaker.im/tw/)
+<h1><a href="https://musicmaker.im/tw/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="MusicMaker"> MusicMaker</a></h1>
 
 **把一個音樂靈感，做成值得分享的作品。**
 

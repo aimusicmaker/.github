@@ -1,6 +1,6 @@
 <div  align="center">
 
-# [MusicMaker](https://musicmaker.im/es/)
+<h1><a href="https://musicmaker.im/es/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="MusicMaker"> MusicMaker</a></h1>
 
 **De una idea musical a una canción que quieras compartir.**
 

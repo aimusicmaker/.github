@@ -2,7 +2,7 @@
 
 <div dir="rtl" align="center">
 
-# [MusicMaker](https://musicmaker.im/ar/)
+<h1><a href="https://musicmaker.im/ar/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="MusicMaker"> MusicMaker</a></h1>
 
 **من فكرة أغنية إلى عمل يستحق المشاركة.**
 

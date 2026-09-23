@@ -1,6 +1,6 @@
 <div  align="center">
 
-# [MusicMaker](https://musicmaker.im/vi/)
+<h1><a href="https://musicmaker.im/vi/"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/musicmaker-logo.svg" width="48" height="48" alt="MusicMaker"> MusicMaker</a></h1>
 
 **Từ ý tưởng bài hát đến tác phẩm đáng chia sẻ.**
 
