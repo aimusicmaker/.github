@@ -94,5 +94,10 @@
     "Scopri il programma di affiliazione →",
     "Leggi l’accordo di affiliazione"
   ],
-  "links_note": "I link a strumenti, condizioni e programma di affiliazione qui sotto aprono le pagine in inglese del sito ufficiale."
+  "links_note": "I link a strumenti, condizioni e programma di affiliazione qui sotto aprono le pagine in inglese del sito ufficiale.",
+  "project_image_captions": [
+    "Copertina della guida alla composizione con un disco arancione. Illustrazione editoriale originale con testo in inglese, non una schermata del prodotto.",
+    "Flusso illustrato: scegli la musica → pianifica le inquadrature → genera le immagini → monta ed esporta. Illustrazione concettuale in inglese, non una schermata del prodotto né il risultato di un test video."
+  ],
+  "image_zoom": "Visualizza immagine originale ↗"
 }

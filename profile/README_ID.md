@@ -34,10 +34,29 @@ Lagu pop akustik yang hangat untuk perjalanan pulang dengan kereta yang tenang. 
 
 Lagu yang sudah jadi tidak memperlihatkan setiap keputusan di baliknya. Kami membagikan perintah, referensi sumber, dan latihan bertahap agar Anda dapat mempelajari pilihan tersebut, menerapkannya pada karya sendiri, serta membantu memperbaiki panduan. Repositori ini membagikan materi pembelajaran; layanan daring MusicMaker merupakan produk tersendiri.
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>Untuk penulis lagu: jelajahi referensi resmi Suno, contoh untuk didengarkan, perintah, lirik orisinal, dan solusi praktis. Panduan ini disusun secara independen dan bukan dokumentasi resmi Suno.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md"><b>Buka panduan penulisan lagu →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>Untuk kreator video: kembangkan lagu menjadi rencana pengambilan gambar dengan contoh bertautan sumber, perintah yang bisa disalin, dan latihan penyuntingan. Contoh karya kreator dan latihan yang baru ditulis diberi penanda terpisah.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md"><b>Rencanakan video musik pertama Anda →</b></a></td>
-</tr></table>
+### ♫ Awesome Suno Creator Guide
+
+Untuk penulis lagu: jelajahi referensi resmi Suno, contoh untuk didengarkan, perintah, lirik orisinal, dan solusi praktis. Panduan ini disusun secara independen dan bukan dokumentasi resmi Suno.
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Sampul panduan penulisan lagu bergambar piringan hitam oranye. Ilustrasi editorial orisinal dengan teks bahasa Inggris, bukan tangkapan layar produk."></a>
+
+Sampul panduan penulisan lagu bergambar piringan hitam oranye. Ilustrasi editorial orisinal dengan teks bahasa Inggris, bukan tangkapan layar produk.
+
+[Lihat gambar ukuran penuh ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
+
+**[Buka panduan penulisan lagu →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ID.md)**
+
+### ▶ Awesome Music Video Creator Guide
+
+Untuk kreator video: kembangkan lagu menjadi rencana pengambilan gambar dengan contoh bertautan sumber, perintah yang bisa disalin, dan latihan penyuntingan. Contoh karya kreator dan latihan yang baru ditulis diberi penanda terpisah.
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="Alur ilustratif: pilih musik → rencanakan adegan → buat visual → edit dan ekspor. Ilustrasi konsep berbahasa Inggris, bukan tangkapan layar produk atau hasil uji video."></a>
+
+Alur ilustratif: pilih musik → rencanakan adegan → buat visual → edit dan ekspor. Ilustrasi konsep berbahasa Inggris, bukan tangkapan layar produk atau hasil uji video.
+
+[Lihat gambar ukuran penuh ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
+
+**[Rencanakan video musik pertama Anda →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ID.md)**
 
 <a id="tools"></a>
 

@@ -94,5 +94,10 @@
     "Découvrir le programme d’affiliation →",
     "Lire l’accord d’affiliation"
   ],
-  "links_note": "Les liens vers les outils, les conditions et le programme d’affiliation ci-dessous ouvrent les pages en anglais du site officiel."
+  "links_note": "Les liens vers les outils, les conditions et le programme d’affiliation ci-dessous ouvrent les pages en anglais du site officiel.",
+  "project_image_captions": [
+    "Couverture du guide de composition avec un disque vinyle orange. Illustration éditoriale originale avec du texte en anglais, et non une capture d’écran du produit.",
+    "Parcours illustré : choisir la musique → préparer les plans → générer les images → monter et exporter. Illustration conceptuelle en anglais, et non une capture du produit ou le résultat d’un test vidéo."
+  ],
+  "image_zoom": "Voir l’image en taille réelle ↗"
 }

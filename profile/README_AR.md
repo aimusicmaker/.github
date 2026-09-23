@@ -36,10 +36,29 @@
 
 لا تكشف الأغنية المكتملة كل القرارات التي أدت إليها. ننشر نصوص التوجيه والمراجع المصدرية وتمارين متدرجة لتدرس هذه الخيارات وتكيّفها مع أعمالك وتساعد في تحسين الأدلة. تشارك المستودعات مواد تعليمية؛ أما خدمة MusicMaker المتاحة عبر الإنترنت فهي منتج منفصل.
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>لمؤلفي الأغاني: استكشف مراجع Suno الرسمية وأمثلة للاستماع ونصوص توجيه وكلمات أصلية وحلولًا عملية. هذا دليل أُعدّ بصورة مستقلة، وليس توثيقًا رسميًا من Suno.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_AR.md"><b>افتح دليل تأليف الأغاني →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>لصنّاع الفيديو: انتقل من الأغنية إلى خطة للقطات، مع أمثلة مرتبطة بمصادرها ونصوص توجيه قابلة للنسخ وتمارين للمونتاج. تُميَّز أمثلة المبدعين عن التمارين المكتوبة حديثًا.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_AR.md"><b>خطّط لأول فيديو موسيقي لك →</b></a></td>
-</tr></table>
+### ♫ Awesome Suno Creator Guide
+
+لمؤلفي الأغاني: استكشف مراجع Suno الرسمية وأمثلة للاستماع ونصوص توجيه وكلمات أصلية وحلولًا عملية. هذا دليل أُعدّ بصورة مستقلة، وليس توثيقًا رسميًا من Suno.
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="غلاف دليل تأليف الأغاني بأسطوانة برتقالية. رسم تحريري أصلي بكتابة إنجليزية، وليس لقطة شاشة للمنتج."></a>
+
+غلاف دليل تأليف الأغاني بأسطوانة برتقالية. رسم تحريري أصلي بكتابة إنجليزية، وليس لقطة شاشة للمنتج.
+
+[عرض الصورة بالحجم الكامل ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
+
+**[افتح دليل تأليف الأغاني →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_AR.md)**
+
+### ▶ Awesome Music Video Creator Guide
+
+لصنّاع الفيديو: انتقل من الأغنية إلى خطة للقطات، مع أمثلة مرتبطة بمصادرها ونصوص توجيه قابلة للنسخ وتمارين للمونتاج. تُميَّز أمثلة المبدعين عن التمارين المكتوبة حديثًا.
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_AR.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="رسم يوضح مراحل العمل: اختيار الموسيقى، ثم تخطيط اللقطات، ثم إنشاء المشاهد، ثم المونتاج والتصدير. رسم تصوّري بالإنجليزية، وليس لقطة شاشة للمنتج أو نتيجة اختبار فيديو."></a>
+
+رسم يوضح مراحل العمل: اختيار الموسيقى، ثم تخطيط اللقطات، ثم إنشاء المشاهد، ثم المونتاج والتصدير. رسم تصوّري بالإنجليزية، وليس لقطة شاشة للمنتج أو نتيجة اختبار فيديو.
+
+[عرض الصورة بالحجم الكامل ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
+
+**[خطّط لأول فيديو موسيقي لك →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_AR.md)**
 
 <a id="tools"></a>
 

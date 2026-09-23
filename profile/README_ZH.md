@@ -34,10 +34,29 @@ MusicMaker 将歌曲生成、歌词创作、音频工具和音乐视觉制作放
 
 一首成品歌无法展示背后的每个选择。我们公开提示词、参考来源和分步练习，帮助你理解创作思路、用于自己的作品，也欢迎你改进指南。仓库分享的是学习资料；MusicMaker 在线服务是独立的产品。
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>面向写歌的人：查看 Suno 官方资料、试听参考、提示词、原创歌词及常见问题处理方法。这是独立整理的指南，不是 Suno 官方文档。</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ZH.md"><b>打开歌曲创作指南 →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>面向视频创作者：从歌曲出发规划镜头，使用附有来源的案例、可复制提示词和剪辑练习。指南区分了创作者案例与新编练习。</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ZH.md"><b>规划你的第一支音乐视频 →</b></a></td>
-</tr></table>
+### ♫ Awesome Suno Creator Guide
+
+面向写歌的人：查看 Suno 官方资料、试听参考、提示词、原创歌词及常见问题处理方法。这是独立整理的指南，不是 Suno 官方文档。
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="歌曲创作指南的橙色唱片封面。原创编辑插画，画面文字为英文，不是产品截图。"></a>
+
+歌曲创作指南的橙色唱片封面。原创编辑插画，画面文字为英文，不是产品截图。
+
+[查看原图 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
+
+**[打开歌曲创作指南 →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ZH.md)**
+
+### ▶ Awesome Music Video Creator Guide
+
+面向视频创作者：从歌曲出发规划镜头，使用附有来源的案例、可复制提示词和剪辑练习。指南区分了创作者案例与新编练习。
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ZH.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="流程示意：选择音乐 → 规划镜头 → 生成画面 → 剪辑导出。英文概念插画，不是产品截图，也不是视频实测成果。"></a>
+
+流程示意：选择音乐 → 规划镜头 → 生成画面 → 剪辑导出。英文概念插画，不是产品截图，也不是视频实测成果。
+
+[查看原图 ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
+
+**[规划你的第一支音乐视频 →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ZH.md)**
 
 <a id="tools"></a>
 

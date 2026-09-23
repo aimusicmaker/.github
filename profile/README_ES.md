@@ -34,10 +34,29 @@ Una canción pop acústica cálida para un tranquilo viaje en tren de vuelta a c
 
 Una canción terminada no muestra todas las decisiones que hay detrás. Publicamos instrucciones, fuentes y ejercicios paso a paso para que puedas estudiar esas decisiones, adaptarlas a tu trabajo y ayudar a mejorar las guías. Los repositorios ofrecen materiales de aprendizaje; el servicio en línea de MusicMaker es un producto aparte.
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>Para compositores: explora referencias oficiales de Suno, ejemplos para escuchar, instrucciones, letras originales y soluciones prácticas. Esta guía elaborada de forma independiente no es la documentación oficial de Suno.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ES.md"><b>Abrir la guía de composición →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>Para creadores de vídeo: pasa de una canción a un plan de planos, con ejemplos enlazados a sus fuentes, instrucciones que puedes copiar y ejercicios de edición. Los ejemplos de creadores y los ejercicios nuevos se identifican por separado.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ES.md"><b>Planificar tu primer vídeo musical →</b></a></td>
-</tr></table>
+### ♫ Awesome Suno Creator Guide
+
+Para compositores: explora referencias oficiales de Suno, ejemplos para escuchar, instrucciones, letras originales y soluciones prácticas. Esta guía elaborada de forma independiente no es la documentación oficial de Suno.
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ES.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Portada de la guía de composición con un disco de vinilo naranja. Ilustración editorial original con texto en inglés; no es una captura de pantalla del producto."></a>
+
+Portada de la guía de composición con un disco de vinilo naranja. Ilustración editorial original con texto en inglés; no es una captura de pantalla del producto.
+
+[Ver imagen a tamaño completo ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
+
+**[Abrir la guía de composición →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_ES.md)**
+
+### ▶ Awesome Music Video Creator Guide
+
+Para creadores de vídeo: pasa de una canción a un plan de planos, con ejemplos enlazados a sus fuentes, instrucciones que puedes copiar y ejercicios de edición. Los ejemplos de creadores y los ejercicios nuevos se identifican por separado.
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ES.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="Proceso ilustrado: elegir música → planificar planos → generar imágenes → editar y exportar. Ilustración conceptual en inglés, no una captura del producto ni el resultado de una prueba de vídeo."></a>
+
+Proceso ilustrado: elegir música → planificar planos → generar imágenes → editar y exportar. Ilustración conceptual en inglés, no una captura del producto ni el resultado de una prueba de vídeo.
+
+[Ver imagen a tamaño completo ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
+
+**[Planificar tu primer vídeo musical →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_ES.md)**
 
 <a id="tools"></a>
 

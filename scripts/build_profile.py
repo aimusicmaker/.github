@@ -36,8 +36,10 @@ for code,name in LANGS:
  cards=[]
  for i,(slug,title,icon) in enumerate([('awesome-suno-creator-guide','Awesome Suno Creator Guide','♫'),('awesome-music-video-creator-guide','Awesome Music Video Creator Guide','▶')]):
   url=f'https://github.com/aimusicmaker/{slug}/blob/main/{file(code)}'
-  cards.append(f'<td width="50%" valign="top"><h3>{icon} {title}</h3><p>{html.escape(t["projects"][i])}</p><a href="{url}"><b>{html.escape(t["project_actions"][i])}</b></a></td>')
- sections += ['<table><tr>\n'+'\n'.join(cards)+'\n</tr></table>\n',f'<a id="tools"></a>\n\n## {t["tools_title"]}\n\n{t["links_note"]}\n','| '+' | '.join(t['table_headers'])+' |\n| :-- | :-- | :-- |']
+  asset = ['songwriting-guide.png', 'music-video-workflow.png'][i]
+  caption = html.escape(t['project_image_captions'][i], quote=True)
+  cards.append(f'### {icon} {title}\n\n{t["projects"][i]}\n\n<a href="{url}"><img src="{RAW}/assets/{asset}" width="900" alt="{caption}"></a>\n\n{t["project_image_captions"][i]}\n\n[{t["image_zoom"]}]({RAW}/assets/{asset})\n\n**[{t["project_actions"][i]}]({url})**\n')
+ sections += ['\n'.join(cards),f'<a id="tools"></a>\n\n## {t["tools_title"]}\n\n{t["links_note"]}\n','| '+' | '.join(t['table_headers'])+' |\n| :-- | :-- | :-- |']
  for row,route in zip(t['tools'],ROUTES): sections.append(f'| {row[0]} | [{row[1]}](https://musicmaker.im/{route}/) ↗ | {row[2]} |')
  sections += ['\n'+t['terms']+'\n\n'+' · '.join(f'[{label}](https://musicmaker.im/{route}/)' for label,route in zip(t['policy_links'],['pricing','commercial-license','terms-of-service']))+'\n',f'<a id="about"></a>\n\n## {t["trust_title"]}\n\n{t["trust"]}\n\n<details>\n<summary>{t["source_link"]}</summary>\n\n{t["reviewed"]}\n\n[{t["source_link"]}]({REPO}/blob/main/docs/SOURCES.md)\n\n</details>\n',f'## {t["contribute_title"]}\n\n{t["contribute"]}\n\n'+' · '.join(f'[{label}]({url})' for label,url in zip(t['contribute_links'],[REPO+'/issues','https://github.com/orgs/aimusicmaker/repositories','https://discord.gg/dykaXheA3e']))+'\n',f'<a id="affiliate"></a>\n\n## {t["affiliate_title"]}\n\n{t["affiliate"]}\n\n{t["affiliate_rules"]}\n\n{t["affiliate_steps"]}\n\n'+button(code,'affiliate',t['affiliate_actions'][0],'https://musicmaker.im/affiliate-program/','#9a3412')+f'\n\n[{t["affiliate_actions"][1]}](https://musicmaker.im/affiliate-agreement/)\n']
  content='\n'.join(sections)

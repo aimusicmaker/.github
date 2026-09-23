@@ -34,10 +34,29 @@ MusicMaker は、楽曲生成、作詞、音声ツール、音楽の映像制作
 
 完成した曲だけでは、制作中の判断までは見えません。そこで、プロンプト、参照元、段階的な練習課題を公開しています。制作上の選択を学び、自分の作品に応用し、ガイドの改善にも参加できます。各リポジトリは学習資料を共有する場です。オンラインで提供する MusicMaker サービスは、別の製品です。
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>作曲・作詞をする方へ：Suno の公式資料、試聴例、プロンプト、オリジナルの歌詞、具体的な改善方法を紹介します。独自に編集したガイドであり、Suno の公式ドキュメントではありません。</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_JA.md"><b>作曲・作詞ガイドを開く →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>動画制作者へ：曲からカット構成を考える方法を、出典付きの作例、コピーできるプロンプト、編集の練習課題で学べます。制作者の作例と、新たに作成した練習課題は区別して示しています。</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_JA.md"><b>初めてのミュージックビデオを計画する →</b></a></td>
-</tr></table>
+### ♫ Awesome Suno Creator Guide
+
+作曲・作詞をする方へ：Suno の公式資料、試聴例、プロンプト、オリジナルの歌詞、具体的な改善方法を紹介します。独自に編集したガイドであり、Suno の公式ドキュメントではありません。
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="作曲ガイドのオレンジ色のレコードを描いた表紙。英語の文字を使ったオリジナルの編集用イラストで、製品のスクリーンショットではありません。"></a>
+
+作曲ガイドのオレンジ色のレコードを描いた表紙。英語の文字を使ったオリジナルの編集用イラストで、製品のスクリーンショットではありません。
+
+[原寸画像を見る ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
+
+**[作曲・作詞ガイドを開く →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README_JA.md)**
+
+### ▶ Awesome Music Video Creator Guide
+
+動画制作者へ：曲からカット構成を考える方法を、出典付きの作例、コピーできるプロンプト、編集の練習課題で学べます。制作者の作例と、新たに作成した練習課題は区別して示しています。
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_JA.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="制作の流れ：音楽を選ぶ → ショットを計画 → 映像を生成 → 編集・書き出し。英語の概念図であり、製品のスクリーンショットや動画の実測結果ではありません。"></a>
+
+制作の流れ：音楽を選ぶ → ショットを計画 → 映像を生成 → 編集・書き出し。英語の概念図であり、製品のスクリーンショットや動画の実測結果ではありません。
+
+[原寸画像を見る ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
+
+**[初めてのミュージックビデオを計画する →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README_JA.md)**
 
 <a id="tools"></a>
 

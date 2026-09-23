@@ -34,10 +34,29 @@ A warm acoustic pop song for a quiet train ride home. Gentle guitar and soft pia
 
 A finished track does not show every decision behind it. We publish prompts, source references and step-by-step exercises so you can study the choices, adapt them to your own work and help improve the guides. The repositories share learning materials; the hosted MusicMaker service is a separate product.
 
-<table><tr>
-<td width="50%" valign="top"><h3>♫ Awesome Suno Creator Guide</h3><p>For songwriters: explore official Suno references, listening examples, prompts, original lyrics and practical fixes. This independently curated guide is not official Suno documentation.</p><a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README.md"><b>Open the songwriting guide →</b></a></td>
-<td width="50%" valign="top"><h3>▶ Awesome Music Video Creator Guide</h3><p>For video creators: move from a song to a shot plan, with source-linked examples, copyable prompts and editing exercises. Creator examples and newly written exercises are identified separately.</p><a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README.md"><b>Plan your first music video →</b></a></td>
-</tr></table>
+### ♫ Awesome Suno Creator Guide
+
+For songwriters: explore official Suno references, listening examples, prompts, original lyrics and practical fixes. This independently curated guide is not official Suno documentation.
+
+<a href="https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png" width="900" alt="Orange vinyl cover for the songwriting guide. Original editorial artwork with English lettering; not a product screenshot."></a>
+
+Orange vinyl cover for the songwriting guide. Original editorial artwork with English lettering; not a product screenshot.
+
+[View full-size image ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/songwriting-guide.png)
+
+**[Open the songwriting guide →](https://github.com/aimusicmaker/awesome-suno-creator-guide/blob/main/README.md)**
+
+### ▶ Awesome Music Video Creator Guide
+
+For video creators: move from a song to a shot plan, with source-linked examples, copyable prompts and editing exercises. Creator examples and newly written exercises are identified separately.
+
+<a href="https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README.md"><img src="https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png" width="900" alt="Illustrated workflow: choose music → plan shots → generate → edit and export. English concept illustration, not a product screenshot or tested video result."></a>
+
+Illustrated workflow: choose music → plan shots → generate → edit and export. English concept illustration, not a product screenshot or tested video result.
+
+[View full-size image ↗](https://raw.githubusercontent.com/aimusicmaker/.github/main/assets/music-video-workflow.png)
+
+**[Plan your first music video →](https://github.com/aimusicmaker/awesome-music-video-creator-guide/blob/main/README.md)**
 
 <a id="tools"></a>
 
